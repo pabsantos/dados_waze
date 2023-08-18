@@ -1,0 +1,2367 @@
+﻿Day,Country,City,Street,Cause,Avg Length (Meters),Avg Delay (Seconds),Impacted Wazers
+"Jul 1, 2023",BR,Curitiba,Av. Linha Verde,null,624.75,127.125,1186
+"Jun 30, 2023",BR,Curitiba,R. Pe. Agostinho,null,561,348,364
+"Jun 30, 2023",BR,Curitiba,R. Alferes Poli,null,532,568.9375,552
+"Jun 30, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1774.4444444444443,749.1111111111111,6522
+"Jun 30, 2023",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,HAZARD,927.5,604.3333333333334,922
+"Jun 30, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,1129.15,804.0333333333333,15036
+"Jun 30, 2023",BR,Curitiba,R. das Carmelitas,null,668,454.75,50
+"Jun 30, 2023",BR,São José dos Pinhais,R. Dr. Motta Jr.,null,577.25,424.5,80
+"Jun 30, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,752.3636363636364,192.4090909090909,348
+"Jun 30, 2023",BR,Curitiba,R. Jaime Rodrigues da Rocha,null,873,542,28
+"Jun 30, 2023",BR,Curitiba,R. Frederico Maurer,null,664,248,14
+"Jun 30, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,878,943,50
+"Jun 30, 2023",BR,Curitiba,R. Carlos de Campos,null,588,696,22
+"Jun 30, 2023",BR,São José dos Pinhais,R. Paulino de Siqueira Cortes,null,917,593,30
+"Jun 30, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,3248.377358490566,1167.9811320754718,25382
+"Jun 30, 2023",BR,Curitiba,R. Prof. Guido Straube,null,771,405.5,60
+"Jun 30, 2023",BR,Curitiba,R. João Chede,null,868,706.8571428571429,446
+"Jun 30, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,null,12577.266666666666,2289.1666666666665,25916
+"Jun 30, 2023",BR,São José dos Pinhais,R. Dolovico Pissaia,null,588,1515,4
+"Jun 30, 2023",BR,Curitiba,Av. Paraná,null,912.5,582.1666666666666,296
+"Jun 30, 2023",BR,Curitiba,PR-092 Rod. dos Minérios,null,984.8,440.8,288
+"Jun 30, 2023",BR,São José dos Pinhais,R. Dr. Murici,null,596,4044,8
+"Jun 30, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,1365,401.5,470
+"Jun 30, 2023",BR,Colombo,R. Carlos Fontoura Falavinha,null,574,645.6666666666666,30
+"Jun 30, 2023",BR,Curitiba,R. Des. Isaías Beviláqua,null,507,647,235
+"Jun 30, 2023",BR,Curitiba,Al. D. Pedro II,null,544,1008,100
+"Jun 30, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,559,644,30
+"Jun 30, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,545.975,499.575,2235
+"Jun 30, 2023",BR,Curitiba,R. Evaristo da Veiga,null,638,806,6
+"Jun 30, 2023",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,893.8666666666667,574.5666666666667,5468
+"Jun 30, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,3549.6666666666665,550.5238095238095,10382
+"Jun 30, 2023",BR,Curitiba,R. Nova Esperança,null,813,1416,12
+"Jun 30, 2023",BR,Curitiba,Av. Anibal Khury,null,676,1423,84
+"Jun 30, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,629,824.5,94
+"Jun 30, 2023",BR,São José dos Pinhais,R. Dr. Marcelino Nogueira,null,565,727,42
+"Jun 30, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,755,949.1666666666666,30
+"Jun 30, 2023",BR,Curitiba,Marg. BR-116,null,1441.9444444444443,433.3796296296296,13101
+"Jun 30, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3539.7073170731705,642.4878048780488,13118
+"Jun 30, 2023",BR,Colombo,R. das Orquídeas,null,687,1024.875,24
+"Jun 30, 2023",BR,Curitiba,R. Ten. Tito Teixeira de Castro,null,746,839,40
+"Jun 30, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,11443.04347826087,3069.304347826087,17840
+"Jun 30, 2023",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,ACCIDENT,768,301.35714285714283,2946
+"Jun 30, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,1260.6666666666667,203.33333333333334,502
+"Jun 30, 2023",BR,Pinhais,R. Paranavaí,null,641,796,4
+"Jun 30, 2023",BR,Curitiba,R. Frei Teófilo,null,786,439,96
+"Jun 30, 2023",BR,Curitiba,R. Pe. Anchieta,null,819,963.5,36
+"Jun 30, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,785,602.5,42
+"Jun 30, 2023",BR,Curitiba,R. Euzébio da Motta,null,697,693.3333333333334,138
+"Jun 30, 2023",BR,Curitiba,R. Bispo Dom José,null,862,684.2,1620
+"Jun 30, 2023",BR,Curitiba,R. Eduardo Sprada,HAZARD,886.3571428571429,414,1192
+"Jun 30, 2023",BR,Curitiba,R. Paulo Gorski,null,612.7142857142857,452.2142857142857,3082
+"Jun 30, 2023",BR,Colombo,Av. Abel Scuissiato,null,525,621,76
+"Jun 30, 2023",BR,Curitiba,BR-376 Contorno Sul,null,6266.73717948718,799.4294871794872,73168
+"Jun 30, 2023",BR,Pinhais,R. 19 de Novembro,null,720,662,8
+"Jun 30, 2023",BR,Pinhais,R. Rio Trombetas,null,561,975.6666666666666,44
+"Jun 30, 2023",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,null,2436.7441860465115,541.8139534883721,16826
+"Jun 30, 2023",BR,Curitiba,R. Brigadeiro Franco,null,1612,698,1068
+"Jun 30, 2023",BR,Curitiba,R. Santo Antônio,null,638,1007.5,30
+"Jun 30, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,571,1170,6
+"Jun 30, 2023",BR,Curitiba,Av. Linha Verde,null,1878.094017094017,566.8675213675214,95748
+"Jun 30, 2023",BR,Curitiba,R. Orestes Thá,null,713,509.6666666666667,40
+"Jun 30, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,1786.2857142857142,370.85714285714283,74
+"Jun 30, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3471.125,333.875,2092
+"Jun 30, 2023",BR,São José dos Pinhais,R. João José Bowoniuk,null,947,522,14
+"Jun 30, 2023",BR,Araucária,Av. das Araucárias,null,2756.4166666666665,966.6041666666666,5548
+"Jun 30, 2023",BR,Curitiba,R. Eduardo Sprada,null,633.3181818181819,485.09090909090907,1078
+"Jun 30, 2023",BR,Curitiba,R. José Raksa,null,653,760.6666666666666,12
+"Jun 30, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,3994.4,295.8,1828
+"Jun 30, 2023",BR,Curitiba,R. Lodovico Kaminski,null,662,3085,10
+"Jun 30, 2023",BR,Curitiba,Av. Winston Churchill,null,583,1374,18
+"Jun 30, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4285.363636363636,832.1818181818181,4636
+"Jun 30, 2023",BR,Curitiba,R. Pres. Carlos Cavalcanti,null,1059.6666666666667,413.3333333333333,1640
+"Jun 30, 2023",BR,Curitiba,R. João Guariza,null,695,606,32
+"Jun 29, 2023",BR,Curitiba,Av. Winston Churchill,null,583,656,14
+"Jun 29, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,ACCIDENT,866.45,397.65,1296
+"Jun 29, 2023",BR,Curitiba,BR-116 S Contorno Leste,ACCIDENT,5574.181818181818,896,2904
+"Jun 29, 2023",BR,Curitiba,R. Alferes Poli,null,552.1111111111111,698.6944444444445,3454
+"Jun 29, 2023",BR,Curitiba,R. Pst. Manoel Virgínio de Souza,null,500,529.5,16
+"Jun 29, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,557,467,50
+"Jun 29, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,5876.64,497.18,8048
+"Jun 29, 2023",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,2071.909090909091,1025.909090909091,830
+"Jun 29, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,800.3793103448276,599.1724137931035,2458
+"Jun 29, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3063.5757575757575,496.22727272727275,7880
+"Jun 29, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,4534.234042553191,812.2765957446809,11728
+"Jun 29, 2023",BR,Campina Grande do Sul,R. Aniballe Ferrarini,null,670,431,8
+"Jun 29, 2023",BR,Curitiba,R. Santo Antônio,null,660,900,10
+"Jun 29, 2023",BR,Curitiba,Av. Paraná,null,583,504.5,18
+"Jun 29, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,4851.5,1378.25,840
+"Jun 29, 2023",BR,Curitiba,BR-376 Contorno Sul,null,6581.036363636364,1518.2,24286
+"Jun 29, 2023",BR,Curitiba,Av. Linha Verde,null,1733.2445193929175,971.5716694772344,62606
+"Jun 29, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1665.6716417910447,644.8059701492538,9375
+"Jun 29, 2023",BR,Curitiba,R. Maranhão,null,699.5,609.5,58
+"Jun 29, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,2254,728.24,4972
+"Jun 29, 2023",BR,Curitiba,R. Carneiro Lobo,null,712,412.55555555555554,2576
+"Jun 29, 2023",BR,Curitiba,R. Alferes Poli,HAZARD,557.8571428571429,604,756
+"Jun 29, 2023",BR,Curitiba,R. Gen. Carneiro,null,529,560,72
+"Jun 29, 2023",BR,Curitiba,R. Hipólito da Costa,null,1004,640.3333333333334,180
+"Jun 29, 2023",BR,Curitiba,R. Campos Sales,null,1163.3529411764705,488.29411764705884,5756
+"Jun 29, 2023",BR,Colombo,Est. da Graciosa,null,598,422,102
+"Jun 29, 2023",BR,Curitiba,Av. República Argentina,null,734.6666666666666,1202,67
+"Jun 29, 2023",BR,Pinhais,R. Euclides da Cunha,null,1049,1498,19
+"Jun 29, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,2790.4054054054054,543.0405405405405,8851
+"Jun 29, 2023",BR,São José dos Pinhais,R. Lourenço José de Paula,null,630,1289,20
+"Jun 29, 2023",BR,Curitiba,R. Odete Laura Foggiato,null,597,695,16
+"Jun 29, 2023",BR,Curitiba,,null,604.4545454545455,611.2727272727273,386
+"Jun 29, 2023",BR,Curitiba,R. João Chede,null,710,749,90
+"Jun 29, 2023",BR,Curitiba,Al. Nossa Senhora do Sagrado Coração,null,821.375,461.1875,1724
+"Jun 29, 2023",BR,Curitiba,BR-376 Contorno Sul,HAZARD,5420,2412.75,1262
+"Jun 29, 2023",BR,Curitiba,R. Basílio Fuck,null,541,1164,6
+"Jun 29, 2023",BR,Pinhais,R. Rep. Dominicana,null,509,478.25,27
+"Jun 29, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,610.6666666666666,526.3333333333334,34
+"Jun 29, 2023",BR,Curitiba,Est. do Ganchinho,null,579,353,252
+"Jun 29, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5069.170103092783,1118.5515463917525,21400
+"Jun 29, 2023",BR,Curitiba,R. João Reffo,null,607,822.5,14
+"Jun 29, 2023",BR,Curitiba,Av. João Gualberto,null,1501.5483870967741,670.1935483870968,3588
+"Jun 29, 2023",BR,Curitiba,R. Conde de São João das Duas Barras,null,889,630,24
+"Jun 29, 2023",BR,Curitiba,R. Francisco Sobania,null,556,956,8
+"Jun 29, 2023",BR,Curitiba,Av. Sete de Setembro,ACCIDENT,909.3928571428571,634.2857142857143,2772
+"Jun 29, 2023",BR,Curitiba,R. Rezala Simão,null,880.53125,371.15625,3010
+"Jun 29, 2023",BR,Curitiba,Marg. BR-116,ACCIDENT,1106.6,684.7333333333333,1744
+"Jun 29, 2023",BR,Curitiba,Marg. Av. Linha Verde,HAZARD,659.5,98.5,506
+"Jun 29, 2023",BR,Curitiba,R. Prof. João Falarz,null,744.3666666666667,436.96666666666664,1197
+"Jun 29, 2023",BR,Curitiba,R. Mário Gomes Cézar,null,689,1252,38
+"Jun 29, 2023",BR,Curitiba,Av. Sete de Setembro,null,788,443.75,326
+"Jun 29, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,null,1125.6190476190477,564.7619047619048,1272
+"Jun 29, 2023",BR,Curitiba,R. Raggi Izar,null,665,798,12
+"Jun 29, 2023",BR,Curitiba,R. Frei Henrique de Coimbra,null,651,580,12
+"Jun 29, 2023",BR,Curitiba,R. 1º de Maio,HAZARD,503,520,24
+"Jun 29, 2023",BR,Curitiba,R. Myltho Anselmo da Silva,null,672,857.5,34
+"Jun 29, 2023",BR,Curitiba,R. Campos Sales,ACCIDENT,1173,604.36,8524
+"Jun 29, 2023",BR,Curitiba,R. Ângelo Massignan,null,722,494.3333333333333,42
+"Jun 29, 2023",BR,Curitiba,R. Camões,null,566,548,18
+"Jun 29, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,664.5,1055.25,206
+"Jun 29, 2023",BR,Pinhais,R. Rio Solimões,null,521,423.5,12
+"Jun 29, 2023",BR,Curitiba,R. Anne Frank,null,915,1340,60
+"Jun 29, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,572,612,40
+"Jun 29, 2023",BR,Curitiba,R. Almirante Gonçalves,null,724,551,76
+"Jun 29, 2023",BR,Curitiba,Marg. BR-116,null,1375.909090909091,800.2424242424242,6623
+"Jun 29, 2023",BR,Curitiba,R. Isaías Régis de Miranda,null,679,615,24
+"Jun 29, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1630,698.8571428571429,4468
+"Jun 29, 2023",BR,Curitiba,R. Diogo Mugiatti,null,682,538.6666666666666,24
+"Jun 29, 2023",BR,Curitiba,R. Pe. Agostinho,null,663.7368421052631,623.0526315789474,4388
+"Jun 29, 2023",BR,São José dos Pinhais,R. Joinville,null,572,478,50
+"Jun 29, 2023",BR,Curitiba,R. José Merhy,null,605,427,10
+"Jun 29, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,1172.3055555555557,550.1666666666666,7514
+"Jun 29, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,1912,287.84615384615387,52
+"Jun 29, 2023",BR,Curitiba,R. Eng. Costa Barros,null,912.5,915,28
+"Jun 29, 2023",BR,Curitiba,R. Alberto Klemtz,null,522,585,24
+"Jun 29, 2023",BR,Curitiba,R. Goiânia,null,903,647,12
+"Jun 29, 2023",BR,Curitiba,R. São José dos Pinhais,null,524,523,10
+"Jun 29, 2023",BR,São José dos Pinhais,R. João Alceu Fialla,null,502,605,8
+"Jun 29, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,4109.086956521739,605.8913043478261,6383
+"Jun 29, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,2431.627450980392,2449.6666666666665,11018
+"Jun 29, 2023",BR,Curitiba,R. Eduardo Sprada,null,747.2,285.1,628
+"Jun 29, 2023",BR,Curitiba,R. Roberto Koch,null,661,895.5,30
+"Jun 29, 2023",BR,Curitiba,PR-418 Contorno Norte,null,3371.7131147540986,1052.7745901639344,11704
+"Jun 29, 2023",BR,Curitiba,R. Gabriel Ribeiro,null,549,448,4
+"Jun 29, 2023",BR,Curitiba,R. Cleto da Silva,null,509,802,32
+"Jun 29, 2023",BR,Curitiba,R. Pres. Rodrigo Otávio,null,502,1168,20
+"Jun 29, 2023",BR,Curitiba,R. Nunes Machado,null,506,995,12
+"Jun 28, 2023",BR,Curitiba,R. Eng. Ostoja Roguski,null,637.1489361702128,1069.9148936170213,4642
+"Jun 28, 2023",BR,Curitiba,R. Eng. Ostoja Roguski,ACCIDENT,646.9411764705883,952.2823529411764,7265
+"Jun 28, 2023",BR,Curitiba,BR-376 Contorno Sul,null,8652.75,656.84375,9076
+"Jun 28, 2023",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,ACCIDENT,1630.2,1801.7,4212
+"Jun 28, 2023",BR,Curitiba,R. Alberto Twardowski,null,530,608.3333333333334,468
+"Jun 28, 2023",BR,Curitiba,R. Isaías Régis de Miranda,null,886,704,16
+"Jun 28, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,HAZARD,819.390243902439,380.4756097560976,8012
+"Jun 28, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1329.235294117647,529.5882352941177,6696
+"Jun 28, 2023",BR,Curitiba,R. Rezala Simão,null,787.2333333333333,510.6666666666667,799
+"Jun 28, 2023",BR,Pinhais,R. Rio Paranapanema,null,519,595.6,20
+"Jun 28, 2023",BR,Curitiba,R. Gabriel Corisco Domingues,HAZARD,506,869,24
+"Jun 28, 2023",BR,Curitiba,R. Carlos de Laet,null,500,1242.1666666666667,72
+"Jun 28, 2023",BR,Curitiba,Av. Anita Garibaldi,ACCIDENT,979.625,356.125,346
+"Jun 28, 2023",BR,Curitiba,Av. Paraná,null,913.2,564.8,450
+"Jun 28, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,782.5,349,1740
+"Jun 28, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,HAZARD,639,390.25,1306
+"Jun 28, 2023",BR,Curitiba,R. José de Alencar,null,2055.591836734694,1191.469387755102,14282
+"Jun 28, 2023",BR,Curitiba,Marg. Linha Verde,HAZARD,773,1613.5,32
+"Jun 28, 2023",BR,Curitiba,R. Visc. do Rio Branco,null,759.3333333333334,499.6666666666667,74
+"Jun 28, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1717.764705882353,318.2352941176471,3965
+"Jun 28, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,866.1578947368421,472,512
+"Jun 28, 2023",BR,Curitiba,R. Brigadeiro Franco,null,989.3333333333334,424.8,6173
+"Jun 28, 2023",BR,São José dos Pinhais,R. Antônio Zaramella,null,740,677,4
+"Jun 28, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,2582,899.9090909090909,6782
+"Jun 28, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,1094,537,16
+"Jun 28, 2023",BR,Curitiba,R. Frei Teófilo,null,627.75,628.75,26
+"Jun 28, 2023",BR,Curitiba,R. Eng. Costa Barros,null,507,1263,10
+"Jun 28, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,1972.076923076923,389.15384615384613,4498
+"Jun 28, 2023",BR,Curitiba,R. Dr. Petrônio Romero de Souza,null,820,662,392
+"Jun 28, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,5199.090909090909,1096.8181818181818,4228
+"Jun 28, 2023",BR,Curitiba,R. Marquês do Paraná,null,651,789.5,40
+"Jun 28, 2023",BR,Curitiba,R. Affife Mansur,null,717,687.3333333333334,42
+"Jun 28, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1296.3,460.375,9175
+"Jun 28, 2023",BR,Pinhais,R. Guilherme Weiss,null,631,587,18
+"Jun 28, 2023",BR,Curitiba,R. Adílio Ramos,null,639,614,31
+"Jun 28, 2023",BR,São José dos Pinhais,,null,652,481,26
+"Jun 28, 2023",BR,Curitiba,R. Brasílio Itiberê,ACCIDENT,1265,664,3238
+"Jun 28, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,ACCIDENT,2134.6,848.6,1704
+"Jun 28, 2023",BR,Curitiba,R. Tenente Miguel Afonso Ribeiro Cubas,null,543,489.3333333333333,172
+"Jun 28, 2023",BR,Curitiba,R. Teófilo Soares Gomes,null,871,1332.25,82
+"Jun 28, 2023",BR,Curitiba,Av. João Gualberto,null,625,521.3333333333334,112
+"Jun 28, 2023",BR,Curitiba,R. Tamoios,null,713,297.5,36
+"Jun 28, 2023",BR,Curitiba,R. Buenos Aires,null,537,542.6666666666666,216
+"Jun 28, 2023",BR,Curitiba,R. Irmã Flávia Borlet,null,745.25,483.25,38
+"Jun 28, 2023",BR,Piraquara,PR-415 Rod. João Leopoldo Jacomel,null,1127,648.6666666666666,32
+"Jun 28, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,4566.28125,656.3125,20446
+"Jun 28, 2023",BR,Curitiba,BR-116 S Contorno Leste,ACCIDENT,5338,1333.3333333333333,576
+"Jun 28, 2023",BR,Curitiba,PR-418 Contorno Norte,null,4145.380952380952,715.3928571428571,8025
+"Jun 28, 2023",BR,Curitiba,R. José Merhy,null,658,817,14
+"Jun 28, 2023",BR,Curitiba,R. Sete de Abril,null,510,479.3,1310
+"Jun 28, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5884.813725490196,949.5833333333334,38596
+"Jun 28, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,4512,493,542
+"Jun 28, 2023",BR,Curitiba,R. Lamenha Lins,null,1010.2894736842105,612.578947368421,2682
+"Jun 28, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,857.875,458.375,8272
+"Jun 28, 2023",BR,Curitiba,R. Dr. Carlos Bruno Breithaupt,null,586.7272727272727,345.54545454545456,940
+"Jun 28, 2023",BR,Curitiba,R. Mariano Torres - Pista Esq.,null,763.1052631578947,365.7894736842105,6456
+"Jun 28, 2023",BR,São José dos Pinhais,R. David Campista,null,673,833.5,36
+"Jun 28, 2023",BR,São José dos Pinhais,R. John Lennon,null,770,1138.5,8
+"Jun 28, 2023",BR,Curitiba,R. Laudelino Ferreira Lopes,null,563,488,10
+"Jun 28, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3531,707.3636363636364,1724
+"Jun 28, 2023",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,null,841,433.65,1561
+"Jun 28, 2023",BR,Pinhais,,null,531,459,26
+"Jun 28, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1686.7843137254902,478.1862745098039,18656
+"Jun 28, 2023",BR,Curitiba,R. Profa. Olga Balster,null,637,1013,6
+"Jun 28, 2023",BR,Curitiba,Av. Anita Garibaldi,null,1523,768,32
+"Jun 28, 2023",BR,Curitiba,R. Maestro Carlos Frank,null,1330.4285714285713,325.92857142857144,730
+"Jun 28, 2023",BR,Colombo,R. São Pedro,null,542,541.3333333333334,34
+"Jun 28, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,629,578,186
+"Jun 28, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,1277.121212121212,522.8787878787879,14150
+"Jun 28, 2023",BR,Curitiba,R. Darci Vargas,null,569,470,10
+"Jun 28, 2023",BR,Curitiba,R. Rezala Simão,HAZARD,1075.774193548387,954.8629032258065,4027
+"Jun 28, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,992,122.5,550
+"Jun 28, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,4198.35,427.6,15030
+"Jun 28, 2023",BR,Curitiba,R. Des. Isaías Beviláqua,null,565.6666666666666,557,50
+"Jun 28, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,606.75,517.75,48
+"Jun 28, 2023",BR,Curitiba,Marg. BR-116,null,1067.6,419.7,2124
+"Jun 28, 2023",BR,Curitiba,R. José de Alencar,HAZARD,2064.25,852.5,4386
+"Jun 28, 2023",BR,Curitiba,Al. Dr. Carlos de Carvalho,null,584,425.5,20
+"Jun 28, 2023",BR,Curitiba,R. Des. Motta,null,591,1048,114
+"Jun 28, 2023",BR,Curitiba,Av. Iguaçu,null,954,308.3636363636364,5266
+"Jun 28, 2023",BR,Curitiba,Av. Sete de Setembro,null,692,704,48
+"Jun 28, 2023",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,null,1307.5625,1140.6953125,18797
+"Jun 28, 2023",BR,Curitiba,Av. Alcir Martins Bastos,null,734,380,32
+"Jun 28, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,667.1842105263158,598.2105263157895,1308
+"Jun 28, 2023",BR,Curitiba,R. Mal. Deodoro,null,942.5,498.25,2288
+"Jun 28, 2023",BR,Curitiba,Av. Linha Verde,null,1842.6009852216748,438.1576354679803,26865
+"Jun 28, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,1006.7,539.05,971
+"Jun 28, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,ACCIDENT,894.8085106382979,824.8936170212766,6808
+"Jun 28, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,723.7619047619048,517.2142857142857,7827
+"Jun 28, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,4736.9,556.15,6641
+"Jun 28, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1010.7368421052631,463.3421052631579,4227
+"Jun 28, 2023",BR,São José dos Pinhais,R. Dr. Murici,null,1068.0588235294117,547.1176470588235,687
+"Jun 28, 2023",BR,Curitiba,Est. do Ganchinho,null,572,2047,10
+"Jun 28, 2023",BR,Curitiba,R. José Bajerski,ACCIDENT,550.9166666666666,385.25,184
+"Jun 28, 2023",BR,Pinhais,Av. Maringá,null,670.6666666666666,469.6666666666667,412
+"Jun 27, 2023",BR,Curitiba,R. Marcílio Dias,null,635,412.75,16
+"Jun 27, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,580.4444444444445,579.5,1154
+"Jun 27, 2023",BR,Curitiba,Av. Sete de Setembro,null,1167,678.84,5284
+"Jun 27, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,5698.777777777777,1364.111111111111,1864
+"Jun 27, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1001.8333333333334,638.1666666666666,7300
+"Jun 27, 2023",BR,Curitiba,R. Saldanha Marinho,HAZARD,541,432.375,1508
+"Jun 27, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,730,2193,52
+"Jun 27, 2023",BR,Curitiba,Av. Manoel Ribas,null,568,1484.5,5
+"Jun 27, 2023",BR,Curitiba,R. Engenheiros Rebouças,null,1151.68,623.5,18429
+"Jun 27, 2023",BR,Curitiba,Av. Iguaçu - Pista Dir.,null,848.9545454545455,429.34090909090907,8231
+"Jun 27, 2023",BR,Curitiba,Av. Cândido de Abreu,HAZARD,699,324.6666666666667,730
+"Jun 27, 2023",BR,São José dos Pinhais,R. Mal. Hermes,null,672,359.2,296
+"Jun 27, 2023",BR,Curitiba,R. Simão Brante,null,628,491,22
+"Jun 27, 2023",BR,São José dos Pinhais,R. Barão do Cerro Azul,null,544,805,28
+"Jun 27, 2023",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,3426.121212121212,485.3636363636364,5788
+"Jun 27, 2023",BR,Curitiba,R. Des. Motta,null,2183.608695652174,1144.0869565217392,22285
+"Jun 27, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,2218,921.9230769230769,42643
+"Jun 27, 2023",BR,Curitiba,Av. Ver. Toaldo Túlio,ACCIDENT,1222.5,1348.4444444444443,1508
+"Jun 27, 2023",BR,Curitiba,Av. Silva Jardim,null,1001.4,480.725,8277
+"Jun 27, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,750,673,22
+"Jun 27, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,3021.0833333333335,1528.5,8996
+"Jun 27, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,1294.25,368.9166666666667,5648
+"Jun 27, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,825.25,670.75,196
+"Jun 27, 2023",BR,Curitiba,Av. Linha Verde,null,1161.9285714285713,248.45535714285714,12548
+"Jun 27, 2023",BR,Piraquara,R. Betonex,null,520,586,70
+"Jun 27, 2023",BR,Curitiba,R. Osmário de Lima,null,720,1220.25,62
+"Jun 27, 2023",BR,Curitiba,R. Epaminondas Santos,null,800,469,10
+"Jun 27, 2023",BR,Curitiba,R. Prof. Fernando Moreira,null,878.3333333333334,585.0333333333333,3057
+"Jun 27, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,6903.901234567901,1491.3395061728395,22127
+"Jun 27, 2023",BR,Curitiba,R. Cel. Dulcídio,null,768.6666666666666,1307.8333333333333,780
+"Jun 27, 2023",BR,Curitiba,R. Almirante Gonçalves,null,1242.5714285714287,499.42857142857144,2186
+"Jun 27, 2023",BR,Curitiba,R. Des. Westphalen,null,529,920,8
+"Jun 27, 2023",BR,Curitiba,R. Natal,null,539,777.75,40
+"Jun 27, 2023",BR,Curitiba,R. Cambé,null,533,1266,12
+"Jun 27, 2023",BR,Curitiba,R. Buenos Aires,null,703,401.5,270
+"Jun 27, 2023",BR,Curitiba,R. Bom Jesus de Iguape,null,669,488,24
+"Jun 27, 2023",BR,Curitiba,Av. Monteiro Tourinho,null,1410.8191489361702,763.9148936170212,4691
+"Jun 27, 2023",BR,Curitiba,R. Visc. de Nácar,null,869.36,806.36,16713
+"Jun 27, 2023",BR,Colombo,R. Salto do Itararé,null,642.3333333333334,467,16
+"Jun 27, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,2256.6666666666665,926.25,23498
+"Jun 27, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,805,1315,38
+"Jun 27, 2023",BR,Curitiba,R. Prof. Nilo Brandão,null,552,359.1,119
+"Jun 27, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3524.858974358974,676.0833333333334,17040
+"Jun 27, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,HAZARD,1631,1024,768
+"Jun 27, 2023",BR,Curitiba,R. Raul Pompéia,null,660,517,36
+"Jun 27, 2023",BR,Curitiba,R. Luiz Leão,null,565,508.6666666666667,946
+"Jun 27, 2023",BR,Colombo,R. Genésio Moreschi,null,991,320.75,24
+"Jun 27, 2023",BR,Curitiba,Vd. Colorado,null,1070.1818181818182,407.1363636363636,2267
+"Jun 27, 2023",BR,Curitiba,Av. Prefeito Erasto Gaertner,null,1646.3529411764705,527.3235294117648,3218
+"Jun 27, 2023",BR,Curitiba,Av. Ver. Toaldo Túlio,null,811.551724137931,912.7586206896551,1942
+"Jun 27, 2023",BR,São José dos Pinhais,R. Ten. Luiz de Oliveira Quadros,null,574,475,12
+"Jun 27, 2023",BR,Curitiba,R. Carlos de Laet,null,670,315.5,32
+"Jun 27, 2023",BR,São José dos Pinhais,Marg. BR-376,null,550,1304,6
+"Jun 27, 2023",BR,Curitiba,R. Mário Gomes Cézar,null,509,486,10
+"Jun 27, 2023",BR,Curitiba,R. Profa Maria de Assumpção,null,554,317,32
+"Jun 27, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,4717.130434782609,463.67391304347825,6261
+"Jun 27, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,1355.75,578.25,2692
+"Jun 27, 2023",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1054.6,513.8,1944
+"Jun 27, 2023",BR,Curitiba,Al. Prudente de Moraes,null,506,606.7142857142857,118
+"Jun 27, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,HAZARD,877.5,510.45,455
+"Jun 27, 2023",BR,Curitiba,Al. D. Pedro II,null,647,483.95454545454544,724
+"Jun 27, 2023",BR,Curitiba,R. Manoel Eufrásio,null,648.25,451,52
+"Jun 27, 2023",BR,Curitiba,R. Luiz França,null,502,585.6666666666666,70
+"Jun 27, 2023",BR,Curitiba,R. Prof. Álvaro Jorge,null,578,664,370
+"Jun 27, 2023",BR,Curitiba,R. Bispo Dom José,null,829.75,325.5,1870
+"Jun 27, 2023",BR,Curitiba,Av. Cândido Hartmann,ACCIDENT,1068.3333333333333,309.1111111111111,2018
+"Jun 27, 2023",BR,Curitiba,R. Cândido Xavier,null,808,659,232
+"Jun 27, 2023",BR,Curitiba,Av. Cândido Hartmann,null,753,338.7142857142857,1276
+"Jun 27, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,752,861.1818181818181,6324
+"Jun 27, 2023",BR,Curitiba,R. Chile,null,1991.590909090909,665.5227272727273,20220
+"Jun 27, 2023",BR,Curitiba,R. Nicola Pellanda,null,682,471.5,28
+"Jun 27, 2023",BR,Curitiba,R. Ary Barroso,null,623,791,10
+"Jun 27, 2023",BR,Curitiba,R. José Pereira de Araújo,null,797.5,616.75,32
+"Jun 27, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,2328.4,637.2666666666667,4610
+"Jun 27, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,HAZARD,1943,829.1470588235294,9975
+"Jun 27, 2023",BR,Curitiba,R. Brigadeiro Franco,null,2221.3571428571427,727.2619047619048,17301
+"Jun 27, 2023",BR,Curitiba,Al. Dr. Carlos de Carvalho,null,810,512.5,1264
+"Jun 27, 2023",BR,Curitiba,R. Arthur Manoel Iwersen,null,587,749.5,26
+"Jun 27, 2023",BR,Curitiba,Av. Cândido de Abreu,null,699,449,512
+"Jun 27, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1722,653,6004
+"Jun 27, 2023",BR,Curitiba,R. Mateus Leme,null,575,646,92
+"Jun 27, 2023",BR,Curitiba,Est. das Olarias,null,762,603,16
+"Jun 27, 2023",BR,Curitiba,R. Francisco Rocha,null,1648.111111111111,658.5277777777778,11578
+"Jun 27, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,674,752,18
+"Jun 27, 2023",BR,Curitiba,R. Joaquim da Costa Ribeiro,null,799,1058,6
+"Jun 27, 2023",BR,Curitiba,R. Pe. Anchieta,null,655,539.2,194
+"Jun 27, 2023",BR,Curitiba,R. Maceió,null,726,798.5,16
+"Jun 27, 2023",BR,Curitiba,R. Tibagi,null,967.3333333333334,457.8095238095238,5382
+"Jun 27, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,2079.375,593.5,88
+"Jun 27, 2023",BR,Curitiba,R. Prof. Assis Gonçalves,null,575,494,52
+"Jun 26, 2023",BR,Curitiba,R. Diogo Mugiatti,null,586.25,1195.75,30
+"Jun 26, 2023",BR,Curitiba,R. Waldemar Kost,null,519,887.25,24
+"Jun 26, 2023",BR,Curitiba,R. Prof. Nivaldo Braga,null,747.88,584.08,1184
+"Jun 26, 2023",BR,Curitiba,R. Frederico Maurer,null,945.6666666666666,1489.6666666666667,44
+"Jun 26, 2023",BR,Curitiba,R. Frei Orlando,null,723,898,38
+"Jun 26, 2023",BR,Curitiba,R. João Benato Valle,null,659,781.6666666666666,58
+"Jun 26, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,null,736,317.75,344
+"Jun 26, 2023",BR,Curitiba,R. Cap. Argemiro Monteiro Wanderley,null,562,1169,13
+"Jun 26, 2023",BR,Piraquara,R. José Erasmo Storniolo,null,587,8080,8
+"Jun 26, 2023",BR,Curitiba,R. Buenos Aires,null,697,134.8,167
+"Jun 26, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2101.457142857143,473.9428571428571,11346
+"Jun 26, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3435.3684210526317,725.7894736842105,3556
+"Jun 26, 2023",BR,Curitiba,R. Simão Bolivar,null,530,634,36
+"Jun 26, 2023",BR,Curitiba,R. Brigadeiro Franco,null,1386.3333333333333,729.5,6184
+"Jun 26, 2023",BR,Curitiba,PR-418 Contorno Norte,null,2914.5,636.5,276
+"Jun 26, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1084.078431372549,513.4901960784314,1160
+"Jun 26, 2023",BR,Curitiba,R. Paul Garfunkel,null,502,349.1666666666667,260
+"Jun 26, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,603,157.5,58
+"Jun 26, 2023",BR,Curitiba,R. João Carlos de Souza Castro,null,654,679,12
+"Jun 26, 2023",BR,Curitiba,R. Cid Marcondes de Albuquerque,null,584,520,22
+"Jun 26, 2023",BR,Curitiba,R. Pará,null,608,669,16
+"Jun 26, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2603.8695652173915,741.4347826086956,13116
+"Jun 26, 2023",BR,Curitiba,R. Francisco Derosso,null,775.75,540,132
+"Jun 26, 2023",BR,Curitiba,R. Mons. Manoel Vicente,null,702,861,24
+"Jun 26, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,3774.2,379.4,40
+"Jun 26, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,506,453,20
+"Jun 26, 2023",BR,Curitiba,R. Celestino Messing de Siqueira,null,603,542.5,46
+"Jun 26, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,874,770,68
+"Jun 26, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,552,1245,6
+"Jun 26, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,ACCIDENT,756.1111111111111,557.1666666666666,1312
+"Jun 26, 2023",BR,Curitiba,R. Emanoel Voluz,null,779.3333333333334,819,1004
+"Jun 26, 2023",BR,Curitiba,PR-418 Contorno Norte,HAZARD,2131.75,643.25,282
+"Jun 26, 2023",BR,São José dos Pinhais,Av. João Fraga Neto,null,792,518,8
+"Jun 26, 2023",BR,Curitiba,R. João Viana Seiler,null,646,463,58
+"Jun 26, 2023",BR,Curitiba,R. Conselheiro Laurindo,null,754,708,14
+"Jun 26, 2023",BR,Curitiba,R. Baltazar Carrasco dos Reis,null,579.75,504.5,82
+"Jun 26, 2023",BR,Curitiba,R. Dep. Nilson Ribas,null,546,744.5,574
+"Jun 26, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,1176,482,20
+"Jun 26, 2023",BR,Curitiba,R. Profa. Joanita Bernett Passos,null,519,731,12
+"Jun 26, 2023",BR,Curitiba,R. Francisco Juglair,null,533,936.5,24
+"Jun 26, 2023",BR,São José dos Pinhais,R. Alcídio Viana,null,721,435.5,106
+"Jun 26, 2023",BR,Piraquara,R. Barão do Cerro Azul,null,655,954,6
+"Jun 26, 2023",BR,Curitiba,R. Rodolpho Senff Jr.,null,688,963,30
+"Jun 26, 2023",BR,Curitiba,Av. Paraná,null,779.4117647058823,565.0588235294117,920
+"Jun 26, 2023",BR,Curitiba,R. Cândido Xavier,null,901.5,535.5,896
+"Jun 26, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,730,1150.25,44
+"Jun 26, 2023",BR,Curitiba,Av. Linha Verde,null,1608.6117021276596,416.82978723404256,32391
+"Jun 26, 2023",BR,Curitiba,R. Carlos de Laet,null,552,1009,6
+"Jun 26, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1636.1470588235295,462.6862745098039,8263
+"Jun 26, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,2855.446808510638,460.5,9772
+"Jun 26, 2023",BR,Curitiba,Marg. BR-116,null,981.0645161290323,426.2258064516129,4156
+"Jun 26, 2023",BR,Curitiba,R. Eng. Ostoja Roguski,null,662.3636363636364,677.6363636363636,2676
+"Jun 25, 2023",BR,Curitiba,Al. Ecológica Burle Marx,null,1053.1628959276018,664.2488687782806,17662
+"Jun 25, 2023",BR,Curitiba,R. Maj. Vicente de Castro,null,836,955.25,35
+"Jun 25, 2023",BR,Curitiba,R. Mário Gomes Cézar,null,784,831,16
+"Jun 25, 2023",BR,Curitiba,R. Mateus Leme,null,1105.619718309859,470.17605633802816,38316
+"Jun 25, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1017.6842105263158,219.26315789473685,1778
+"Jun 25, 2023",BR,Curitiba,R. Dep. Mário de Barros,null,592,467.3125,3666
+"Jun 25, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,544,863,14
+"Jun 25, 2023",BR,Curitiba,Av. Winston Churchill,null,559,473,8
+"Jun 25, 2023",BR,Piraquara,R. Nova Tirol,null,1278.5,535.5,36
+"Jun 25, 2023",BR,Curitiba,R. Trajano Reis,null,593,351,1016
+"Jun 25, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,ACCIDENT,1994.1176470588234,262.29411764705884,7088
+"Jun 25, 2023",BR,Curitiba,BR-376 Contorno Sul,null,1077.2857142857142,335.7142857142857,1262
+"Jun 25, 2023",BR,Curitiba,R. João Azolin,null,928,486.5,6
+"Jun 25, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,2118.8,500.06666666666666,42
+"Jun 25, 2023",BR,Curitiba,R. Pedro Eloy de Souza,null,641,1151.5,20
+"Jun 25, 2023",BR,Curitiba,R. Dr. Aluízio França,null,1094.90625,338.65625,2712
+"Jun 25, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,ACCIDENT,1239,675.75,1478
+"Jun 25, 2023",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,602,376.8,136
+"Jun 25, 2023",BR,Curitiba,R. 13 de Maio,null,633,391.64285714285717,2296
+"Jun 25, 2023",BR,Curitiba,R. Moysés Marcondes,null,678,417.5,20
+"Jun 25, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,3048.181818181818,386.1666666666667,7658
+"Jun 25, 2023",BR,Curitiba,R. Araguaia,null,690,833,4
+"Jun 25, 2023",BR,São José dos Pinhais,R. Júlio César Setenareski,null,1802.2469135802469,877.6296296296297,4422
+"Jun 25, 2023",BR,Curitiba,Av. João Gualberto,null,1081.9255319148936,497.8244680851064,17350
+"Jun 25, 2023",BR,Colombo,R. Belo Horizonte,null,746,718,24
+"Jun 25, 2023",BR,Curitiba,V. Exclusiva Ônibus,null,858.5454545454545,537.7575757575758,778
+"Jun 25, 2023",BR,Piraquara,R. Betonex,null,1051.6,262.2,96
+"Jun 25, 2023",BR,Curitiba,Av. Cândido Hartmann,null,1165.0815789473684,527.6157894736842,44408
+"Jun 25, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,3501.222222222222,565.0555555555555,5334
+"Jun 25, 2023",BR,Curitiba,Av. Sete de Setembro,null,813,402,90
+"Jun 25, 2023",BR,Curitiba,Av. Paraná,null,669,489,10
+"Jun 25, 2023",BR,Curitiba,R. Sant'Ana,null,590,902,12
+"Jun 25, 2023",BR,Curitiba,,null,696,929.8064516129032,292
+"Jun 25, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,2821.1754385964914,2773.6666666666665,6110
+"Jun 25, 2023",BR,Curitiba,Av. Cândido de Abreu,null,698.8125,505.75,320
+"Jun 25, 2023",BR,Colombo,Av. São Gabriel,null,1049.2,309.2,55
+"Jun 25, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,3006.0689655172414,1743.896551724138,8166
+"Jun 25, 2023",BR,Curitiba,Marg. BR-116 Contorno Leste,ACCIDENT,614,552,98
+"Jun 25, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,874,468,1000
+"Jun 25, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2468.75,556.5,10222
+"Jun 25, 2023",BR,São José dos Pinhais,R. Carlos Hambrusch,null,533,509.75,24
+"Jun 25, 2023",BR,Curitiba,R. Santa Regina,null,534,769,6
+"Jun 25, 2023",BR,São José dos Pinhais,R. Joaquim Nabuco,null,569.2682926829268,464.7317073170732,1530
+"Jun 25, 2023",BR,Curitiba,R. Antônio Moreira Lopes,null,699.5,316.5,16
+"Jun 25, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,5298.63,502.63,26035
+"Jun 24, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,952.7586206896551,526.7068965517242,13426
+"Jun 24, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,HAZARD,3847.9,1240.9,4284
+"Jun 24, 2023",BR,Curitiba,R. Brigadeiro Franco,null,1907.7727272727273,853.5227272727273,15768
+"Jun 24, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,1319.8026315789473,708.8618421052631,18203
+"Jun 24, 2023",BR,Curitiba,R. Lamenha Lins,null,876.0357142857143,567.4642857142857,4974
+"Jun 24, 2023",BR,Curitiba,R. Prof. Orlando Alves Chaves,null,694,745.3333333333334,18
+"Jun 24, 2023",BR,Curitiba,R. Pe. Anchieta,null,519,128.5,46
+"Jun 24, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1474.1304347826087,638.695652173913,13864
+"Jun 24, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,574.8,466.6,18
+"Jun 24, 2023",BR,Curitiba,R. Santo Antônio,null,660,1087,8
+"Jun 24, 2023",BR,Curitiba,R. Atílio Bório,null,557,855,34
+"Jun 24, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1667,410.3333333333333,2394
+"Jun 24, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,1125.0662251655629,215.26490066225165,21892
+"Jun 24, 2023",BR,Curitiba,Av. Linha Verde,null,1606.608856088561,380.6125461254613,32524
+"Jun 24, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1205,475,268
+"Jun 24, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,3716.285714285714,774.3809523809524,9336
+"Jun 24, 2023",BR,Curitiba,Av. Sete de Setembro,null,1047.4615384615386,1225.6153846153845,1968
+"Jun 24, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2428,877.6666666666666,1912
+"Jun 24, 2023",BR,Curitiba,R. João Todeschini,null,800.2857142857143,506.42857142857144,34
+"Jun 24, 2023",BR,Curitiba,Av. Paraná,null,764,1040,10
+"Jun 24, 2023",BR,Curitiba,R. Cel. Dulcídio,null,1061.5217391304348,695.8586956521739,20644
+"Jun 24, 2023",BR,Curitiba,R. Maranhão,null,630,1170,16
+"Jun 24, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1634.2,651.2148148148148,39143
+"Jun 24, 2023",BR,Curitiba,R. Buenos Aires,null,537,879.6,674
+"Jun 24, 2023",BR,Curitiba,R. Dr. Aluízio França,null,995,418,50
+"Jun 24, 2023",BR,Curitiba,R. Isaías Régis de Miranda,null,890,1451.3333333333333,12
+"Jun 24, 2023",BR,Curitiba,R. Mal. José Bernardino Bormann,null,809,910,14
+"Jun 24, 2023",BR,Curitiba,R. Mário Gomes Cézar,null,599.3333333333334,577.6666666666666,34
+"Jun 24, 2023",BR,Curitiba,R. Fernandes de Barros,null,562,1036,32
+"Jun 24, 2023",BR,Curitiba,R. Maj. Vicente de Castro,null,698,943,28
+"Jun 24, 2023",BR,Curitiba,R. Francisco Derosso,null,588,654,50
+"Jun 24, 2023",BR,Curitiba,R. João Gava,null,910.203125,707.625,5692
+"Jun 24, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5512.009216589861,1568.9032258064517,31030
+"Jun 24, 2023",BR,Curitiba,R. Arcanjo São Rafael,null,503,732.8,78
+"Jun 24, 2023",BR,Curitiba,R. Dr. Pedro A. M. Barreto Monclaro,null,520,295.125,780
+"Jun 24, 2023",BR,Curitiba,R. Conselheiro Laurindo,null,624.8,480.3,346
+"Jun 24, 2023",BR,Curitiba,Av. Iguaçu - Pista Dir.,null,727.2380952380952,704.5238095238095,4392
+"Jun 24, 2023",BR,Curitiba,Av. República Argentina,null,784,500,28
+"Jun 24, 2023",BR,Curitiba,R. Almirante Gonçalves,null,1343,469,286
+"Jun 24, 2023",BR,Curitiba,R. Colombo,null,585,529,32
+"Jun 24, 2023",BR,Curitiba,R. Conselheiro Carrão,null,717,865,52
+"Jun 24, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,HAZARD,7533,2411.4444444444443,2854
+"Jun 24, 2023",BR,Curitiba,R. Vicente Geronasso,null,586,871.5,8
+"Jun 24, 2023",BR,Curitiba,R. Emb. Hipólito de Araújo,null,522,457.5,16
+"Jun 24, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,1710.2763157894738,485.3157894736842,7419
+"Jun 24, 2023",BR,Curitiba,Av. Iguaçu - Pista Esq.,null,643.88,584.42,6632
+"Jun 24, 2023",BR,Curitiba,Av. Iguaçu,null,995.3,480.8333333333333,16638
+"Jun 24, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1080.8673469387754,702.3571428571429,20182
+"Jun 24, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,668,597.3,164
+"Jun 24, 2023",BR,Curitiba,R. Mal. Mallet,null,504,436.2,102
+"Jun 24, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,705,553,34
+"Jun 24, 2023",BR,Curitiba,R. Sônia Maria,null,638,813,106
+"Jun 24, 2023",BR,Curitiba,Marg. BR-116,null,1180.25,380.875,5534
+"Jun 24, 2023",BR,Curitiba,R. Francisco Mota Machado,null,857,1404.5,24
+"Jun 24, 2023",BR,Curitiba,R. Bento Viana,null,1078.6734693877552,967.7142857142857,19317
+"Jun 24, 2023",BR,Curitiba,R. Tobias de Macedo Jr.,null,516,509,14
+"Jun 24, 2023",BR,Curitiba,R. Heitor Baggio Vidal,null,568,779.6666666666666,36
+"Jun 24, 2023",BR,Colombo,R. Felício Kania,null,687,864,10
+"Jun 24, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1105,894.2906976744187,11264
+"Jun 24, 2023",BR,Curitiba,R. Jorge Batista Crocetti,null,632,490,12
+"Jun 24, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,2636.4545454545455,346.8181818181818,2110
+"Jun 24, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,759,1323,12
+"Jun 24, 2023",BR,Curitiba,R. José Merhy,null,506,772,20
+"Jun 24, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,5185,1439,470
+"Jun 24, 2023",BR,São José dos Pinhais,R. Aníbal Silva,null,569,1309,16
+"Jun 24, 2023",BR,Curitiba,R. Fortaleza,null,1223.3333333333333,419.1666666666667,96
+"Jun 24, 2023",BR,Curitiba,Av. Água Verde,null,1255.6875,479.3125,8222
+"Jun 24, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1371.1666666666667,797.7166666666667,17163
+"Jun 24, 2023",BR,Curitiba,R. Canal Belém,null,564,462.5,4
+"Jun 24, 2023",BR,Curitiba,R. Maximino Zanon,null,532,492,68
+"Jun 23, 2023",BR,Curitiba,R. Laudelino Ferreira Lopes,null,936,636,8
+"Jun 23, 2023",BR,Curitiba,R. Capitão Leônidas Marques,null,667,470,6
+"Jun 23, 2023",BR,Curitiba,R. Tenente Miguel Afonso Ribeiro Cubas,null,543,575,138
+"Jun 23, 2023",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,null,564,530,2790
+"Jun 23, 2023",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,ACCIDENT,564,568.1634615384615,12696
+"Jun 23, 2023",BR,Curitiba,Av. Vicente Machado,null,929.9310344827586,723.8965517241379,12474
+"Jun 23, 2023",BR,Curitiba,R. Mal. Deodoro,HAZARD,908.5454545454545,425.1363636363636,8474
+"Jun 23, 2023",BR,Curitiba,R. André de Barros,null,804.1111111111111,544.5,2115
+"Jun 23, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,554,160.6,88
+"Jun 23, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,3272.809523809524,451.07142857142856,20848
+"Jun 23, 2023",BR,Curitiba,R. Eduardo Sprada,null,912.4857142857143,597.6285714285714,3496
+"Jun 23, 2023",BR,Curitiba,Al. Pres. Taunay,null,689,1011.3333333333334,30
+"Jun 23, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,3254,722.6153846153846,6938
+"Jun 23, 2023",BR,Curitiba,Av. Manoel Ribas,null,1048.6666666666667,616,184
+"Jun 23, 2023",BR,Curitiba,Av. Monteiro Tourinho,null,1364.7692307692307,488.0769230769231,1796
+"Jun 23, 2023",BR,Curitiba,Al. Dr. Muricy,null,739,213,202
+"Jun 23, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,561.25,814.25,80
+"Jun 23, 2023",BR,Curitiba,R. Irmã Flávia Borlet,null,520,880.5,16
+"Jun 23, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3079.52,439.92,7598
+"Jun 23, 2023",BR,Curitiba,R. Saldanha Marinho,HAZARD,541,564,1228
+"Jun 23, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,3036,527,1250
+"Jun 23, 2023",BR,Curitiba,R. Pe. Agostinho,null,966.2444444444444,586.0444444444445,15606
+"Jun 23, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,812,670.25,66
+"Jun 23, 2023",BR,Curitiba,R. Profa Maria de Assumpção,null,689,1519,12
+"Jun 23, 2023",BR,Curitiba,R. Paulo Gorski,null,631.7368421052631,489.63157894736844,1348
+"Jun 23, 2023",BR,Curitiba,R. Gov. Agamenon Magalhães,null,503,427.6666666666667,402
+"Jun 23, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1673.642857142857,751,9162
+"Jun 23, 2023",BR,Curitiba,R. Mal. Deodoro,null,674,375,2704
+"Jun 23, 2023",BR,Curitiba,R. Felisbino Passos,null,644,1296.2,84
+"Jun 23, 2023",BR,Curitiba,R. Frei Henrique de Coimbra,null,780,972,42
+"Jun 23, 2023",BR,Curitiba,R. Santa Rita Durão,null,529,651,6
+"Jun 23, 2023",BR,Curitiba,R. Solimões,null,525,691.6666666666666,18
+"Jun 23, 2023",BR,São José dos Pinhais,R. Dr. Motta Jr.,null,557,750,7
+"Jun 23, 2023",BR,Curitiba,R. Visc. de Nácar,null,852.3898305084746,643.5084745762712,13168
+"Jun 23, 2023",BR,Curitiba,BR-476 Rod. do Xisto,null,3189.4,252.7,4574
+"Jun 23, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,2974.6666666666665,1261.4375,7885
+"Jun 23, 2023",BR,São José dos Pinhais,Saída 103 A,null,653,519.3023255813954,742
+"Jun 23, 2023",BR,Curitiba,R. Mal. José Bernardino Bormann,null,774,682,18
+"Jun 23, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,3304.810810810811,1012.4594594594595,6795
+"Jun 23, 2023",BR,Curitiba,R. Mons. Manoel Vicente,null,586,907.5,48
+"Jun 23, 2023",BR,Curitiba,BR-376 Contorno Sul,null,2561.6470588235293,239.94117647058823,5138
+"Jun 23, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,ACCIDENT,618.75,287,278
+"Jun 23, 2023",BR,Curitiba,R. Pedro Gusso,null,840,1643,22
+"Jun 23, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2945.935483870968,1153.4516129032259,22738
+"Jun 23, 2023",BR,Curitiba,PR-418 Contorno Norte,null,4599.325581395349,493.16279069767444,5617
+"Jun 23, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,809,679.25,1148
+"Jun 23, 2023",BR,Curitiba,R. Augusto Stresser,null,1115,380,3838
+"Jun 23, 2023",BR,Curitiba,R. João Kasdorf,null,545,672,18
+"Jun 23, 2023",BR,Curitiba,Av. João Gualberto,null,632.8,987.2,30
+"Jun 23, 2023",BR,Curitiba,R. Prof. Júlio Theodorico Guimarães,null,561,561,10
+"Jun 23, 2023",BR,Curitiba,R. Diogo Mugiatti,null,652,1357.3333333333333,30
+"Jun 23, 2023",BR,Curitiba,R. Almirante Gonçalves,null,501,571,20
+"Jun 23, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,792,744.8029197080292,11261
+"Jun 23, 2023",BR,Curitiba,R. Paula Gomes,null,549,474.8333333333333,1654
+"Jun 23, 2023",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,HAZARD,1193.142857142857,735.1428571428571,376
+"Jun 23, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,1173.578947368421,373.6842105263158,4766
+"Jun 23, 2023",BR,Curitiba,R. Bispo Dom José,null,878.1111111111111,536.6666666666666,1903
+"Jun 23, 2023",BR,São José dos Pinhais,,null,596,730.2,40
+"Jun 23, 2023",BR,Curitiba,Av. Paraná,null,833,814,48
+"Jun 23, 2023",BR,Curitiba,R. Pe. Karol Dworaczek,null,535,1304,4
+"Jun 23, 2023",BR,Curitiba,R. Gen. Carneiro,null,591.5625,492.9375,2092
+"Jun 23, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,3379,324.44736842105266,9539
+"Jun 23, 2023",BR,Curitiba,R. Leon Tolstoi,null,772,402.5,16
+"Jun 23, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1128,531.6666666666666,2086
+"Jun 23, 2023",BR,Curitiba,Av. Pres. Kennedy,ACCIDENT,538.3333333333334,240.33333333333334,388
+"Jun 23, 2023",BR,Curitiba,Av. Nossa Senhora da Penha,null,624.3333333333334,512,1712
+"Jun 23, 2023",BR,Curitiba,BR-476 Rod. do Xisto,ACCIDENT,2200,453.25,2368
+"Jun 23, 2023",BR,Curitiba,R. Carneiro Lobo,null,759.5,474,1136
+"Jun 23, 2023",BR,Curitiba,R. Câmara Jr.,null,539,815,10
+"Jun 23, 2023",BR,Curitiba,R. Carlos de Laet,null,584,739,32
+"Jun 23, 2023",BR,Curitiba,Av. Agostinho Leão Jr.,null,644,466.6,456
+"Jun 23, 2023",BR,Curitiba,R. Isaías Régis de Miranda,null,717.75,581.75,44
+"Jun 23, 2023",BR,Curitiba,BR-116 Contorno Leste,null,1765.388888888889,457.69444444444446,2180
+"Jun 23, 2023",BR,Pinhais,R. Jacarezinho,null,824,620.25,48
+"Jun 23, 2023",BR,Curitiba,R. Dr. Faivre,null,873,447.57142857142856,1884
+"Jun 23, 2023",BR,Curitiba,R. João Tobias de Paiva Netto,null,735,439,16
+"Jun 23, 2023",BR,Curitiba,Av. Prefeito Lothario Meissner,null,979.0909090909091,537.5454545454545,3924
+"Jun 23, 2023",BR,Curitiba,Av. Pres. Kennedy,null,907.8695652173913,324.19565217391306,4392
+"Jun 23, 2023",BR,Curitiba,R. Bruno Filgueira,null,526,662,54
+"Jun 23, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,758,581,26
+"Jun 23, 2023",BR,Curitiba,R. Affife Mansur,null,717,455.25,28
+"Jun 23, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,1749.7857142857142,293.07142857142856,5400
+"Jun 23, 2023",BR,Curitiba,R. Maranhão,null,618,1131.25,54
+"Jun 23, 2023",BR,Curitiba,,null,549,838.8333333333334,46
+"Jun 23, 2023",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,ACCIDENT,1181,1239,160
+"Jun 23, 2023",BR,Curitiba,R. Imaculada Conceição,null,922.7777777777778,625.5555555555555,1930
+"Jun 23, 2023",BR,Curitiba,R. Francisco Mota Machado,null,933,1406.125,127
+"Jun 23, 2023",BR,Curitiba,R. Atílio Bório,null,524,521.5,26
+"Jun 23, 2023",BR,Curitiba,R. André de Barros,HAZARD,814.265306122449,626.530612244898,12232
+"Jun 23, 2023",BR,Curitiba,Av. Henry Ford,null,609,468,14
+"Jun 23, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,613,1711.857142857143,94
+"Jun 23, 2023",BR,Curitiba,Av. Linha Verde,null,2821.5436893203882,860.5145631067961,27893
+"Jun 23, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,1207,408.25,1092
+"Jun 23, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,567,629,62
+"Jun 23, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4485.4756335282655,1221.662768031189,49535
+"Jun 23, 2023",BR,Curitiba,R. Olívio Domingos Leonardi,null,699,575.3333333333334,24
+"Jun 23, 2023",BR,Curitiba,R. Augusto Severo,null,631.5,340.25,3953
+"Jun 23, 2023",BR,Curitiba,R. Prof. Fernando Moreira,null,635.5714285714286,461.2857142857143,1228
+"Jun 23, 2023",BR,Curitiba,R. Saldanha Marinho,null,541,555.5,498
+"Jun 23, 2023",BR,Curitiba,R. Prof. Nilo Brandão,null,626.3571428571429,510,1306
+"Jun 23, 2023",BR,Curitiba,R. Marcelino Nogueira,null,505,910,44
+"Jun 23, 2023",BR,Curitiba,R. Francisco Derosso,null,911.8333333333334,502.5,1244
+"Jun 23, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,598.75,572.5,36
+"Jun 23, 2023",BR,Curitiba,Av. Sete de Setembro,null,1828,930.25,1142
+"Jun 23, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,null,1422.543795620438,740.0875912408759,16082
+"Jun 23, 2023",BR,Curitiba,R. Piquiri,null,1100,637,34
+"Jun 23, 2023",BR,Curitiba,Av. Winston Churchill,null,830,661,18
+"Jun 23, 2023",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,null,1770.0413223140497,992.6404958677685,16239
+"Jun 23, 2023",BR,Curitiba,R. Alferes Poli,null,538.3508771929825,578.3157894736842,3873
+"Jun 23, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,720,412.90909090909093,202
+"Jun 23, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,1316.1333333333334,267.3,480
+"Jun 22, 2023",BR,Curitiba,R. Eduardo Sprada,null,898.7435897435897,638.2820512820513,9060
+"Jun 22, 2023",BR,Curitiba,R. João Chede,null,710,762,242
+"Jun 22, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,1091.0526315789473,436.3157894736842,162
+"Jun 22, 2023",BR,Curitiba,R. Augusto Stresser,null,802.8148148148148,593.5370370370371,20712
+"Jun 22, 2023",BR,Curitiba,R. Agostinho Zaninelli,null,622,854,2
+"Jun 22, 2023",BR,Pinhais,Est. Ecológica de Pinhais,null,502,2924.5,12
+"Jun 22, 2023",BR,Curitiba,R. Chile,ACCIDENT,1349.888888888889,716.7777777777778,2348
+"Jun 22, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4171.677419354839,1160.4347826086957,68476
+"Jun 22, 2023",BR,Curitiba,R. João Gava,null,1166.4878048780488,717.2682926829268,4416
+"Jun 22, 2023",BR,Curitiba,R. Affife Mansur,null,792,582,24
+"Jun 22, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,ACCIDENT,720,442.7142857142857,166
+"Jun 22, 2023",BR,Curitiba,BR-376 Contorno Sul,null,5029.877118644068,1569.4618644067796,25757
+"Jun 22, 2023",BR,Curitiba,R. Tenente Júlio Jacoboski,null,614,628,6
+"Jun 22, 2023",BR,Curitiba,BR-116 Contorno Leste,HAZARD,1153,78,44
+"Jun 22, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,554,304.5,36
+"Jun 22, 2023",BR,Curitiba,R. Nova Esperança,null,618,722.8333333333334,66
+"Jun 22, 2023",BR,Curitiba,R. Cristiano Strobel,null,858,1211,8
+"Jun 22, 2023",BR,Curitiba,BR-116 S Contorno Leste,HAZARD,4825.846153846154,454.38461538461536,3294
+"Jun 22, 2023",BR,Curitiba,R. Augusto Severo,null,708.74,413.13,19137
+"Jun 22, 2023",BR,Curitiba,R. Mal. Deodoro,null,858.6,254.2,1692
+"Jun 22, 2023",BR,Curitiba,R. Nicola Pellanda,null,1540.6944444444443,638.3055555555555,6618
+"Jun 22, 2023",BR,Curitiba,R. José Loureiro,null,660.5555555555555,480.94444444444446,5414
+"Jun 22, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2013.55,634.8,7098
+"Jun 22, 2023",BR,Curitiba,R. Mariano Torres - Pista Dir.,null,919.7142857142857,641.8928571428571,15360
+"Jun 22, 2023",BR,Curitiba,R. Reinaldo de Carvalho-Bola,null,592,315,10
+"Jun 22, 2023",BR,Curitiba,R. Mal. Deodoro,HAZARD,1193.5,783.625,7760
+"Jun 22, 2023",BR,Curitiba,R. 15 de Novembro,null,1192.9032258064517,414.80645161290323,7465
+"Jun 22, 2023",BR,Curitiba,R. Alfredo Constantino Moro,null,510,1157.6666666666667,54
+"Jun 22, 2023",BR,São José dos Pinhais,Saída 103 A,null,653,507.625,1201
+"Jun 22, 2023",BR,Curitiba,PR-418 Contorno Norte,null,3697.9133858267714,744.0708661417323,11835
+"Jun 22, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2278.8888888888887,1743.0069444444443,31680
+"Jun 22, 2023",BR,Curitiba,R. Des. Westphalen,null,551,390,742
+"Jun 22, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,HAZARD,1645.111111111111,525.0555555555555,2282
+"Jun 22, 2023",BR,Curitiba,R. Visc. de Nácar,null,558,933.4,92
+"Jun 22, 2023",BR,Curitiba,R. Dr. Faivre,null,1059.4285714285713,919.2380952380952,16954
+"Jun 22, 2023",BR,Curitiba,R. Chile,null,1281.4285714285713,553.5714285714286,3312
+"Jun 22, 2023",BR,Pinhais,R. 7 de Setembro,null,533,734,18
+"Jun 22, 2023",BR,Curitiba,R. Paula Gomes,null,678.0909090909091,470.8181818181818,2972
+"Jun 22, 2023",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,null,1699.4,522.4,802
+"Jun 22, 2023",BR,Curitiba,R. Prof. Brasílio Ovídio da Costa,null,503,602,22
+"Jun 22, 2023",BR,Curitiba,Av. Paraná,null,718,586,202
+"Jun 22, 2023",BR,Curitiba,R. André de Barros,null,961,745.2142857142857,10708
+"Jun 22, 2023",BR,Curitiba,R. 13 de Maio,null,1077.525,738.15,17404
+"Jun 22, 2023",BR,Curitiba,R. Pres. Faria,null,638.8571428571429,602.5357142857143,2635
+"Jun 22, 2023",BR,Curitiba,BR-116 Contorno Leste,null,1849.875,274.625,926
+"Jun 22, 2023",BR,Curitiba,Est. do Ganchinho,null,767.125,346.875,334
+"Jun 22, 2023",BR,Curitiba,R. Prof. João Falarz,null,764.8421052631579,510.7280701754386,2443
+"Jun 22, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,HAZARD,3559.712643678161,1112.3908045977012,13541
+"Jun 22, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,842.8313253012049,618.0120481927711,11226
+"Jun 22, 2023",BR,Curitiba,R. Prof. João Soares Barcelos,null,708.4,644.6,2076
+"Jun 22, 2023",BR,Curitiba,R. Dr. Roberto Barrozo,null,1001.90625,430.28125,12514
+"Jun 22, 2023",BR,São José dos Pinhais,R. Pedro Trevisan,null,719,3202,36
+"Jun 22, 2023",BR,Curitiba,R. Carlos de Laet,null,667,509,48
+"Jun 22, 2023",BR,Curitiba,R. Frederico Cantarelli,null,592,503,800
+"Jun 22, 2023",BR,Curitiba,R. Conselheiro Laurindo,null,1599.92,799.84,13847
+"Jun 22, 2023",BR,Curitiba,R. Hayton da Silva Pereira,null,1152,523,50
+"Jun 22, 2023",BR,Curitiba,PR-418 Contorno Norte,HAZARD,2105.8333333333335,339.1666666666667,544
+"Jun 22, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,708.9722222222222,703.4305555555555,2595
+"Jun 22, 2023",BR,Curitiba,R. Barão de Antonina,null,618,638.2727272727273,4628
+"Jun 22, 2023",BR,Curitiba,Av. Linha Verde,null,1661.2957746478874,968.0774647887324,28877
+"Jun 22, 2023",BR,Curitiba,Via Exclusiva de ônibus,null,607,609.375,82
+"Jun 22, 2023",BR,Curitiba,Av. Ver. Toaldo Túlio,null,792.75,553.4166666666666,966
+"Jun 22, 2023",BR,Curitiba,R. João Antônio Xavier,null,714,1043,8
+"Jun 22, 2023",BR,Curitiba,R. Fortaleza,null,558,579.5,16
+"Jun 22, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,1275,462.6666666666667,2044
+"Jun 22, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,3197.878787878788,993.8008658008658,33165
+"Jun 22, 2023",BR,Curitiba,R. Manoel Eufrásio,null,894.125,604.84375,7838
+"Jun 22, 2023",BR,Curitiba,R. Mauá,null,905.4054054054054,326.94594594594594,7082
+"Jun 22, 2023",BR,Curitiba,R. Cap. Argemiro Monteiro Wanderley,null,524,538,22
+"Jun 22, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1993.1842105263158,1295.657894736842,18482
+"Jun 22, 2023",BR,Curitiba,R. Riachuelo,null,651,374.4,2642
+"Jun 22, 2023",BR,Curitiba,R. Leon Nicolas,null,514,699,60
+"Jun 22, 2023",BR,Curitiba,R. Mateus Leme,null,523,500,484
+"Jun 22, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,640,668.1428571428571,132
+"Jun 22, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,1592.6969696969697,952.969696969697,22476
+"Jun 22, 2023",BR,Curitiba,R. Des. Westphalen,HAZARD,553.3,435.8,1838
+"Jun 22, 2023",BR,Curitiba,Al. Dr. Muricy,HAZARD,607,676.4333333333333,3469
+"Jun 22, 2023",BR,Curitiba,R. João Stenzowski,null,618,964,12
+"Jun 22, 2023",BR,Curitiba,Vd. Colorado,null,1072.5862068965516,502.7586206896552,5450
+"Jun 22, 2023",BR,Colombo,R. João D'Agostin,null,570,772.4,40
+"Jun 22, 2023",BR,Curitiba,Marg. Av. Linha Verde,ACCIDENT,547,742.2307692307693,994
+"Jun 22, 2023",BR,Curitiba,R. Chile,HAZARD,1971.3333333333333,970.0833333333334,4060
+"Jun 22, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,5222.170542635659,615.1124031007752,40303
+"Jun 22, 2023",BR,Curitiba,R. Leonardo Novicki,null,515,447,14
+"Jun 22, 2023",BR,Curitiba,Av. Sete de Setembro,null,1493.7027027027027,880.0675675675676,13353
+"Jun 22, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,3561,1003.4444444444445,1192
+"Jun 22, 2023",BR,São José dos Pinhais,Al. Arpo,null,738,349,264
+"Jun 22, 2023",BR,Curitiba,V. Exclusiva Ônibus,null,1021,527.6,38
+"Jun 22, 2023",BR,Curitiba,R. Des. José Carlos Ribeiro Ribas,null,1243.3333333333333,455.27777777777777,1552
+"Jun 22, 2023",BR,Curitiba,R. José Kormann,null,554,988.6666666666666,54
+"Jun 22, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,null,1171.3636363636363,474.72727272727275,10234
+"Jun 22, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,564.2,954.4,84
+"Jun 22, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,629,533.5,106
+"Jun 22, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3447.7008547008545,577.3504273504274,8441
+"Jun 22, 2023",BR,Curitiba,R. Prof. Fábio de Souza,null,750.1111111111111,725.7777777777778,51
+"Jun 22, 2023",BR,Curitiba,R. Cleto da Silva,null,639,440,16
+"Jun 22, 2023",BR,Curitiba,Av. República Argentina,null,875,1811,30
+"Jun 22, 2023",BR,Curitiba,R. Gen. Mário Tourinho,ACCIDENT,1148.4,253,3146
+"Jun 22, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,567,637,278
+"Jun 22, 2023",BR,São José dos Pinhais,R. Constante Moro Sobrinho,null,584,1181,10
+"Jun 22, 2023",BR,Curitiba,R. Dr. Júlio Cesar Ribeiro de Souza,null,520,561.75,248
+"Jun 22, 2023",BR,Pinhais,R. Corbélia,null,554,1225.3333333333333,8
+"Jun 22, 2023",BR,Piraquara,Av. Antônio Meireles Sobrinho,null,693.25,322.375,204
+"Jun 22, 2023",BR,Curitiba,Av. Mal. Humberto de Alencar Castelo Branco,null,1043.5806451612902,466.8709677419355,9084
+"Jun 22, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1285.095238095238,521.8571428571429,9279
+"Jun 22, 2023",BR,Curitiba,R. 31 de Março,null,546,426.5,26
+"Jun 22, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,5037.033333333334,470.23333333333335,7149
+"Jun 22, 2023",BR,Curitiba,R. Eng. Costa Barros,null,617,526,40
+"Jun 22, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,818.2307692307693,733.6538461538462,2749
+"Jun 22, 2023",BR,Curitiba,R. Mariano Torres - Pista Esq.,null,851.0714285714286,632.125,8058
+"Jun 22, 2023",BR,São José dos Pinhais,R. Alfredo Mulhsted Filho,null,619,476,8
+"Jun 22, 2023",BR,Curitiba,Av. João Gualberto,null,1144.625,583.6625,12726
+"Jun 22, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1453.2142857142858,739.7321428571429,20145
+"Jun 22, 2023",BR,Curitiba,R. Alferes Poli,null,557.1388888888889,639.9166666666666,7893
+"Jun 22, 2023",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,3630.75,836,336
+"Jun 22, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,934.92,451.04,16176
+"Jun 22, 2023",BR,Curitiba,BR-376 Contorno Sul,HAZARD,3570.375,550.5,3479
+"Jun 22, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,null,1983.8181818181818,144.72727272727272,2430
+"Jun 22, 2023",BR,Curitiba,Av. Comendador Franco,null,1377.7142857142858,390,6376
+"Jun 22, 2023",BR,Curitiba,R. Luiz Leão,null,665.9041095890411,565.5890410958904,5930
+"Jun 22, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,835.3548387096774,503.83870967741933,10221
+"Jun 22, 2023",BR,Curitiba,Av. Cândido de Abreu,null,713.2894736842105,333.4342105263158,14501
+"Jun 22, 2023",BR,Curitiba,BR-116 S Contorno Leste,ACCIDENT,4335.142857142857,1137.7142857142858,1056
+"Jun 22, 2023",BR,Curitiba,R. Pe. Manuel da Nóbrega,null,640,558,10
+"Jun 22, 2023",BR,Curitiba,R. São Bento,null,649,896,16
+"Jun 22, 2023",BR,Curitiba,R. Omilio Monteiro Soares,null,656,984,14
+"Jun 22, 2023",BR,Curitiba,R. Tenente Cel. Vilagran Cabrita,null,805,717,12
+"Jun 21, 2023",BR,Curitiba,R. André de Barros,null,961,674.3,10266
+"Jun 21, 2023",BR,Curitiba,R. Ten. Tito Teixeira de Castro,null,509,478.5,34
+"Jun 21, 2023",BR,Curitiba,R. Lupionópolis,null,508,625,40
+"Jun 21, 2023",BR,São José dos Pinhais,R. Onofre Holthman,null,662,428.4,144
+"Jun 21, 2023",BR,Curitiba,PR-418 Contorno Norte,null,3080.720588235294,460.22058823529414,4816
+"Jun 21, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,787.4285714285714,387.85714285714283,588
+"Jun 21, 2023",BR,Curitiba,R. Dr. Bronislau O. Roguski,null,542,1274,26
+"Jun 21, 2023",BR,Curitiba,R. Bom Jesus,null,957,490,442
+"Jun 21, 2023",BR,Curitiba,R. Prof. Dário Veloso,null,517,877,36
+"Jun 21, 2023",BR,Curitiba,Marg. BR-277,null,647.5714285714286,659.1428571428571,574
+"Jun 21, 2023",BR,Curitiba,R. Robert Redzimski,null,701,491,18
+"Jun 21, 2023",BR,Curitiba,Al. Júlia da Costa,null,903.5384615384615,743,4181
+"Jun 21, 2023",BR,Curitiba,Av. Winston Churchill,null,948,442,100
+"Jun 21, 2023",BR,Curitiba,R. Emílio Romani,null,599,2724.5,8
+"Jun 21, 2023",BR,Piraquara,R. Juri Danilenko,null,671,617,18
+"Jun 21, 2023",BR,Curitiba,BR-476 Rod. do Xisto,ACCIDENT,3128.2105263157896,467.6842105263158,6582
+"Jun 21, 2023",BR,Curitiba,Av. Anita Garibaldi,null,1924.25,876.375,684
+"Jun 21, 2023",BR,Curitiba,BR-376 Contorno Sul,HAZARD,4886,560.1666666666666,2488
+"Jun 21, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,889.6134020618557,452.02061855670104,18834
+"Jun 21, 2023",BR,Curitiba,BR-476 Rod. do Xisto,null,2088,228.33333333333334,814
+"Jun 21, 2023",BR,Curitiba,R. Dr. Faivre,null,763.3333333333334,350.55555555555554,2280
+"Jun 21, 2023",BR,Curitiba,R. Conselheiro Laurindo,null,789.6,554.72,3389
+"Jun 21, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,1053.857142857143,1431.4285714285713,4048
+"Jun 21, 2023",BR,Curitiba,R. Pres. Rodrigo Otávio,null,502,1159,48
+"Jun 21, 2023",BR,Curitiba,R. Napoleão Laureano,null,518,856,12
+"Jun 21, 2023",BR,Curitiba,R. Maj. Vicente de Castro,null,808,390,10
+"Jun 21, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,3104.5,611.6818181818181,8829
+"Jun 21, 2023",BR,São José dos Pinhais,Av. Thomaz Carmeliano de Miranda,null,650,526.6666666666666,20
+"Jun 21, 2023",BR,Curitiba,R. Assis Figueiredo,null,676.5,644.5,24
+"Jun 21, 2023",BR,Curitiba,R. Eduardo Sprada,null,927.8965517241379,679.6034482758621,7029
+"Jun 21, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,685,421,10
+"Jun 21, 2023",BR,Curitiba,R. Gastão Câmara,null,708.4,668.2,3088
+"Jun 21, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,5290.210526315789,337.5,5952
+"Jun 21, 2023",BR,Curitiba,R. Dr. Aluízio França,null,543.5333333333333,914.1333333333333,2392
+"Jun 21, 2023",BR,Curitiba,R. Leon Tolstoi,null,615,790.5,8
+"Jun 21, 2023",BR,Curitiba,R. Tamoios,null,659,474,28
+"Jun 21, 2023",BR,Curitiba,R. Prof. Assis Gonçalves,null,703,980.5,28
+"Jun 21, 2023",BR,Curitiba,R. Gen. Mário Tourinho,ACCIDENT,1344.090909090909,1774.5454545454545,3735
+"Jun 21, 2023",BR,Curitiba,R. Caetano Marchesini,null,511,1010,38
+"Jun 21, 2023",BR,Curitiba,R. Ipiranga,null,648,314,1010
+"Jun 21, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,599,560.5,26
+"Jun 21, 2023",BR,Curitiba,R. Des. Isaías Beviláqua,null,604.3076923076923,795.6923076923077,272
+"Jun 21, 2023",BR,Curitiba,R. Prof. Brasílio Ovídio da Costa,null,523,856,10
+"Jun 21, 2023",BR,Curitiba,Av. Iguaçu - Pista Dir.,null,572,445.3333333333333,814
+"Jun 21, 2023",BR,Curitiba,Est. de Santa Cândida,null,1000,457.5,16
+"Jun 21, 2023",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1554.35,612.7,12452
+"Jun 21, 2023",BR,Curitiba,R. Cel. Pretextato Pena Forte Taborda Ribas,null,1061,493,54
+"Jun 21, 2023",BR,Curitiba,R. Niccolo Paganini,null,540,825,50
+"Jun 21, 2023",BR,Curitiba,R. Visc. do Serro Frio,null,540,635,38
+"Jun 21, 2023",BR,São José dos Pinhais,R. Cap. Tobias Pereira da Cruz,null,716,860,14
+"Jun 21, 2023",BR,Pinhais,R. Toledo,null,740,1112,8
+"Jun 21, 2023",BR,Curitiba,R. Buenos Aires,null,524,656,38
+"Jun 21, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,6218.75,545.5,1704
+"Jun 21, 2023",BR,Curitiba,R. Prof. João Falarz,null,990.390243902439,587.7926829268292,5197
+"Jun 21, 2023",BR,Curitiba,R. Raposo Tavares,null,793,711.9,664
+"Jun 21, 2023",BR,Curitiba,R. Raposo Tavares,ACCIDENT,759.875,656.625,276
+"Jun 21, 2023",BR,Curitiba,R. Hugo Kinzelmann,null,505,542,420
+"Jun 21, 2023",BR,Curitiba,R. Brazílio de Araújo,null,576,923,12
+"Jun 21, 2023",BR,Curitiba,R. Piquiri,null,790,575,22
+"Jun 21, 2023",BR,Campina Grande do Sul,PR-506 Rod. do Caqui,null,784.4,448,168
+"Jun 21, 2023",BR,Curitiba,R. Francisco Nunes,null,616,1128,24
+"Jun 21, 2023",BR,Curitiba,R. Conselheiro Laurindo,HAZARD,1120.8214285714287,677.3928571428571,11678
+"Jun 21, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2072.6341463414633,757.5365853658536,8560
+"Jun 21, 2023",BR,Curitiba,R. Raquel Prado,null,605,581,22
+"Jun 21, 2023",BR,Curitiba,Av. República Argentina,null,758.75,414.25,154
+"Jun 21, 2023",BR,Curitiba,R. Nestor Victor,null,830.6666666666666,548,92
+"Jun 21, 2023",BR,Colombo,R. Pres. Faria,null,656,445,18
+"Jun 21, 2023",BR,Curitiba,R. Alferes Poli,null,532,429,1052
+"Jun 21, 2023",BR,Curitiba,R. Prof. Nilo Brandão,null,577.6666666666666,483.5,178
+"Jun 21, 2023",BR,Curitiba,R. José Loureiro,null,621.8571428571429,567.6428571428571,4440
+"Jun 21, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,3255.090909090909,561.2727272727273,3264
+"Jun 21, 2023",BR,Curitiba,BR-376 Contorno Sul,null,5835.670520231214,1890.6676300578035,41543
+"Jun 21, 2023",BR,Curitiba,Av. Linha Verde,null,1445.2857142857142,476.2857142857143,5854
+"Jun 21, 2023",BR,Pinhais,R. Mandaguari,null,799,717,38
+"Jun 21, 2023",BR,Curitiba,Av. Cândido Hartmann,null,1294.3809523809523,832.6666666666666,7268
+"Jun 21, 2023",BR,Curitiba,R. Salomão Elias Feder,null,1005,790,6
+"Jun 20, 2023",BR,Curitiba,R. Via Veneto,null,1313.5555555555557,464.3333333333333,445
+"Jun 20, 2023",BR,Curitiba,R. Rockefeller,null,793,86,14
+"Jun 20, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,HAZARD,1879.2105263157894,506.7894736842105,9476
+"Jun 20, 2023",BR,Curitiba,R. João Bettega,null,731.7222222222222,398.3888888888889,1758
+"Jun 20, 2023",BR,São José dos Pinhais,Marg. da BR-376,null,665,1031.3333333333333,8
+"Jun 20, 2023",BR,Curitiba,R. Dr. Aluízio França,null,592,588,388
+"Jun 20, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1259.794642857143,473.2142857142857,1089
+"Jun 20, 2023",BR,Curitiba,R. Conselheiro Laurindo,null,538,218.33333333333334,378
+"Jun 20, 2023",BR,Curitiba,BR-476 Rod. do Xisto,null,3114.8,372.1714285714286,6891
+"Jun 20, 2023",BR,Curitiba,R. Lamenha Lins,null,701,575,7
+"Jun 20, 2023",BR,Curitiba,Av. Linha Verde,null,2194.5108225108224,562.6277056277056,52182
+"Jun 20, 2023",BR,Curitiba,Al. D. Pedro II,null,647,528.6666666666666,236
+"Jun 20, 2023",BR,Curitiba,R. Pe. Anchieta,null,638,670,32
+"Jun 20, 2023",BR,Curitiba,R. Oscar Wilde,null,591,1039,12
+"Jun 20, 2023",BR,Pinhais,R. Rio Paraná,null,521,1535.75,44
+"Jun 20, 2023",BR,Curitiba,Av. Paraná,null,907,667.5,900
+"Jun 20, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,2224.3333333333335,216.83333333333334,4598
+"Jun 20, 2023",BR,Curitiba,Av. João Gualberto,null,714,807,54
+"Jun 20, 2023",BR,Curitiba,R. Conselheiro Laurindo,HAZARD,1427.298245614035,742.9473684210526,9964
+"Jun 20, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,831.6190476190476,577.1547619047619,4731
+"Jun 20, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5049.142857142857,418.2857142857143,3198
+"Jun 20, 2023",BR,Curitiba,R. Câmara Jr.,null,735,805,6
+"Jun 20, 2023",BR,Curitiba,R. Rio Mucuri,null,718,770.5,12
+"Jun 20, 2023",BR,Curitiba,R. Antônio Gasparin,null,927.1428571428571,846.4285714285714,1946
+"Jun 20, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,736.3333333333334,676.6666666666666,52
+"Jun 20, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1027,377.42857142857144,532
+"Jun 20, 2023",BR,Curitiba,R. Teófilo Soares Gomes,null,559,774.75,48
+"Jun 20, 2023",BR,Curitiba,R. Eduardo Sprada,null,1033,577.1666666666666,654
+"Jun 20, 2023",BR,Curitiba,Av. do Batel,null,791.4705882352941,423.29411764705884,3548
+"Jun 20, 2023",BR,São José dos Pinhais,R. Constante Moro Sobrinho,null,661,1181,12
+"Jun 20, 2023",BR,Curitiba,R. Prof. Assis Gonçalves,null,848,781,20
+"Jun 20, 2023",BR,Curitiba,R. Emílio Romani,null,725.6666666666666,1249.6666666666667,26
+"Jun 20, 2023",BR,Curitiba,R. Pe. Agostinho,null,1242.483870967742,708.3870967741935,16838
+"Jun 20, 2023",BR,Curitiba,R. Caetano Marchesini,null,544,723,10
+"Jun 20, 2023",BR,Curitiba,Av. Cândido Hartmann,null,1232.6774193548388,601.7903225806451,9575
+"Jun 20, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,975,677.5,484
+"Jun 20, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,750,423,40
+"Jun 20, 2023",BR,Curitiba,R. Cleto da Silva,null,639,865.6666666666666,112
+"Jun 20, 2023",BR,Pinhais,R. 25 de Agosto,null,737,890,12
+"Jun 20, 2023",BR,Curitiba,R. Pst. Manoel Virgínio de Souza,null,789,840.5,36
+"Jun 20, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2766.720930232558,787.953488372093,10494
+"Jun 20, 2023",BR,Curitiba,R. Schiller,null,721,782.5,40
+"Jun 20, 2023",BR,Curitiba,PR-092 Rod. dos Minérios,null,782.4,450.8,124
+"Jun 20, 2023",BR,Curitiba,R. Tamoios,null,576,458.75,46
+"Jun 20, 2023",BR,São José dos Pinhais,Av. Renault,null,639,1179.0833333333333,652
+"Jun 20, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,null,1394.2857142857142,461.42857142857144,697
+"Jun 20, 2023",BR,Curitiba,Av. República Argentina,null,990.2352941176471,429.3529411764706,2294
+"Jun 20, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,1375.888888888889,616.8518518518518,3363
+"Jun 20, 2023",BR,Curitiba,R. Prof. Benedito Conceição,null,703,1207,16
+"Jun 20, 2023",BR,Curitiba,Av. Sete de Setembro,null,950.5714285714286,482.5,2688
+"Jun 20, 2023",BR,Curitiba,R. Mal. Hugo Panasco Alvim,null,536,1055,12
+"Jun 20, 2023",BR,Piraquara,Av. Antônio Meireles Sobrinho,null,649.2857142857143,373.7142857142857,182
+"Jun 20, 2023",BR,Almirante Tamandaré,PR-418 Contorno Norte,ACCIDENT,973.2857142857143,396.7142857142857,488
+"Jun 20, 2023",BR,Pinhais,R. Graça Aranha,null,628,557,12
+"Jun 20, 2023",BR,Almirante Tamandaré,PR-418 Contorno Norte,null,1232.2,528.6,658
+"Jun 20, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,918.7857142857143,379.85714285714283,224
+"Jun 20, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,2005,167.5,1178
+"Jun 20, 2023",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1032.3,298.4,3544
+"Jun 20, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,HAZARD,1015.2916666666666,390.5416666666667,2028
+"Jun 20, 2023",BR,Curitiba,R. Hayton da Silva Pereira,null,552,521,42
+"Jun 20, 2023",BR,Curitiba,R. Frederico Maurer,null,742,1428.75,86
+"Jun 20, 2023",BR,Piraquara,R. Barão do Cerro Azul,null,613.625,348.5,318
+"Jun 20, 2023",BR,Curitiba,R. São José dos Pinhais,null,524,852,20
+"Jun 20, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,629,359,116
+"Jun 20, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,603.8125,692.28125,815
+"Jun 20, 2023",BR,Curitiba,R. Maestro Francisco Antonello,null,531,504,18
+"Jun 20, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,802.5714285714286,1445.3333333333333,879
+"Jun 20, 2023",BR,Curitiba,R. Gastão Câmara,null,636.8571428571429,413.2857142857143,1458
+"Jun 20, 2023",BR,Curitiba,R. Parintins,null,905,464,24
+"Jun 20, 2023",BR,Curitiba,R. Ana Berta Roskamp,null,705,516.5,28
+"Jun 20, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,2588.090909090909,357.90909090909093,3864
+"Jun 20, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,726,543.1666666666666,2053
+"Jun 20, 2023",BR,Curitiba,R. Bom Jesus de Iguape,null,596.6,772.6,46
+"Jun 19, 2023",BR,Curitiba,Av. Linha Verde,null,1978.628205128205,458.52564102564105,41308
+"Jun 19, 2023",BR,Curitiba,Av. Paraná,null,686.375,714.5,230
+"Jun 19, 2023",BR,Curitiba,R. Bento Viana,null,823.4347826086956,919.4347826086956,4246
+"Jun 19, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,761.3529411764706,650.9411764705883,2563
+"Jun 19, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,559,594.5,66
+"Jun 19, 2023",BR,Curitiba,R. João Schleder Sobrinho,null,600,691,6
+"Jun 19, 2023",BR,Curitiba,R. Oyapock,null,594.8,740.7,1124
+"Jun 19, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1473,561,370
+"Jun 19, 2023",BR,Curitiba,BR-376 Contorno Sul,null,4351.704545454545,824.0681818181819,15718
+"Jun 19, 2023",BR,Curitiba,R. Dias da Rocha Filho,null,600,904,66
+"Jun 19, 2023",BR,Curitiba,R. Emílio de Menezes,null,659,921,14
+"Jun 19, 2023",BR,Curitiba,Av. Anita Garibaldi,null,1470,583.4444444444445,1362
+"Jun 19, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,null,1384.6666666666667,415.0769230769231,3522
+"Jun 19, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,890.7037037037037,483.037037037037,3838
+"Jun 19, 2023",BR,Curitiba,R. Santo Antônio,null,884.75,546.375,148
+"Jun 19, 2023",BR,Curitiba,R. Eng. Ostoja Roguski,null,576.1428571428571,569.8571428571429,2918
+"Jun 19, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,875.9318181818181,790.5227272727273,10462
+"Jun 19, 2023",BR,Curitiba,R. Alberto Twardowski,null,530,457.84615384615387,2458
+"Jun 19, 2023",BR,São José dos Pinhais,Av. das Torres,null,571,691,40
+"Jun 19, 2023",BR,Curitiba,R. Mato Grosso,null,595,719.2222222222222,178
+"Jun 19, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,2947.9,685.575,9376
+"Jun 19, 2023",BR,Curitiba,R. Luiz Leão,null,565,473.4516129032258,1652
+"Jun 19, 2023",BR,Curitiba,R. Francisco Mota Machado,null,631,409.75,148
+"Jun 19, 2023",BR,Curitiba,R. Bento Viana,ACCIDENT,771.6086956521739,1052.5652173913043,3968
+"Jun 19, 2023",BR,Curitiba,R. Ada Macaggi,null,641,847,8
+"Jun 19, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,741,909,120
+"Jun 19, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,1266.2857142857142,448.3809523809524,9658
+"Jun 19, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,1227,681,124
+"Jun 19, 2023",BR,Curitiba,R. dos Funcionários,null,623.4285714285714,495.42857142857144,678
+"Jun 19, 2023",BR,Curitiba,Av. Nossa Senhora da Penha,null,623.25,514,2450
+"Jun 19, 2023",BR,Curitiba,R. Eduardo Sprada,null,749.5833333333334,479.9166666666667,3490
+"Jun 19, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,1016,822.5714285714286,8316
+"Jun 19, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,ACCIDENT,924,1230,1774
+"Jun 19, 2023",BR,Curitiba,BR-116 Contorno Leste,null,1752.344827586207,446.7241379310345,4946
+"Jun 19, 2023",BR,Curitiba,R. Eduardo Pinto da Rocha,null,1393.4285714285713,822.8571428571429,160
+"Jun 19, 2023",BR,São José dos Pinhais,R. Pe. Bittencourt,null,679,564,28
+"Jun 19, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4742.8,565.9555555555555,19082
+"Jun 19, 2023",BR,Curitiba,R. Alfredo José Pinto,null,753,901.25,56
+"Jun 19, 2023",BR,Curitiba,Marg. Linha Verde,null,661,551.8571428571429,146
+"Jun 19, 2023",BR,Curitiba,Marg. BR-277,null,789.2,897.9333333333333,1482
+"Jun 19, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,801.1228070175439,441.9824561403509,2071
+"Jun 19, 2023",BR,Curitiba,R. Barão de Antonina,null,618,771.6,1640
+"Jun 19, 2023",BR,Curitiba,R. Cândido Xavier,null,584,503.6,388
+"Jun 19, 2023",BR,Curitiba,R. Osmário de Lima,null,762,626.5,18
+"Jun 19, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,552,358.5,26
+"Jun 19, 2023",BR,Curitiba,R. Henrique Martins Torres,null,513,1158.4,20
+"Jun 19, 2023",BR,Curitiba,R. Imaculada Conceição,null,859.7727272727273,1029.8636363636363,3528
+"Jun 19, 2023",BR,Curitiba,R. Ubaldino do Amaral,ACCIDENT,1007.6666666666666,313.3333333333333,876
+"Jun 19, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,833,605,352
+"Jun 19, 2023",BR,Curitiba,R. Ten. Brig. Francisco de A. C. de Mello,null,654,1221,10
+"Jun 19, 2023",BR,Curitiba,R. Maj. Vicente de Castro,null,699,960.5,32
+"Jun 19, 2023",BR,Colombo,Av. Londres,null,693,433,10
+"Jun 19, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,3766.965277777778,689.7465277777778,49289
+"Jun 19, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1430.638888888889,368.69444444444446,11126
+"Jun 19, 2023",BR,Curitiba,R. Napoleão Laureano,null,506,726,44
+"Jun 19, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1181.1333333333334,619.8333333333334,12797
+"Jun 19, 2023",BR,Curitiba,Av. Prefeito Lothario Meissner,null,997.8571428571429,669.6071428571429,5592
+"Jun 19, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,752,696.7777777777778,7996
+"Jun 19, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2576,1097,670
+"Jun 19, 2023",BR,São José dos Pinhais,R. Júlio César Setenareski,null,646,1829.7,12
+"Jun 19, 2023",BR,Colombo,R. dos Eucaliptos,null,509,421,14
+"Jun 19, 2023",BR,Curitiba,Av. Silva Jardim,null,1010.8888888888889,571.1481481481482,7024
+"Jun 19, 2023",BR,Curitiba,R. Saint Hilaire,null,720.3125,335,4546
+"Jun 19, 2023",BR,Curitiba,R. Prof. José Nogueira dos Santos,null,805,816,18
+"Jun 19, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,2949,434,308
+"Jun 19, 2023",BR,Curitiba,R. Dr. Aluízio França,null,816,416,8
+"Jun 19, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,582.2380952380952,562,850
+"Jun 19, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,HAZARD,4384.75,1194.625,6028
+"Jun 19, 2023",BR,Curitiba,Av. Comendador Franco,null,2475.5416666666665,763.1041666666666,47064
+"Jun 19, 2023",BR,Curitiba,R. Capitão João Ribas de Oliveira,null,559,521.5,38
+"Jun 19, 2023",BR,Curitiba,R. Buenos Aires,null,691,714.5,62
+"Jun 19, 2023",BR,Curitiba,R. Cel. Antônio Ricardo dos Santos,null,520,924.5,58
+"Jun 19, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,621.5102040816327,533.3265306122449,6530
+"Jun 19, 2023",BR,Curitiba,R. Augusto Stresser,null,1089.5,613.375,1312
+"Jun 19, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,4371.125,1683.875,3860
+"Jun 19, 2023",BR,Pinhais,R. Rio Tocantins,null,519,663,4
+"Jun 19, 2023",BR,Curitiba,R. Felisbino Passos,null,652.8461538461538,454.61538461538464,474
+"Jun 19, 2023",BR,São José dos Pinhais,R. Paulino de Siqueira Cortes,null,616,733,24
+"Jun 18, 2023",BR,Curitiba,Al. D. Pedro II,null,647,1182,38
+"Jun 18, 2023",BR,Curitiba,R. Isaías Régis de Miranda,null,856,686.3333333333334,18
+"Jun 18, 2023",BR,Curitiba,R. Schiller,null,544,961.5,28
+"Jun 18, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,3015.6470588235293,1948.8529411764705,6365
+"Jun 18, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,530,1074.6666666666667,58
+"Jun 18, 2023",BR,Curitiba,R. Costa Rica,null,699,783,36
+"Jun 18, 2023",BR,Curitiba,Al. Princesa Izabel,null,510,431,16
+"Jun 18, 2023",BR,Curitiba,R. Affife Mansur,null,717,795,12
+"Jun 18, 2023",BR,Curitiba,Av. dos Estados,null,632,624.3333333333334,38
+"Jun 18, 2023",BR,Curitiba,R. Prof. Guido Straube,null,604.6666666666666,381,16
+"Jun 18, 2023",BR,Curitiba,R. Jundiaí do Sul,null,567,873.3,20
+"Jun 18, 2023",BR,Curitiba,R. Atílio Bório,null,611,833,10
+"Jun 18, 2023",BR,São José dos Pinhais,R. Paulino de Siqueira Cortes,null,693,779.5,16
+"Jun 18, 2023",BR,São José dos Pinhais,R. John Lennon,null,601,540,6
+"Jun 18, 2023",BR,Curitiba,R. Natal,null,589,714.5,12
+"Jun 18, 2023",BR,Curitiba,R. Holanda,null,523,411.3333333333333,96
+"Jun 18, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,665,2185.8,24
+"Jun 18, 2023",BR,Curitiba,R. Imaculada Conceição,null,680,593.5,58
+"Jun 18, 2023",BR,Curitiba,R. Nicolau Serrato Sobrinho,null,633,601,6
+"Jun 18, 2023",BR,Curitiba,R. Eurico Fonseca dos Santos,null,505,471,8
+"Jun 18, 2023",BR,Curitiba,R. Cyro Correia Pereira,null,541,963,10
+"Jun 18, 2023",BR,Curitiba,,null,691.75,470.4642857142857,2500
+"Jun 18, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,1731.1666666666667,423.3333333333333,20
+"Jun 18, 2023",BR,Curitiba,R. Mal. José Bernardino Bormann,null,575,958.2,26
+"Jun 18, 2023",BR,Curitiba,Av. João Gualberto,null,702,940,6
+"Jun 18, 2023",BR,Curitiba,Av. República Argentina,null,952,589.8,118
+"Jun 18, 2023",BR,Curitiba,BR-376 Contorno Sul,null,2032.4545454545455,631.5454545454545,2306
+"Jun 18, 2023",BR,Curitiba,Av. Paraná,null,725.6923076923077,617.1538461538462,57
+"Jun 18, 2023",BR,Curitiba,R. Dr. Pamphilo d'Assumpção,null,698,433,14
+"Jun 18, 2023",BR,Piraquara,R. Isídio Alves Ribeiro,null,533,1667,3
+"Jun 18, 2023",BR,Curitiba,R. Emílio Romani,null,845,1026,10
+"Jun 17, 2023",BR,São José dos Pinhais,R. Joinville,null,572,655.3333333333334,48
+"Jun 17, 2023",BR,Curitiba,R. José Hauer,null,517,958,18
+"Jun 17, 2023",BR,Curitiba,R. Cristiano Strobel,null,895,446,8
+"Jun 17, 2023",BR,São José dos Pinhais,R. Janiópolis,null,507,650.5,12
+"Jun 17, 2023",BR,Pinhais,R. José Mariano dos Santos,null,528.3333333333334,700.6666666666666,42
+"Jun 17, 2023",BR,Almirante Tamandaré,R. Francisco Sandri,null,1679,560.4666666666667,30
+"Jun 17, 2023",BR,Curitiba,R. José Raksa,null,542,573,6
+"Jun 17, 2023",BR,Curitiba,R. Francisco Derosso,null,523,493,14
+"Jun 17, 2023",BR,Curitiba,R. Rockefeller,null,635,369,144
+"Jun 17, 2023",BR,Curitiba,R. Emanoel Voluz,ACCIDENT,721.2857142857143,864.8571428571429,2860
+"Jun 17, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,4384.75,489.45,2592
+"Jun 17, 2023",BR,Curitiba,R. Camões,null,566,673.3333333333334,68
+"Jun 17, 2023",BR,Curitiba,R. Frei Lívio Panizza,null,542,982,4
+"Jun 17, 2023",BR,São José dos Pinhais,R. Almirante Alexandrino,null,625,628,16
+"Jun 17, 2023",BR,Curitiba,R. Brasílio Cuman,null,638,1663.6,80
+"Jun 17, 2023",BR,Curitiba,R. Odair Pazello,null,585,490,86
+"Jun 17, 2023",BR,Curitiba,Est. do Ganchinho,null,854,1735.3333333333333,122
+"Jun 17, 2023",BR,Curitiba,R. João Tobias de Paiva Netto,null,558,1183,3
+"Jun 17, 2023",BR,Curitiba,R. Américo Vespúcio,null,645,943.5,32
+"Jun 17, 2023",BR,Curitiba,R. Nova Esperança,null,677.5,549,80
+"Jun 17, 2023",BR,Curitiba,R. Reinaldo Stocco,null,511,433,18
+"Jun 17, 2023",BR,São José dos Pinhais,R. Pedro Trevisan,null,719,460,28
+"Jun 17, 2023",BR,Curitiba,R. São Paulo,null,697,654.6666666666666,92
+"Jun 17, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,2494.375,428.625,1456
+"Jun 17, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4112.026315789473,1274.3815789473683,17534
+"Jun 17, 2023",BR,Curitiba,R. Omar Raymundo Picheth,null,579,470,232
+"Jun 17, 2023",BR,Curitiba,R. Luiz França,null,538,514,26
+"Jun 17, 2023",BR,Curitiba,R. Nicarágua,null,661,836,14
+"Jun 17, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,556,758.5,24
+"Jun 17, 2023",BR,Curitiba,R. José de Oliveira Franco,null,1123,622.5,34
+"Jun 17, 2023",BR,Curitiba,Av. República Argentina,null,813,944.3333333333334,116
+"Jun 17, 2023",BR,Curitiba,R. Emanoel Voluz,null,793.9016393442623,755.3770491803278,4277
+"Jun 17, 2023",BR,Curitiba,R. Prof. João Doetzer,null,549,463,22
+"Jun 17, 2023",BR,São José dos Pinhais,R. Duque de Caxias,null,617,749,44
+"Jun 17, 2023",BR,Curitiba,R. Sen. Batista de Oliveira,null,644,960.3333333333334,50
+"Jun 17, 2023",BR,Curitiba,R. Des. Otávio do Amaral,null,643,1224.1666666666667,21
+"Jun 17, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,603,531.25,48
+"Jun 17, 2023",BR,São José dos Pinhais,,null,652,587.3,133
+"Jun 17, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,3050.6923076923076,1270.2307692307693,2314
+"Jun 17, 2023",BR,Curitiba,R. Visc. do Rio Branco,null,630,1041,44
+"Jun 17, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,557,603,8
+"Jun 17, 2023",BR,Curitiba,Av. Paraná,null,861.3636363636364,626.0909090909091,100
+"Jun 17, 2023",BR,São José dos Pinhais,R. Dr. Motta Jr.,null,608.75,442.5,76
+"Jun 17, 2023",BR,Curitiba,R. Maj. Vicente de Castro,null,542,445,16
+"Jun 17, 2023",BR,Curitiba,R. Pe. Manuel da Nóbrega,null,549,477,8
+"Jun 17, 2023",BR,Curitiba,R. Nicolau Salomão,null,699,427,8
+"Jun 17, 2023",BR,Curitiba,R. Emanoel Voluz,HAZARD,551,186,138
+"Jun 17, 2023",BR,Curitiba,R. Eng. Costa Barros,null,730.5,934.5,60
+"Jun 17, 2023",BR,Curitiba,R. André Ferreira Barbosa,ACCIDENT,597,743.3333333333334,844
+"Jun 17, 2023",BR,Curitiba,R. Emílio Romani,null,907,2677,16
+"Jun 17, 2023",BR,Curitiba,Av. João Gualberto,null,692.3333333333334,1107.6,150
+"Jun 17, 2023",BR,Curitiba,R. Pedro Eloy de Souza,null,799,571,18
+"Jun 17, 2023",BR,Curitiba,R. Pedro Zagonel,null,696,769,24
+"Jun 16, 2023",BR,Curitiba,R. Alberico Flores Bueno,null,1168.3181818181818,448.27272727272725,5662
+"Jun 16, 2023",BR,Curitiba,R. Brasílio Itiberê,ACCIDENT,1445.3181818181818,883.3181818181819,8846
+"Jun 16, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,662,757,26
+"Jun 16, 2023",BR,Curitiba,R. João Alencar Guimarães,null,1605.258064516129,590.7096774193549,8774
+"Jun 16, 2023",BR,Curitiba,R. Augusto Stresser,null,1201,952,158
+"Jun 16, 2023",BR,Curitiba,R. Rio Grande do Norte,null,630,1003,8
+"Jun 16, 2023",BR,Curitiba,R. Prof. Brasílio Ovídio da Costa,null,580.6666666666666,861.6666666666666,36
+"Jun 16, 2023",BR,Campina Grande do Sul,R. Leonardo Francischelli,null,567.6,1163.6,24
+"Jun 16, 2023",BR,Curitiba,R. Camões,null,572,850,22
+"Jun 16, 2023",BR,Pinhais,R. Crescêncio Batista,null,572,1287.75,16
+"Jun 16, 2023",BR,Curitiba,R. Des. Ernani Guarita Cartaxo,null,749,605,18
+"Jun 16, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,883.4857142857143,603.7095238095238,13664
+"Jun 16, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1348.4666666666667,530.3,8338
+"Jun 16, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3412.5172413793102,662.0689655172414,6196
+"Jun 16, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1450,616.6666666666666,972
+"Jun 16, 2023",BR,Curitiba,R. Pe. Anchieta,null,565.6666666666666,588.3333333333334,52
+"Jun 16, 2023",BR,Curitiba,R. Marquês do Paraná,null,702,995,6
+"Jun 16, 2023",BR,Curitiba,R. Ubaldino do Amaral,HAZARD,744.8532338308457,577.679104477612,52968
+"Jun 16, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,820,592.3333333333334,80
+"Jun 16, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,3791.777777777778,474.75925925925924,11163
+"Jun 16, 2023",BR,Curitiba,R. Piquiri,null,960,818,20
+"Jun 16, 2023",BR,Curitiba,R. Itupava,HAZARD,520,570,104
+"Jun 16, 2023",BR,Curitiba,R. Ricardo Emílio Michel,null,935,252,30
+"Jun 16, 2023",BR,Curitiba,R. Mariano Torres - Pista Dir.,null,895.44,667.48,7002
+"Jun 16, 2023",BR,Curitiba,R. 13 de Maio,null,1116.4468085106382,721.2765957446809,8309
+"Jun 16, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,ACCIDENT,1317.625,567.875,1510
+"Jun 16, 2023",BR,Piraquara,Av. Antônio Meireles Sobrinho,null,708.7142857142857,323.42857142857144,106
+"Jun 16, 2023",BR,Curitiba,R. Imaculada Conceição,null,838.9565217391304,445.60869565217394,3952
+"Jun 16, 2023",BR,Curitiba,R. Brigadeiro Franco,null,2156.181818181818,787.6363636363636,10152
+"Jun 16, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3970.5833333333335,543.9166666666666,5588
+"Jun 16, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,1344.1666666666667,1017.5,4986
+"Jun 16, 2023",BR,Curitiba,R. Gonçalves Dias,null,706.875,407.75,1694
+"Jun 16, 2023",BR,Campina Grande do Sul,R. Profa. Nilce Terezinha Zanetti,null,745,504,6
+"Jun 16, 2023",BR,Curitiba,R. Prof. Sebastião Paraná,null,520,908.75,30
+"Jun 16, 2023",BR,Curitiba,Av. Manoel Ribas,null,842.625,524.375,644
+"Jun 16, 2023",BR,São José dos Pinhais,Av. das Torres,null,672.3333333333334,434.3333333333333,146
+"Jun 16, 2023",BR,Curitiba,R. Virgínia Dalabona,null,1028.25,512.75,70
+"Jun 16, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1393,695,826
+"Jun 16, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,3801.6710526315787,730.6907894736842,23736
+"Jun 16, 2023",BR,Curitiba,Av. Paraná,null,533,443.6666666666667,36
+"Jun 16, 2023",BR,Curitiba,R. José Benedito Cottolengo,null,575.75,572.5,354
+"Jun 16, 2023",BR,Curitiba,R. João Lunardeli,null,937.7,442.5,210
+"Jun 16, 2023",BR,Curitiba,R. Vieira Fazenda,null,641,695,10
+"Jun 16, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,1416.560975609756,902.959349593496,10188
+"Jun 16, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,603.8285714285714,623.5571428571428,2003
+"Jun 16, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,2556.945945945946,1320.8468468468468,17972
+"Jun 16, 2023",BR,Curitiba,R. Dr. Bronislau O. Roguski,null,727,720.5,8
+"Jun 16, 2023",BR,Curitiba,R. Bispo Dom José,null,838,750.3,3986
+"Jun 16, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,6946.818181818182,2314.2727272727275,11102
+"Jun 16, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,580.3333333333334,614.8888888888889,500
+"Jun 16, 2023",BR,Curitiba,Est. do Ganchinho,null,651,1142.5,20
+"Jun 16, 2023",BR,Curitiba,R. Amintas de Barros,null,700.527027027027,560.3243243243244,12822
+"Jun 16, 2023",BR,Curitiba,BR-376 Contorno Sul,null,6411.754838709678,1751.9903225806452,48989
+"Jun 16, 2023",BR,Curitiba,R. Mal. José Bernardino Bormann,null,820,998.6666666666666,42
+"Jun 16, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,HAZARD,1305.8181818181818,1005.0909090909091,1628
+"Jun 16, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,730,464,12
+"Jun 16, 2023",BR,Curitiba,R. Brasílio Itiberê,HAZARD,1674,1058,450
+"Jun 16, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1527.5384615384614,860.3653846153846,14346
+"Jun 16, 2023",BR,Curitiba,R. Prof. Benedito Conceição,null,1074,1189,8
+"Jun 16, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,1221.3333333333333,478.55555555555554,848
+"Jun 16, 2023",BR,Curitiba,Av. Linha Verde,null,1497.8076923076924,539.5192307692307,8365
+"Jun 16, 2023",BR,Curitiba,R. Silveira Peixoto,null,681.3181818181819,475.8181818181818,1316
+"Jun 16, 2023",BR,Curitiba,R. Riachuelo,null,651,532.9166666666666,3938
+"Jun 16, 2023",BR,Curitiba,Marg. Linha Verde,null,764.4347826086956,379.8695652173913,1298
+"Jun 16, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,1208.5833333333333,834.25,5646
+"Jun 16, 2023",BR,Curitiba,R. Dr. Faivre,null,762.0769230769231,511.6923076923077,4014
+"Jun 16, 2023",BR,Curitiba,R. Frederico Maurer,null,773,1428,12
+"Jun 16, 2023",BR,Curitiba,R. Bernardo Jacintho da Veiga,null,582,468.6,110
+"Jun 16, 2023",BR,Curitiba,Av. República Argentina,null,884.1666666666666,1187.1666666666667,250
+"Jun 16, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,null,1512,697,1398
+"Jun 16, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,568,151.5,68
+"Jun 16, 2023",BR,Curitiba,R. Lodovico Kaminski,null,544,560.25,146
+"Jun 16, 2023",BR,Curitiba,Marg. BR-116,null,1063.8846153846155,511.46153846153845,5948
+"Jun 16, 2023",BR,Pinhais,R. José de Alencar,null,592,368.5,8
+"Jun 16, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,865.5773195876288,877.639175257732,11915
+"Jun 16, 2023",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,1235.5,522.875,1462
+"Jun 16, 2023",BR,Curitiba,R. Carlos Essenfelder,null,1336,611,38
+"Jun 16, 2023",BR,Curitiba,Av. Monteiro Tourinho,null,1510.111111111111,472.22222222222223,1192
+"Jun 16, 2023",BR,Curitiba,R. Ricardo Emílio Michel,ACCIDENT,635.2666666666667,419.8,1204
+"Jun 16, 2023",BR,Curitiba,R. Ubaldino do Amaral,ACCIDENT,609,881.9230769230769,3450
+"Jun 16, 2023",BR,Curitiba,R. Amintas de Barros,HAZARD,1121,614,332
+"Jun 16, 2023",BR,Curitiba,R. João Chede,null,710,752.2777777777778,272
+"Jun 16, 2023",BR,Curitiba,R. Paulo Gorski,null,613.578947368421,473.8157894736842,2032
+"Jun 16, 2023",BR,Curitiba,R. Eng. Alberto Monteiro de Carvalho,null,716,1209,62
+"Jun 16, 2023",BR,Curitiba,R. Barão de Antonina,null,500,802,244
+"Jun 16, 2023",BR,Curitiba,R. Prof. Assis Gonçalves,null,974,1077,50
+"Jun 16, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5143,1272.265306122449,33356
+"Jun 16, 2023",BR,Curitiba,R. João Bettega,null,861.4155844155844,957.3506493506494,3225
+"Jun 16, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1020.3090909090909,598.2363636363636,2720
+"Jun 16, 2023",BR,Curitiba,R. São Bento,null,632.5,740.5,12
+"Jun 16, 2023",BR,Curitiba,R. Visc. de Nácar,null,795.4,536.2444444444444,9617
+"Jun 16, 2023",BR,Quatro Barras,R. Santa Catarina,null,582.3,684.6,364
+"Jun 16, 2023",BR,Curitiba,R. Raul Pompéia,null,621.4285714285714,615.5714285714286,940
+"Jun 16, 2023",BR,Curitiba,R. Roaldo Brun,null,707,325.11842105263156,2632
+"Jun 16, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1164.842105263158,740.578947368421,2358
+"Jun 16, 2023",BR,Curitiba,BR-376 Contorno Sul,HAZARD,4677.848484848485,954.8636363636364,13728
+"Jun 16, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,714.1333333333333,330.06666666666666,480
+"Jun 15, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,1184.909090909091,303.8181818181818,100
+"Jun 15, 2023",BR,Curitiba,R. João Scuissiato,null,612,426,10
+"Jun 15, 2023",BR,Curitiba,R. Dr. Bronislau O. Roguski,null,542,1257.5,36
+"Jun 15, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,860.6666666666666,397.6666666666667,6410
+"Jun 15, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,768.1052631578947,516.578947368421,2910
+"Jun 15, 2023",BR,Curitiba,R. Dias da Rocha Filho,null,600,552,14
+"Jun 15, 2023",BR,Curitiba,Av. Pres. Kennedy,null,1381.85,483.175,8505
+"Jun 15, 2023",BR,Curitiba,Av. Comendador Franco,ACCIDENT,2039.375,1079.5,4313
+"Jun 15, 2023",BR,Curitiba,Saída 115 A,null,540,563.6081081081081,354
+"Jun 15, 2023",BR,Colombo,BR-476 Est. da Ribeira,HAZARD,965.0588235294117,853.1470588235294,3116
+"Jun 15, 2023",BR,Curitiba,R. Iapó,null,798.3,373.8,3485
+"Jun 15, 2023",BR,Curitiba,R. Saldanha Marinho,null,763,519,48
+"Jun 15, 2023",BR,Curitiba,Marg. BR-116 Contorno Leste,null,614,548.7297297297297,1202
+"Jun 15, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,2785.2,678.8,914
+"Jun 15, 2023",BR,Curitiba,R. Manoel de Souza Dias Negrão,null,946,701,12
+"Jun 15, 2023",BR,Curitiba,R. Diogo Mugiatti,null,780,877.25,42
+"Jun 15, 2023",BR,Curitiba,BR-116 N Contorno Leste,ACCIDENT,3957.5675675675675,1630.1216216216217,8312
+"Jun 15, 2023",BR,Curitiba,Av. Sete de Setembro,null,917.2083333333334,464.5416666666667,3445
+"Jun 15, 2023",BR,Curitiba,BR-376 Contorno Sul,null,4013.6774193548385,1561.1612903225807,12008
+"Jun 15, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,3449,1372,144
+"Jun 15, 2023",BR,Curitiba,BR-476 Rod. do Xisto,null,1837,387.5,834
+"Jun 15, 2023",BR,Curitiba,R. Prof. Nivaldo Braga,null,763.6666666666666,741.6666666666666,122
+"Jun 15, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,ACCIDENT,938.5,490.875,4540
+"Jun 15, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,746.3333333333334,684.1666666666666,348
+"Jun 15, 2023",BR,Curitiba,Av. Pres. Affonso Camargo,null,1168.5,352.7,3306
+"Jun 15, 2023",BR,Curitiba,Al. Prudente de Moraes,null,595,1075,38
+"Jun 15, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,3781.590909090909,922.8409090909091,7468
+"Jun 15, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,583.7142857142857,625.7142857142857,288
+"Jun 15, 2023",BR,Curitiba,R. Brigadeiro Franco,null,1474.3181818181818,584.4090909090909,11060
+"Jun 15, 2023",BR,São José dos Pinhais,Al. Arpo,null,799,509.6666666666667,102
+"Jun 15, 2023",BR,Almirante Tamandaré,R. Ver. Wadislau Bugalski,null,625,403.8333333333333,36
+"Jun 15, 2023",BR,Curitiba,R. Mamoré,null,689,867,16
+"Jun 15, 2023",BR,Curitiba,Vd. Colorado,null,981.5555555555555,379.55555555555554,1336
+"Jun 15, 2023",BR,Curitiba,Av. Comendador Franco,null,1782.8461538461538,715.5384615384615,7498
+"Jun 15, 2023",BR,Curitiba,R. Conselheiro Laurindo,null,1572.5,473.5,6780
+"Jun 15, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,6410.8421052631575,730.5,4909
+"Jun 15, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1262.142857142857,502.42857142857144,2594
+"Jun 15, 2023",BR,Curitiba,R. Frederico Maurer,null,940,218.66666666666666,60
+"Jun 15, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,709.1111111111111,366.22222222222223,2866
+"Jun 15, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,2440.6666666666665,826.6666666666666,2448
+"Jun 15, 2023",BR,Curitiba,R. São José dos Pinhais,null,749,447,10
+"Jun 15, 2023",BR,Curitiba,R. Imaculada Conceição,null,782.52,618.8,3556
+"Jun 15, 2023",BR,Curitiba,R. Paraíba,null,732,928,16
+"Jun 15, 2023",BR,Curitiba,BR-476 Est. da Ribeira,HAZARD,600,766,36
+"Jun 15, 2023",BR,Curitiba,R. Celestino Messing de Siqueira,null,603,728,14
+"Jun 15, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,975,460,16
+"Jun 15, 2023",BR,Curitiba,R. Pedro Gusso,null,1050,431.25,16
+"Jun 15, 2023",BR,Curitiba,R. 13 de Maio,null,767,419.125,1418
+"Jun 15, 2023",BR,São José dos Pinhais,R. Profa. Ernestina de Macedo Souza Cortes,null,601,566,8
+"Jun 15, 2023",BR,Curitiba,R. Saint Hilaire,null,517,864.6666666666666,1062
+"Jun 15, 2023",BR,Curitiba,R. Curupaitis,null,567,779.5,20
+"Jun 15, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,null,1723.4545454545455,610.7159090909091,6782
+"Jun 15, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1254.2553191489362,529.6595744680851,11522
+"Jun 15, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4242.347826086957,401.7826086956522,10550
+"Jun 15, 2023",BR,Curitiba,Av. Linha Verde,null,1475.111111111111,412.1975308641975,17306
+"Jun 15, 2023",BR,Curitiba,R. Atílio Brunetti,null,642,444,10
+"Jun 15, 2023",BR,Curitiba,R. Leonardo Pianowski,null,685.1428571428571,620.5714285714286,74
+"Jun 15, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,904.2,550.15,1843
+"Jun 15, 2023",BR,Curitiba,R. Prof. Fernando Moreira,null,615.5294117647059,492.1764705882353,1524
+"Jun 15, 2023",BR,Curitiba,R. João Lunardeli,null,652.5,263.35714285714283,192
+"Jun 15, 2023",BR,São José dos Pinhais,R. Altevir de Lara,null,554,858,16
+"Jun 15, 2023",BR,Curitiba,Av. República Argentina,null,813,857.6,136
+"Jun 15, 2023",BR,Curitiba,R. Humberto Zanato,null,621,368.8333333333333,69
+"Jun 15, 2023",BR,Curitiba,R. Ubaldino do Amaral,ACCIDENT,548.8,405.8,1112
+"Jun 15, 2023",BR,Colombo,R. Dilceu Antonio Valente,null,654,588.75,32
+"Jun 15, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,813.0769230769231,785.1923076923077,2698
+"Jun 15, 2023",BR,Curitiba,Al. D. Pedro II,null,647,685.5,222
+"Jun 15, 2023",BR,Curitiba,,HAZARD,552,273.9230769230769,662
+"Jun 15, 2023",BR,Curitiba,R. Ubaldino do Amaral,HAZARD,611.4285714285714,265.7142857142857,2096
+"Jun 15, 2023",BR,Curitiba,Av. Manoel Ribas,null,632,779,10
+"Jun 15, 2023",BR,Pinhais,Av. Jacob Macanhan,null,659,487,28
+"Jun 15, 2023",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,null,1136.1666666666667,548.6111111111111,1540
+"Jun 15, 2023",BR,Curitiba,Av. João Gualberto,null,868.5,397.5,82
+"Jun 15, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,HAZARD,1718.3333333333333,338.5,190
+"Jun 15, 2023",BR,Curitiba,R. Prof. Álvaro Jorge,null,578,609.3333333333334,984
+"Jun 15, 2023",BR,Curitiba,R. Des. Otávio do Amaral,null,520,1719,6
+"Jun 15, 2023",BR,Curitiba,R. Natal,null,879.5,687,20
+"Jun 15, 2023",BR,Curitiba,R. Pe. Anchieta,null,510,595,22
+"Jun 15, 2023",BR,Curitiba,R. Jordânia,null,820,753,12
+"Jun 15, 2023",BR,Curitiba,R. Profa Maria de Assumpção,null,552,590,18
+"Jun 14, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,846.4,381.2,681
+"Jun 14, 2023",BR,São José dos Pinhais,R. Germano Schlogel,null,749,1100,18
+"Jun 14, 2023",BR,Curitiba,R. Alcino Guanabara,null,510,554.5,24
+"Jun 14, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,2006.9182692307693,1789.3221153846155,34797
+"Jun 14, 2023",BR,Curitiba,R. João Chede,null,857.4666666666667,819.8666666666667,698
+"Jun 14, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,2551.935483870968,1199.3225806451612,12234
+"Jun 14, 2023",BR,Curitiba,R. Brigadeiro Franco,null,2090.909090909091,739.8181818181819,10812
+"Jun 14, 2023",BR,Curitiba,R. Fernandes de Barros,null,565,780,34
+"Jun 14, 2023",BR,Curitiba,R. Des. Motta,null,1778,753.1666666666666,8932
+"Jun 14, 2023",BR,Curitiba,R. Francisco Frischmann,null,1245.953488372093,479.77906976744185,20195
+"Jun 14, 2023",BR,Curitiba,R. João Dembinski,null,800.258064516129,325.2258064516129,2138
+"Jun 14, 2023",BR,Curitiba,Av. Cândido Hartmann,ACCIDENT,803,379.6666666666667,230
+"Jun 14, 2023",BR,Curitiba,R. Saint Hilaire,null,517,577,182
+"Jun 14, 2023",BR,Curitiba,R. Inácio Wichnewski,null,508,463,3094
+"Jun 14, 2023",BR,Piraquara,Av. Getúlio Vargas,null,747,883,10
+"Jun 14, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,3779.2,1252.1333333333334,11340
+"Jun 14, 2023",BR,Curitiba,Av. João Gualberto,null,878.3333333333334,498.53333333333336,1618
+"Jun 14, 2023",BR,Curitiba,Marg. BR-116,null,945,398.12857142857143,6458
+"Jun 14, 2023",BR,Curitiba,R. Celestino Messing de Siqueira,null,603,636,36
+"Jun 14, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,ACCIDENT,519,145,102
+"Jun 14, 2023",BR,Curitiba,R. Frederico Cantarelli,null,721.75,612,1220
+"Jun 14, 2023",BR,Curitiba,R. Visc. do Rio Branco,null,650.9583333333334,618.4791666666666,3880
+"Jun 14, 2023",BR,Curitiba,R. Salvador José Correia Coelho,null,554,466.25,946
+"Jun 14, 2023",BR,Curitiba,R. Ubaldino do Amaral,ACCIDENT,609,495.2307692307692,3292
+"Jun 14, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5949.25,654,4230
+"Jun 14, 2023",BR,Curitiba,R. Brasílio Cuman,HAZARD,526,480.625,466
+"Jun 14, 2023",BR,Curitiba,R. Ana Berta Roskamp,null,649,944,20
+"Jun 14, 2023",BR,Curitiba,R. Izaltino Dias Ferraz,null,542,445.94117647058823,2024
+"Jun 14, 2023",BR,Curitiba,R. Affife Mansur,null,540.4285714285714,1341.5714285714287,76
+"Jun 14, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,1107.6923076923076,1467.3846153846155,2510
+"Jun 14, 2023",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,null,647.4583333333334,630.2083333333334,7013
+"Jun 14, 2023",BR,Curitiba,R. Des. Cid Campelo,null,817.7777777777778,408.47222222222223,3664
+"Jun 14, 2023",BR,Curitiba,R. Gen. Carneiro,null,540,573,32
+"Jun 14, 2023",BR,Curitiba,R. João Antônio Xavier,null,501,412,10
+"Jun 14, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,864,645.1666666666666,54
+"Jun 14, 2023",BR,Curitiba,R. Brasílio Cuman,ACCIDENT,725,822.125,490
+"Jun 14, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,914.25,428,9563
+"Jun 14, 2023",BR,Curitiba,,null,660.1304347826087,879.7608695652174,6298
+"Jun 14, 2023",BR,Curitiba,R. Dr. Roberto Barrozo,null,1063.5454545454545,542.5,3369
+"Jun 14, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,1174.5,722.092936802974,63873
+"Jun 14, 2023",BR,Curitiba,BR-376 Contorno Sul,null,6934.815013404826,3084.1876675603216,69043
+"Jun 14, 2023",BR,Curitiba,R. José Rossetim,null,657,426.75,726
+"Jun 14, 2023",BR,Curitiba,R. José Casagrande,null,514,795.25,48
+"Jun 14, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2326.7183908045977,862.551724137931,38341
+"Jun 14, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5184.309523809524,1119.095238095238,21238
+"Jun 14, 2023",BR,Curitiba,Av. Nossa Senhora da Penha,null,538,365,1395
+"Jun 14, 2023",BR,Curitiba,R. Alferes Poli,null,647.4915254237288,457.5508474576271,11055
+"Jun 14, 2023",BR,Curitiba,Marg. BR-277,null,719,393,938
+"Jun 14, 2023",BR,Curitiba,R. Imaculada Conceição,null,881.0555555555555,796.8611111111111,3749
+"Jun 14, 2023",BR,Curitiba,R. Gov. Agamenon Magalhães,ACCIDENT,503,461,71
+"Jun 14, 2023",BR,Curitiba,R. Pe. José Kentenich,null,729.3333333333334,418.9583333333333,1839
+"Jun 14, 2023",BR,Curitiba,R. Eduardo Sprada,null,992.4404761904761,729.7261904761905,13482
+"Jun 14, 2023",BR,São José dos Pinhais,R. Dr. Motta Jr.,null,756,722,28
+"Jun 14, 2023",BR,Curitiba,Av. Manoel Ribas,null,790.4615384615385,356.9230769230769,974
+"Jun 14, 2023",BR,Curitiba,R. Prof. Ulisses Vieira,null,881,481,6
+"Jun 14, 2023",BR,Curitiba,R. Jorge Batista Crocetti,null,712,544,16
+"Jun 14, 2023",BR,Curitiba,R. Gutemberg,null,535,472,34
+"Jun 14, 2023",BR,Curitiba,R. Prof. Nivaldo Braga,null,778.625,417.875,283
+"Jun 14, 2023",BR,São José dos Pinhais,R. Profa. Ernestina de Macedo Souza Cortes,null,719,784.5,16
+"Jun 14, 2023",BR,Curitiba,R. Francisco Ader,null,701,933,28
+"Jun 14, 2023",BR,Curitiba,R. Francisco Rocha,null,1431.2857142857142,778.7142857142857,3508
+"Jun 14, 2023",BR,Curitiba,R. Raul Pompéia,null,612.6842105263158,814.421052631579,4280
+"Jun 14, 2023",BR,Curitiba,R. José Batista dos Santos,null,789,568,60
+"Jun 14, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,4329,1586,68
+"Jun 14, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,822,702.6428571428571,3526
+"Jun 14, 2023",BR,Curitiba,R. Bruno Lobo,null,583,553,4
+"Jun 14, 2023",BR,Curitiba,R. Emílio Romani,null,546,493.5,56
+"Jun 14, 2023",BR,Curitiba,R. Bispo Dom José,null,835.3809523809524,533.6904761904761,5957
+"Jun 14, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1183.9529411764706,626.464705882353,21788
+"Jun 14, 2023",BR,Curitiba,R. Saldanha Marinho,null,561.1818181818181,499.22727272727275,2843
+"Jun 14, 2023",BR,Curitiba,R. Cel. Brasilino Moura,null,523.6,181.4,414
+"Jun 14, 2023",BR,Curitiba,PR-418 Contorno Norte,null,6189.462962962963,2187.796296296296,19600
+"Jun 14, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,null,3313.1717171717173,686.2727272727273,4314
+"Jun 14, 2023",BR,Curitiba,R. Pres. Rodrigo Otávio,null,592,258.3333333333333,158
+"Jun 14, 2023",BR,Curitiba,R. Carneiro Lobo,null,750,480.44444444444446,2118
+"Jun 14, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,ACCIDENT,1077.5,617.8333333333334,2784
+"Jun 14, 2023",BR,Curitiba,R. Prof. Álvaro Jorge,null,578,547,416
+"Jun 14, 2023",BR,Curitiba,Av. Vicente Machado,null,908.76,472.2,11242
+"Jun 14, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1985.3333333333333,245,40
+"Jun 14, 2023",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1658.857142857143,861.7142857142857,4034
+"Jun 14, 2023",BR,Curitiba,Av. Linha Verde,null,2305.1788617886177,530.2764227642276,27829
+"Jun 14, 2023",BR,Curitiba,R. Prof. João Soares Barcelos,null,670,415.5,48
+"Jun 14, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,550.8,324.8,2376
+"Jun 14, 2023",BR,Curitiba,Al. Dr. Carlos de Carvalho,null,775.3333333333334,395.77777777777777,4092
+"Jun 14, 2023",BR,Curitiba,Av. Ver. Toaldo Túlio,null,1461.8958333333333,972.59375,15185
+"Jun 14, 2023",BR,São José dos Pinhais,Al. Arpo,null,926.9444444444445,614.5,278
+"Jun 14, 2023",BR,Curitiba,R. José Luiz Guerra Rego,null,668,600,128
+"Jun 14, 2023",BR,Curitiba,R. Prof. João Falarz,null,1374.755905511811,1209.5590551181103,9300
+"Jun 14, 2023",BR,Curitiba,R. Bom Jesus,null,637.6,525.8,1130
+"Jun 14, 2023",BR,Curitiba,R. Santa Madalena Sofia Barat,null,593,827,18
+"Jun 14, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,1452.6666666666667,1115.1666666666667,224
+"Jun 14, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,635.8,580.2,700
+"Jun 14, 2023",BR,Curitiba,R. Omar Raymundo Picheth,null,674.9722222222222,693.1666666666666,5273
+"Jun 14, 2023",BR,Curitiba,R. Gabriel Frecceiro de Miranda,null,709,521,32
+"Jun 14, 2023",BR,Curitiba,R. Curupaitis,null,584,650,12
+"Jun 14, 2023",BR,Curitiba,Av. Sete de Setembro,null,506,414,366
+"Jun 14, 2023",BR,Curitiba,PR-418 Contorno Norte,HAZARD,6716,3479,1572
+"Jun 14, 2023",BR,Curitiba,Av. República Argentina,null,1105.764705882353,833.6470588235294,2470
+"Jun 14, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,607,883.8888888888889,486
+"Jun 14, 2023",BR,Curitiba,R. Gov. Agamenon Magalhães,null,585.5454545454545,420.09090909090907,900
+"Jun 14, 2023",BR,Curitiba,R. Ubaldino do Amaral,HAZARD,603.9397590361446,625.6987951807229,17282
+"Jun 14, 2023",BR,Curitiba,R. Mateus Leme,null,629.6666666666666,586,428
+"Jun 14, 2023",BR,Curitiba,Al. D. Pedro II,null,694.5,492,132
+"Jun 14, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,6091.40625,605.21875,7126
+"Jun 14, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,665.8333333333334,279,3078
+"Jun 14, 2023",BR,Pinhais,R. Costa e Silva,null,528,263,6
+"Jun 14, 2023",BR,Curitiba,R. Visc. de Nácar,null,950.1428571428571,832.2571428571429,17888
+"Jun 14, 2023",BR,Curitiba,R. Amadeu Piotto,null,690,621,38
+"Jun 13, 2023",BR,Curitiba,R. Carlos Essenfelder,null,670,717.5,14
+"Jun 13, 2023",BR,Curitiba,R. Simão Brante,null,521,536,6
+"Jun 13, 2023",BR,Curitiba,R. dos Funcionários,null,702.5,744.3333333333334,778
+"Jun 13, 2023",BR,Curitiba,Av. Comendador Franco,null,2906,631,998
+"Jun 13, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,HAZARD,1804,899,22
+"Jun 13, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,889.9,402.85,3222
+"Jun 13, 2023",BR,Curitiba,R. Visc. do Rio Branco,null,565,486,620
+"Jun 13, 2023",BR,Curitiba,R. Theodoro Locker,null,731,436,32
+"Jun 13, 2023",BR,Curitiba,R. Prof. Lycio Grein de Castro Vellozo,null,544,199.25,124
+"Jun 13, 2023",BR,Curitiba,Av. João Gualberto,null,892.5882352941177,374.3529411764706,1802
+"Jun 13, 2023",BR,Curitiba,R. Saint Hilaire,null,517,718,686
+"Jun 13, 2023",BR,Curitiba,R. Augusto Stresser,null,1036,395.3,5114
+"Jun 13, 2023",BR,Araucária,R. Vitório Sfendrych,null,525,2954,12
+"Jun 13, 2023",BR,Pinhais,R. Juscelino Kubitschek,null,735,878.6666666666666,18
+"Jun 13, 2023",BR,Curitiba,BR-476 Est. da Ribeira,HAZARD,596,521,94
+"Jun 13, 2023",BR,Curitiba,R. Delegado Leopoldo Belczak,null,879,146,22
+"Jun 13, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,null,12904.675,5226.675,22430
+"Jun 13, 2023",BR,Curitiba,R. das Carmelitas,null,662.4285714285714,515,122
+"Jun 13, 2023",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,null,1352.5897435897436,976.7307692307693,4992
+"Jun 13, 2023",BR,Curitiba,R. Rodolpho Hatschbach,null,815,547,4
+"Jun 13, 2023",BR,Curitiba,R. Francisco Juglair,null,533,1018,12
+"Jun 13, 2023",BR,Curitiba,R. Pe. Anchieta,null,618,1023.5,74
+"Jun 13, 2023",BR,Curitiba,R. Carlos de Laet,null,795.8571428571429,1125.857142857143,60
+"Jun 13, 2023",BR,Curitiba,Al. D. Pedro II,null,647,910,70
+"Jun 13, 2023",BR,Curitiba,Vd. Colorado,ACCIDENT,1048.6,312.3,2378
+"Jun 13, 2023",BR,Curitiba,R. Quarí,null,543,492,16
+"Jun 13, 2023",BR,Curitiba,R. Prof. João Falarz,null,1113.5641025641025,664.5641025641025,1603
+"Jun 13, 2023",BR,Curitiba,R. Mercúrio,null,542,460,8
+"Jun 13, 2023",BR,Curitiba,R. Celestino Messing de Siqueira,null,603,452.5,40
+"Jun 13, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1109.6960784313726,597.8725490196078,33356
+"Jun 13, 2023",BR,Curitiba,R. Frederico Maurer,null,565.5,682,26
+"Jun 13, 2023",BR,Curitiba,R. Visc. do Serro Frio,null,678,581.75,52
+"Jun 13, 2023",BR,Curitiba,R. Solimões,null,1117,460,12
+"Jun 13, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,12205.785714285714,5903.761904761905,22704
+"Jun 13, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,6608.6125,322.225,28520
+"Jun 13, 2023",BR,Curitiba,R. Laudelino Ferreira Lopes,null,1144,704,8
+"Jun 13, 2023",BR,Curitiba,Vd. Colorado,null,1002.953488372093,428.8139534883721,8340
+"Jun 13, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,4200,339.6666666666667,874
+"Jun 13, 2023",BR,São José dos Pinhais,R. Dep. Luiz Gabriel Sampaio,null,583,588,12
+"Jun 13, 2023",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1503,518.0833333333334,5836
+"Jun 13, 2023",BR,Curitiba,Av. Linha Verde,null,1767,431.84466019417476,120208
+"Jun 13, 2023",BR,Curitiba,R. Affife Mansur,null,696,574.1666666666666,110
+"Jun 13, 2023",BR,Curitiba,Av. República Argentina,null,827.1666666666666,557.5,244
+"Jun 13, 2023",BR,Curitiba,R. O Brasil para Cristo,null,664,1542,12
+"Jun 13, 2023",BR,Curitiba,R. Rogério Xavier Rocha Loures,null,542,1491,18
+"Jun 13, 2023",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,ACCIDENT,2451.8571428571427,345,4024
+"Jun 13, 2023",BR,Curitiba,Via Exclusiva de ônibus,null,1078,663.3333333333334,40
+"Jun 13, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,1146.6363636363637,625.5454545454545,396
+"Jun 13, 2023",BR,Curitiba,R. Dr. Bley Zornig,null,559,568,42
+"Jun 13, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,874.7619047619048,531.6666666666666,10520
+"Jun 13, 2023",BR,Curitiba,BR-376 Contorno Sul,null,7221.991228070176,1564.9035087719299,35284
+"Jun 13, 2023",BR,Curitiba,R. Prof. Fernando Moreira,null,682.4285714285714,425.85714285714283,840
+"Jun 13, 2023",BR,Curitiba,R. Dep. Carneiro de Campos,null,545,688,12
+"Jun 13, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,793.9642857142857,254.55357142857142,544
+"Jun 13, 2023",BR,Curitiba,R. 25 de Agosto,null,960,415.5,12
+"Jun 13, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,2862.9615384615386,426.88461538461536,7420
+"Jun 13, 2023",BR,Pinhais,R. Genoveva Forlepa Kopka,null,709,1186.5,12
+"Jun 13, 2023",BR,Curitiba,R. Visc. de Nácar,null,1050.357142857143,787.3571428571429,7822
+"Jun 13, 2023",BR,Curitiba,R. Izaltino Dias Ferraz,null,542,467,12
+"Jun 13, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,578.5,652.6666666666666,104
+"Jun 13, 2023",BR,Curitiba,R. Mal. Deodoro,null,1219.2666666666667,514.1666666666666,8148
+"Jun 13, 2023",BR,Curitiba,Av. Cândido Hartmann,null,636.6666666666666,284.5,342
+"Jun 13, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,1236,517,308
+"Jun 13, 2023",BR,Curitiba,R. Dom Pedro I,null,713.5,905.3333333333334,36
+"Jun 13, 2023",BR,Colombo,R. Guilherme Rodbard,null,935,453,18
+"Jun 13, 2023",BR,Curitiba,R. Francisco Derosso,null,1066.2,556.6,3278
+"Jun 13, 2023",BR,Curitiba,R. Alferes Poli,null,532,562.9166666666666,1566
+"Jun 13, 2023",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,ACCIDENT,1517.16,1590.2,3332
+"Jun 13, 2023",BR,Curitiba,Av. Ver. Toaldo Túlio,null,558,565.6666666666666,140
+"Jun 13, 2023",BR,São José dos Pinhais,R. Dr. Murici,null,1114.9285714285713,554.2142857142857,560
+"Jun 13, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,719.9690721649484,621.9278350515464,7964
+"Jun 13, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1175.7931034482758,558.8275862068965,8392
+"Jun 13, 2023",BR,Curitiba,R. Maestro Francisco Antonello,null,658,533,24
+"Jun 13, 2023",BR,Curitiba,R. Brigadeiro Franco,null,1723.5,675.875,9912
+"Jun 13, 2023",BR,Curitiba,R. Barão de Antonina,null,500,751,244
+"Jun 13, 2023",BR,Curitiba,R. Imaculada Conceição,null,843.1875,758.0208333333334,4014
+"Jun 13, 2023",BR,Araucária,Av. das Araucárias,null,4587.125,895.6875,5254
+"Jun 13, 2023",BR,Curitiba,R. Bispo Dom José,null,776,392.6,1772
+"Jun 13, 2023",BR,Curitiba,Av. Sete de Setembro,null,1085.6744186046512,538.6046511627907,6328
+"Jun 13, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,620.4444444444445,664.7222222222222,1008
+"Jun 13, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4598.217054263566,673.1821705426356,31062
+"Jun 13, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,931.875,560.96875,4819
+"Jun 13, 2023",BR,São José dos Pinhais,R. Antônio Zaramella,null,779,1573,10
+"Jun 13, 2023",BR,Curitiba,Av. Paraná,null,791,774,236
+"Jun 13, 2023",BR,Curitiba,R. Salvador Ferrante,null,860,961,16
+"Jun 13, 2023",BR,Curitiba,R. Saldanha Marinho,null,541,635.75,856
+"Jun 13, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,836,771.25,62
+"Jun 13, 2023",BR,Curitiba,R. Edmundo Saporski,null,807,454,14
+"Jun 13, 2023",BR,Curitiba,R. Leão Sallum,null,814,624,20
+"Jun 13, 2023",BR,Curitiba,R. Sen. Accioly Filho,null,808,464.75,124
+"Jun 13, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,745.425,711.85,15814
+"Jun 13, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,1394.2631578947369,887.7894736842105,1991
+"Jun 13, 2023",BR,Curitiba,Marg. BR-116,null,1193,418.4,2052
+"Jun 13, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1483,964.65,2981
+"Jun 13, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,2291.5454545454545,957.6363636363636,9426
+"Jun 13, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,846.1818181818181,608.8939393939394,13755
+"Jun 13, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,813.6666666666666,536.5,1346
+"Jun 13, 2023",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,null,2124.214285714286,224.92857142857142,7720
+"Jun 13, 2023",BR,Curitiba,R. Hayton da Silva Pereira,null,612,457,54
+"Jun 12, 2023",BR,Curitiba,R. Raul Pompéia,null,642,521,254
+"Jun 12, 2023",BR,Curitiba,R. Bispo Dom José,null,818.6428571428571,493.2142857142857,6510
+"Jun 12, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,836.5555555555555,489.25,8178
+"Jun 12, 2023",BR,Curitiba,R. Carlos de Laet,null,701.3333333333334,572.3333333333334,34
+"Jun 12, 2023",BR,Curitiba,Av. Ver. Toaldo Túlio,null,667,640.5,86
+"Jun 12, 2023",BR,Curitiba,R. Brigadeiro Franco,null,2159.6363636363635,764.1818181818181,20964
+"Jun 12, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,6527.608695652174,734.5217391304348,25821
+"Jun 12, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2848.75,895.625,6034
+"Jun 12, 2023",BR,Curitiba,BR-376 Contorno Sul,HAZARD,7307.333333333333,3436.9166666666665,8662
+"Jun 12, 2023",BR,Curitiba,R. Rio Grande do Sul,null,522,506.4,1058
+"Jun 12, 2023",BR,Curitiba,R. Gabriel Frecceiro de Miranda,null,771.1176470588235,540.4117647058823,2918
+"Jun 12, 2023",BR,Curitiba,R. Alferes Poli,null,611.2727272727273,472.1636363636364,11668
+"Jun 12, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,2786.542857142857,613.3904761904762,16381
+"Jun 12, 2023",BR,Curitiba,R. Maestro Carlos Frank,null,710,403.3333333333333,406
+"Jun 12, 2023",BR,Colombo,Av. São Gabriel,null,548,924,14
+"Jun 12, 2023",BR,Curitiba,R. Omar Raymundo Picheth,null,606.8125,692.3125,2104
+"Jun 12, 2023",BR,Curitiba,Av. Paraná,null,591.6,505.6,224
+"Jun 12, 2023",BR,Curitiba,R. Des. Motta,null,1923.9310344827586,827,9993
+"Jun 12, 2023",BR,Curitiba,R. Augusto Zibarth,null,639.1818181818181,464.3636363636364,482
+"Jun 12, 2023",BR,Curitiba,Marg. BR-116,null,1193,782.5384615384615,2764
+"Jun 12, 2023",BR,Curitiba,R. São Bento,null,638,498,40
+"Jun 12, 2023",BR,Curitiba,Av. Pres. Affonso Camargo,null,1206.35,454.35,7102
+"Jun 12, 2023",BR,Curitiba,R. Pe. Anchieta,ACCIDENT,1149.25,479.5,1050
+"Jun 12, 2023",BR,Curitiba,R. Prof. Nivaldo Braga,null,726.52,508.4,1120
+"Jun 12, 2023",BR,Curitiba,R. Barão de Antonina,null,526.1666666666666,623.9166666666666,3350
+"Jun 12, 2023",BR,Curitiba,R. Gonçalves Dias,null,738.8333333333334,361.6666666666667,3414
+"Jun 12, 2023",BR,Curitiba,R. Rodolpho Senff Jr.,null,549,792,8
+"Jun 12, 2023",BR,Curitiba,R. Francisco Derosso,null,804,476.4,3238
+"Jun 12, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,783.3888888888889,359.77777777777777,10554
+"Jun 12, 2023",BR,Colombo,R. Maria de Lurdes dos Santos,null,671,452,24
+"Jun 12, 2023",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1565.6923076923076,687.4615384615385,6562
+"Jun 12, 2023",BR,Curitiba,R. Januário Alves de Souza,null,789.25,372.8,848
+"Jun 12, 2023",BR,Curitiba,R. Dep. Nilson Ribas,null,572,1085.75,155
+"Jun 12, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,963.6666666666666,432.76190476190476,909
+"Jun 12, 2023",BR,Curitiba,R. Mal. Octávio Saldanha Mazza,ACCIDENT,651.3333333333334,199.16666666666666,1396
+"Jun 12, 2023",BR,Curitiba,R. Fagundes Varela,null,1025.2608695652175,365.4347826086956,4846
+"Jun 12, 2023",BR,Curitiba,R. Hipólito da Costa,null,612,633,52
+"Jun 12, 2023",BR,Curitiba,R. João Amadeu Pedro Bom,null,526,477,4
+"Jun 12, 2023",BR,Curitiba,R. Augusto Stresser,null,986.75,475,1404
+"Jun 12, 2023",BR,Curitiba,R. Dr. Faivre,null,963.4285714285714,429.57142857142856,3200
+"Jun 12, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3244.902777777778,506.3333333333333,18926
+"Jun 12, 2023",BR,Curitiba,Av. República Argentina,null,1045.4022988505747,692.9770114942529,7053
+"Jun 12, 2023",BR,Curitiba,R. José Benedito Cottolengo,null,585,614.375,852
+"Jun 12, 2023",BR,Curitiba,R. Saldanha Marinho,null,541,649.6363636363636,2314
+"Jun 12, 2023",BR,Curitiba,Av. Pres. Kennedy,null,1725.301282051282,787.1217948717949,34818
+"Jun 12, 2023",BR,Curitiba,R. Visc. de Nácar,ACCIDENT,820,416.46666666666664,6300
+"Jun 12, 2023",BR,Curitiba,R. Oyapock,null,578,581.4285714285714,800
+"Jun 12, 2023",BR,Curitiba,BR-376 Contorno Sul,null,7251.345132743363,1148.725663716814,53305
+"Jun 12, 2023",BR,Curitiba,R. Visc. de Nácar,null,907.1428571428571,607.1428571428571,3074
+"Jun 12, 2023",BR,Curitiba,R. Cel. Dulcídio,null,1199.448275862069,470.2413793103448,12684
+"Jun 12, 2023",BR,Curitiba,Av. João Gualberto,null,1260.5555555555557,457.44444444444446,1030
+"Jun 12, 2023",BR,Curitiba,R. David Tows,null,704,531,8
+"Jun 12, 2023",BR,Curitiba,Est. do Ganchinho,null,581.0833333333334,381,203
+"Jun 12, 2023",BR,Colombo,Est. da Graciosa,null,598,780.9411764705883,1470
+"Jun 12, 2023",BR,Curitiba,R. Piquiri,null,606,537,130
+"Jun 12, 2023",BR,Curitiba,Av. Victor Ferreira do Amaral,null,1220.235294117647,425.27450980392155,7574
+"Jun 12, 2023",BR,Curitiba,R. Gen. Carneiro,null,781,494,16
+"Jun 12, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,6600.523809523809,1504.904761904762,13806
+"Jun 12, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,714.4545454545455,514.1818181818181,4592
+"Jun 12, 2023",BR,Curitiba,R. Paul Garfunkel,null,1238,302.1666666666667,276
+"Jun 12, 2023",BR,Curitiba,BR-116 Contorno Leste,null,1607.1785714285713,294.1607142857143,5253
+"Jun 12, 2023",BR,Curitiba,R. Profa Maria de Assumpção,null,556,897,16
+"Jun 12, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,987.0769230769231,517.0384615384615,867
+"Jun 12, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1238.4716981132076,322.5660377358491,27618
+"Jun 12, 2023",BR,Curitiba,R. Brazílio de Araújo,null,787,770,4
+"Jun 12, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,946.9671052631579,472.05592105263156,10500
+"Jun 12, 2023",BR,Pinhais,R. Rio Amazonas,null,508,415.22222222222223,442
+"Jun 12, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,760.2678571428571,588.0625,8269
+"Jun 12, 2023",BR,Curitiba,R. Alberico Flores Bueno,null,1031,376.3125,4058
+"Jun 12, 2023",BR,Curitiba,R. Paulo Gorski,null,587.2,495.6666666666667,1630
+"Jun 12, 2023",BR,Curitiba,R. Atílio Bório,null,825,826,56
+"Jun 12, 2023",BR,Curitiba,R. Anne Frank,null,1179.95,604,7664
+"Jun 12, 2023",BR,Curitiba,R. Nestor Victor,null,840,883,132
+"Jun 12, 2023",BR,Curitiba,Av. Iguaçu - Pista Dir.,null,798,447.26666666666665,3624
+"Jun 12, 2023",BR,Curitiba,R. Gastão Câmara,null,672.6666666666666,586.2222222222222,2706
+"Jun 12, 2023",BR,Curitiba,BR-116 Contorno Leste,ACCIDENT,1910.6470588235295,397.2352941176471,3866
+"Jun 12, 2023",BR,Colombo,Av. Abel Scuissiato,null,525,919.45,572
+"Jun 12, 2023",BR,Curitiba,R. Bom Jesus de Iguape,null,2004,583.5,80
+"Jun 12, 2023",BR,Curitiba,R. Pedro Gusso,null,748,636,15
+"Jun 12, 2023",BR,Pinhais,R. Clóvis Bevilaqua,null,741.25,484.75,418
+"Jun 12, 2023",BR,Curitiba,R. Mal. Octávio Saldanha Mazza,null,912.2142857142857,232.16071428571428,8155
+"Jun 12, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,3610.9444444444443,807.75,16362
+"Jun 12, 2023",BR,Curitiba,R. Pe. Anchieta,null,544.7777777777778,281.3333333333333,504
+"Jun 12, 2023",BR,Pinhais,R. Cassiano Ricardo,null,629,1361,3
+"Jun 12, 2023",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,3582.923076923077,528.8461538461538,2253
+"Jun 12, 2023",BR,Curitiba,Al. D. Pedro II,null,610.0645161290323,645.9516129032259,3034
+"Jun 12, 2023",BR,Curitiba,R. Gabriel Corisco Domingues,null,605.2,537.6,96
+"Jun 12, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,928.8,984.3071428571428,9256
+"Jun 12, 2023",BR,Pinhais,,null,531,858,76
+"Jun 12, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,3877.5833333333335,304.625,15693
+"Jun 12, 2023",BR,Curitiba,R. Nicola Pellanda,null,1010.578947368421,345.10526315789474,1908
+"Jun 12, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,ACCIDENT,527,462,172
+"Jun 12, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,1394.8529411764705,764.3578431372549,13598
+"Jun 12, 2023",BR,Curitiba,R. Schiller,null,648,729.6,200
+"Jun 12, 2023",BR,Curitiba,R. Castro Alves,null,717.5217391304348,265.2608695652174,7708
+"Jun 12, 2023",BR,Curitiba,R. Diogo Mugiatti,null,649,849,12
+"Jun 12, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1416,491.25,2986
+"Jun 12, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,3858.3492063492063,607.1111111111111,19035
+"Jun 12, 2023",BR,Curitiba,Av. Senador Salgado Filho,null,1114.875,866.75,3824
+"Jun 12, 2023",BR,Curitiba,R. Mateus Leme,null,940.2307692307693,373.5,8769
+"Jun 12, 2023",BR,Curitiba,R. Dr. Roberto Barrozo,null,1001.5714285714286,489.25,7209
+"Jun 12, 2023",BR,Curitiba,R. Frederico Maurer,null,1008.5,513.5,80
+"Jun 12, 2023",BR,Curitiba,R. Prof. João Soares Barcelos,null,645.2,465.65,4524
+"Jun 12, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,629,538.5,110
+"Jun 12, 2023",BR,Curitiba,R. Francisco Frischmann,null,1255,553.6666666666666,30576
+"Jun 12, 2023",BR,Curitiba,R. Carneiro Lobo,null,654.8947368421053,399.07894736842104,11068
+"Jun 12, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1718,570.3482142857143,11372
+"Jun 12, 2023",BR,Curitiba,R. Pará,null,624,553,14
+"Jun 12, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,ACCIDENT,1426,862.6315789473684,2570
+"Jun 12, 2023",BR,Curitiba,R. Pe. Agostinho,null,1699.2,943.6,3844
+"Jun 12, 2023",BR,Curitiba,Av. Silva Jardim,null,817.9622641509434,328.77358490566036,9928
+"Jun 12, 2023",BR,Curitiba,R. Mal. José Bernardino Bormann,null,510,646,42
+"Jun 12, 2023",BR,Curitiba,R. Eduardo Sprada,null,994.5,546.5,1394
+"Jun 12, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,744.6875,568.1875,1408
+"Jun 12, 2023",BR,São José dos Pinhais,Al. Arpo,null,836.8461538461538,407.3076923076923,652
+"Jun 12, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,2379.44,964.52,21682
+"Jun 12, 2023",BR,Curitiba,Al. Dr. Muricy,null,1022.25,551.75,1940
+"Jun 12, 2023",BR,Curitiba,R. Helena Grodzki,null,793.4285714285714,397.67857142857144,986
+"Jun 12, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1181.474074074074,706.1851851851852,22478
+"Jun 12, 2023",BR,Curitiba,Av. Manoel Ribas,null,831.304347826087,439.4347826086956,1482
+"Jun 12, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1057.6857142857143,671.2214285714285,20927
+"Jun 12, 2023",BR,Curitiba,R. Maximino Zanon,null,532,581,10
+"Jun 12, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,746,1247,70
+"Jun 12, 2023",BR,Curitiba,PR-418 Contorno Norte,null,4838.533333333334,744.7777777777778,8830
+"Jun 12, 2023",BR,Curitiba,R. Clávio Molinari,null,538,632.5,12
+"Jun 12, 2023",BR,São José dos Pinhais,,null,533,873.6666666666666,46
+"Jun 12, 2023",BR,Curitiba,Av. Sete de Setembro,null,1154.7560975609756,459.2560975609756,9089
+"Jun 12, 2023",BR,Curitiba,R. Prof. Álvaro Jorge,null,578,657.59375,5460
+"Jun 12, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,859.3793103448276,489.2413793103448,9080
+"Jun 12, 2023",BR,Curitiba,Av. do Batel,null,795,399.04761904761904,6984
+"Jun 12, 2023",BR,Pinhais,R. José Mariano dos Santos,null,537,1162.5,24
+"Jun 12, 2023",BR,Curitiba,R. Olavo Bilac,null,567,537,108
+"Jun 12, 2023",BR,Curitiba,Av. Linha Verde,null,1951.7892156862745,641.2536764705883,129362
+"Jun 12, 2023",BR,Curitiba,R. Guabirotuba,null,774.4545454545455,690.0909090909091,2062
+"Jun 12, 2023",BR,Curitiba,Via Exclusiva de ônibus,null,513,556,14
+"Jun 12, 2023",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,692.030303030303,387.27272727272725,2954
+"Jun 12, 2023",BR,Curitiba,R. João Chede,null,758.6153846153846,705.1153846153846,1676
+"Jun 12, 2023",BR,Curitiba,R. Engenheiros Rebouças,null,1023,491.125,4520
+"Jun 12, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,HAZARD,757.3428571428572,310.0857142857143,2197
+"Jun 12, 2023",BR,Curitiba,R. Francisco Rocha,null,1255.0555555555557,667.6111111111111,7354
+"Jun 12, 2023",BR,Curitiba,R. Emanoel Voluz,null,881.2903225806451,789.6129032258065,5092
+"Jun 12, 2023",BR,Curitiba,R. Imaculada Conceição,null,656.75,523.6,3198
+"Jun 12, 2023",BR,Curitiba,R. Chile,null,1425.875,431.125,3370
+"Jun 12, 2023",BR,Curitiba,R. Hugo Kinzelmann,null,512.5,616.625,562
+"Jun 11, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,2990.133333333333,339.0833333333333,19649
+"Jun 11, 2023",BR,São José dos Pinhais,R. Profa. Ernestina de Macedo Souza Cortes,null,601,614.2,30
+"Jun 11, 2023",BR,Curitiba,R. João Bonat,null,639.5,287.75,332
+"Jun 11, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,2801.1666666666665,517.1666666666666,42
+"Jun 11, 2023",BR,Curitiba,R. Affife Mansur,null,671,698.9622641509434,7930
+"Jun 11, 2023",BR,Curitiba,R. Da. Branca do Nascimento Miranda,null,729.2666666666667,387,3488
+"Jun 11, 2023",BR,São José dos Pinhais,R. Júlio César Setenareski,null,1950.9583333333333,1030.7569444444443,3311
+"Jun 11, 2023",BR,Curitiba,R. Dr. Aluízio França,null,1110.642857142857,255.78571428571428,1528
+"Jun 11, 2023",BR,Curitiba,Al. D. Pedro II,null,544,805,40
+"Jun 11, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3352.032608695652,240.41304347826087,28695
+"Jun 11, 2023",BR,Curitiba,,null,696,551,16
+"Jun 11, 2023",BR,Curitiba,R. Fernando de Noronha,null,563,1168,18
+"Jun 11, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,ACCIDENT,2904,985.875,5168
+"Jun 11, 2023",BR,Curitiba,R. André Ferreira Camargo,null,696,1621.5,12
+"Jun 11, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,3405.8333333333335,636.5,21694
+"Jun 11, 2023",BR,Curitiba,Av. João Gualberto,null,861,547.2857142857143,73
+"Jun 11, 2023",BR,Pinhais,Est. Ecológica de Pinhais,null,577,718.4285714285714,70
+"Jun 11, 2023",BR,Curitiba,R. Mateus Leme,null,771,405,306
+"Jun 11, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,668,494.6,42
+"Jun 11, 2023",BR,Pinhais,Av. Jacob Macanhan,null,500,985.25,50
+"Jun 11, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,ACCIDENT,3274.6666666666665,1308.8333333333333,10698
+"Jun 11, 2023",BR,Curitiba,Av. Winston Churchill,null,583,611,4
+"Jun 11, 2023",BR,Piraquara,R. Vagner Luis Boscardin,null,3154.3636363636365,333.09090909090907,48
+"Jun 11, 2023",BR,São José dos Pinhais,R. Joaquim Nabuco,null,561.8333333333334,310.4166666666667,252
+"Jun 11, 2023",BR,Curitiba,R. Nilo Peçanha,null,1216.490909090909,692.9181818181818,21803
+"Jun 11, 2023",BR,Pinhais,R. Isaac Victor Pereira,null,589,951.7,20
+"Jun 11, 2023",BR,São José dos Pinhais,R. Dr. Motta Jr.,null,660,720.5,52
+"Jun 11, 2023",BR,Curitiba,R. Pe. Anchieta,null,690,830,20
+"Jun 11, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,754.4,1703.2,24
+"Jun 10, 2023",BR,Curitiba,R. Eduardo Pinto da Rocha,null,589,493,56
+"Jun 10, 2023",BR,Curitiba,R. Dr. Aluízio França,null,1481.2857142857142,303.42857142857144,628
+"Jun 10, 2023",BR,Curitiba,R. Eurico Fonseca dos Santos,null,505,1091,24
+"Jun 10, 2023",BR,Curitiba,R. Des. José Carlos Ribeiro Ribas,null,633.6304347826087,374.0652173913044,4852
+"Jun 10, 2023",BR,Curitiba,R. Conde dos Arcos,null,551,522,10
+"Jun 10, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,7061.431192660551,2844.678899082569,64302
+"Jun 10, 2023",BR,Piraquara,Av. Antônio Meireles Sobrinho,null,709.6666666666666,352.6666666666667,92
+"Jun 10, 2023",BR,Curitiba,Vd. Colorado,null,757.1341463414634,597.5243902439024,6193
+"Jun 10, 2023",BR,Curitiba,R. João Schleder Sobrinho,null,693,795.5,8
+"Jun 10, 2023",BR,Curitiba,Av. Winston Churchill,null,655,829,24
+"Jun 10, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1160.5,1175.1875,4886
+"Jun 10, 2023",BR,Curitiba,R. Natal,null,511,795,8
+"Jun 10, 2023",BR,Curitiba,Al. Princesa Izabel,null,549,732,14
+"Jun 10, 2023",BR,Curitiba,R. Nilo Peçanha,null,1005.7619047619048,419.5833333333333,10871
+"Jun 10, 2023",BR,Curitiba,Est. do Ganchinho,null,831,171,28
+"Jun 10, 2023",BR,Curitiba,R. Visc. do Serro Frio,null,655.6666666666666,961.6666666666666,48
+"Jun 10, 2023",BR,Curitiba,V. Exclusiva Ônibus,null,605.8,417.4,46
+"Jun 10, 2023",BR,Curitiba,Av. João Gualberto,null,854.5,430.77777777777777,1888
+"Jun 10, 2023",BR,Curitiba,R. Wanda Wolf,null,580,807.3333333333334,16
+"Jun 10, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,730,1292,20
+"Jun 10, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,8588,1232,844
+"Jun 10, 2023",BR,Curitiba,R. Ângelo Marqueto,null,925,3901.2,26
+"Jun 10, 2023",BR,São José dos Pinhais,R. Júlio César Setenareski,null,1898.8,415.4,38
+"Jun 10, 2023",BR,São José dos Pinhais,R. Curitiba,null,529,566.5,24
+"Jun 10, 2023",BR,Curitiba,R. Pará,null,775,360,14
+"Jun 10, 2023",BR,Curitiba,R. Augusto de Mari,null,787,929,14
+"Jun 10, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,569.3333333333334,708.8888888888889,124
+"Jun 10, 2023",BR,Curitiba,R. Nestor Victor,null,584,655,8
+"Jun 10, 2023",BR,Curitiba,R. Des. Isaías Beviláqua,null,818,542,20
+"Jun 10, 2023",BR,Curitiba,Al. Ecológica Burle Marx,null,697,265.6666666666667,144
+"Jun 10, 2023",BR,Pinhais,R. 22 de Abril,null,584,569.4,70
+"Jun 10, 2023",BR,Curitiba,Av. Senador Salgado Filho,null,506,545,40
+"Jun 10, 2023",BR,Quatro Barras,R. do Contorno,null,732,2468,8
+"Jun 10, 2023",BR,Pinhais,R. Primeiro de Maio,null,630,572.75,24
+"Jun 10, 2023",BR,Curitiba,R. Vicente Geronasso,null,617,587.25,54
+"Jun 10, 2023",BR,Curitiba,Av. Sete de Setembro,null,704.6666666666666,623.6666666666666,200
+"Jun 10, 2023",BR,Curitiba,R. Gen. Carneiro,null,590.5714285714286,705.9285714285714,1794
+"Jun 10, 2023",BR,Curitiba,R. Francisco de Paula Guimarães,null,658,894,24
+"Jun 10, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,511,200.6,30
+"Jun 10, 2023",BR,Curitiba,R. São Carlos,null,736.8,1067,60
+"Jun 10, 2023",BR,Curitiba,R. Maceió,null,550,1313,8
+"Jun 10, 2023",BR,Curitiba,R. Schiller,null,630.5,1541.1666666666667,58
+"Jun 10, 2023",BR,Curitiba,R. Mateus Leme,null,710,494,102
+"Jun 10, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,849.3913043478261,302.5217391304348,3078
+"Jun 10, 2023",BR,Curitiba,R. Almirante Tamandaré,null,1180.8181818181818,466.90909090909093,4410
+"Jun 10, 2023",BR,São José dos Pinhais,Al. Bom Pastor,null,772.6,411.6,42
+"Jun 10, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,684.3333333333334,401.44444444444446,912
+"Jun 10, 2023",BR,Curitiba,Av. República Argentina,null,770,1347,24
+"Jun 10, 2023",BR,Curitiba,Av. Agostinho Leão Jr.,null,633.9411764705883,654.5294117647059,2692
+"Jun 10, 2023",BR,Curitiba,R. Augusto Severo,null,719.7142857142857,349.57142857142856,5144
+"Jun 10, 2023",BR,Curitiba,R. Augusto Stresser,null,980.9444444444445,436.44444444444446,5396
+"Jun 10, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,HAZARD,6873.5,9110.166666666666,2542
+"Jun 10, 2023",BR,Curitiba,Av. Cândido Hartmann,null,920.6666666666666,421.42857142857144,4684
+"Jun 10, 2023",BR,São José dos Pinhais,,null,605.3333333333334,2298.8333333333335,68
+"Jun 10, 2023",BR,São José dos Pinhais,R. Estela Mara Rezende,null,1018.1428571428571,403.4642857142857,759
+"Jun 10, 2023",BR,Piraquara,R. José Boganiko Sobrinho,null,518,246.5,40
+"Jun 10, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,606,656.6,84
+"Jun 10, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,3611.25,581.5,2504
+"Jun 10, 2023",BR,Curitiba,R. Pe. Anchieta,null,591,436,26
+"Jun 10, 2023",BR,Curitiba,BR-116 N Contorno Leste,ACCIDENT,3539.8039215686276,1493.764705882353,17314
+"Jun 10, 2023",BR,Curitiba,R. Heitor de Andrade,null,560,919.75,16
+"Jun 10, 2023",BR,Curitiba,Av. Linha Verde,null,1123.1666666666667,383.10555555555555,50340
+"Jun 10, 2023",BR,Curitiba,R. Conselheiro Araújo,null,576,596,272
+"Jun 9, 2023",BR,Curitiba,Av. Linha Verde,null,1268.1818181818182,249.45454545454547,3938
+"Jun 9, 2023",BR,Curitiba,R. Augusto Steembock,null,695,599,14
+"Jun 9, 2023",BR,Curitiba,Av. Manoel Ribas,null,847,547,34
+"Jun 9, 2023",BR,Curitiba,R. São José dos Pinhais,null,631,570,28
+"Jun 9, 2023",BR,Curitiba,,null,523,436,18
+"Jun 9, 2023",BR,São José dos Pinhais,R. Lourenço Pichorin,null,1143,1067,4
+"Jun 9, 2023",BR,Curitiba,R. Frederico Maurer,null,732,900,4
+"Jun 9, 2023",BR,Curitiba,R. Pst. Manoel Virgínio de Souza,null,500,340,18
+"Jun 9, 2023",BR,Curitiba,R. Alferes Poli,null,869,761,80
+"Jun 9, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1226.3333333333333,533.9444444444445,23230
+"Jun 9, 2023",BR,Curitiba,Av. Pres. Kennedy,null,843,162,748
+"Jun 9, 2023",BR,Curitiba,R. Maj. Fabriciano do Rego Barros,null,521,486,20
+"Jun 9, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1041.8,430.6,106
+"Jun 9, 2023",BR,Curitiba,Av. Pres. Kennedy,ACCIDENT,957,592.2307692307693,4016
+"Jun 9, 2023",BR,Curitiba,R. Rogério Xavier Rocha Loures,null,643,1281,18
+"Jun 9, 2023",BR,Curitiba,R. N. Sra. do Perpétuo Socorro,null,685,900.8,15
+"Jun 9, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,1409.25,892.75,1938
+"Jun 9, 2023",BR,Colombo,R. Buenos Aires,null,713,430.2,24
+"Jun 9, 2023",BR,Campina Grande do Sul,R. Alderico Bandeira de Lima,null,629,1010.3333333333334,22
+"Jun 9, 2023",BR,Curitiba,Av. Anita Garibaldi,ACCIDENT,1305.7272727272727,799.4545454545455,428
+"Jun 9, 2023",BR,Curitiba,R. Eng. Ariel Villar Tacla,null,799,446.75,86
+"Jun 9, 2023",BR,Curitiba,R. Waldemar Kost,null,615,677,8
+"Jun 9, 2023",BR,Curitiba,R. Cel. Dulcídio,null,628,498,8
+"Jun 9, 2023",BR,Pinhais,R. Aluísio Azevedo,null,630,431,8
+"Jun 9, 2023",BR,Curitiba,R. Manoel de Souza Dias Negrão,null,614,856,12
+"Jun 9, 2023",BR,Curitiba,R. Buenos Aires,null,504,636,78
+"Jun 9, 2023",BR,São José dos Pinhais,,null,657.5,1418.75,68
+"Jun 9, 2023",BR,Curitiba,R. Schiller,null,511,707,22
+"Jun 9, 2023",BR,Colombo,Tv. Pedro Pock,null,665,706,4
+"Jun 9, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1025,407.5,122
+"Jun 9, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,552,550,26
+"Jun 9, 2023",BR,São José dos Pinhais,Av. dos Cardeais,null,752,592,10
+"Jun 9, 2023",BR,Curitiba,R. Pe. Anchieta,null,519,752,14
+"Jun 9, 2023",BR,Curitiba,R. Prof. Assis Gonçalves,null,699,724,10
+"Jun 9, 2023",BR,Curitiba,R. Carlos de Laet,null,827,927,50
+"Jun 9, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,829.5652173913044,570.804347826087,1399
+"Jun 9, 2023",BR,Curitiba,R. Nunes Machado,null,670,302.5,40
+"Jun 9, 2023",BR,Curitiba,R. Mons. Manoel Vicente,null,590,1028,4
+"Jun 9, 2023",BR,Curitiba,R. das Carmelitas,null,668,433.6666666666667,30
+"Jun 8, 2023",BR,Curitiba,R. Niccolo Paganini,null,540,442.5,52
+"Jun 8, 2023",BR,Curitiba,R. Pres. Carlos Cavalcanti,null,551,759.6666666666666,914
+"Jun 8, 2023",BR,Curitiba,Av. Cândido de Abreu,null,768.9347826086956,338.2826086956522,2762
+"Jun 8, 2023",BR,Curitiba,R. Mateus Leme,null,1372.2137931034483,779.9379310344827,44454
+"Jun 8, 2023",BR,Curitiba,R. São Januário,null,652,972,12
+"Jun 8, 2023",BR,Curitiba,R. Júlio Zandoná,null,767,1209.6666666666667,32
+"Jun 8, 2023",BR,Curitiba,R. Barão de Antonina,null,505.5,702.1,2074
+"Jun 8, 2023",BR,Curitiba,R. Dep. Mário de Barros,null,591.7213114754098,408.3893442622951,25854
+"Jun 8, 2023",BR,Curitiba,R. Sebastião Alves Ferreira,null,629,982,4
+"Jun 8, 2023",BR,Curitiba,R. Dr. Bemben,null,646,524.3333333333334,170
+"Jun 8, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1268.4545454545455,987.6818181818181,15480
+"Jun 8, 2023",BR,Curitiba,R. Rio Japurá,null,796,674.6666666666666,20
+"Jun 8, 2023",BR,Curitiba,BR-376 Contorno Sul,null,2515.2,174.8,1248
+"Jun 8, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,2588.3529411764707,349.29411764705884,9960
+"Jun 8, 2023",BR,Curitiba,R. Des. Cid Campelo,null,687,905,30
+"Jun 8, 2023",BR,Curitiba,Av. João Gualberto,null,1012.2666666666667,399,3064
+"Jun 8, 2023",BR,Curitiba,R. Francisco Fay Neves,null,560,447.5,12
+"Jun 8, 2023",BR,São José dos Pinhais,R. Paulino de Siqueira Cortes,null,781.3333333333334,844.3333333333334,42
+"Jun 8, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,2170.3846153846152,531.8461538461538,5416
+"Jun 8, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1313.4375,911.0416666666666,5705
+"Jun 8, 2023",BR,Pinhais,R. Rio Piquiri,null,783,431.6666666666667,24
+"Jun 8, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,null,6241.5,1527.5625,10016
+"Jun 8, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,3939.6,535.2,2158
+"Jun 8, 2023",BR,Curitiba,R. Barão do Rio Branco,null,582,807,30
+"Jun 8, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,10349.666666666666,7711.666666666667,2736
+"Jun 8, 2023",BR,Curitiba,R. Atílio Bório,null,813,754,18
+"Jun 8, 2023",BR,Colombo,R. Arapongas,null,673,550,5
+"Jun 8, 2023",BR,Piraquara,R. Nova Tirol,null,1887,391.5,12
+"Jun 8, 2023",BR,Curitiba,Av. Manoel Ribas,null,528,565,14
+"Jun 8, 2023",BR,Curitiba,R. Pe. Anchieta,null,519,1070,14
+"Jun 8, 2023",BR,Curitiba,Al. Ecológica Burle Marx,null,1214.1883408071749,522.8430493273543,6771
+"Jun 8, 2023",BR,Curitiba,R. Affife Mansur,null,562,512.2,38
+"Jun 8, 2023",BR,São José dos Pinhais,R. Profa. Ernestina de Macedo Souza Cortes,null,575,1235,14
+"Jun 8, 2023",BR,Curitiba,Av. Linha Verde,null,1234.6136363636363,1022.4431818181819,11748
+"Jun 8, 2023",BR,Curitiba,R. Riachuelo,null,625.8,685.7428571428571,6108
+"Jun 8, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,611,478,12
+"Jun 8, 2023",BR,São José dos Pinhais,R. Joaquim Nabuco,null,541,326.5625,410
+"Jun 8, 2023",BR,Curitiba,Av. Cândido Hartmann,null,761.5121951219512,426.3414634146341,3774
+"Jun 8, 2023",BR,Curitiba,,null,696,613.8,86
+"Jun 8, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1577.7142857142858,544.8571428571429,2676
+"Jun 8, 2023",BR,Curitiba,R. Mal. Mallet,null,642,465,32
+"Jun 8, 2023",BR,Curitiba,R. Cap. Argemiro Monteiro Wanderley,null,536,1160,4
+"Jun 8, 2023",BR,Colombo,R. Rodolfo Camargo,null,724,658.6,24
+"Jun 7, 2023",BR,Curitiba,Av. Paraná,null,725.875,931.625,392
+"Jun 7, 2023",BR,Curitiba,R. Pe. Agostinho,null,1541.25,633.1875,5749
+"Jun 7, 2023",BR,Piraquara,BR-116 Contorno Leste,ACCIDENT,1213,1207,44
+"Jun 7, 2023",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,2301.75,471.0357142857143,2582
+"Jun 7, 2023",BR,Curitiba,Av. Linha Verde,null,2759.5833333333335,923.9605263157895,124475
+"Jun 7, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,4542.575342465753,1282.2191780821918,21986
+"Jun 7, 2023",BR,Curitiba,Av. Victor Ferreira do Amaral,null,1221.5652173913043,381.7391304347826,7776
+"Jun 7, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5129.653744493392,1751.3691629955947,155565
+"Jun 7, 2023",BR,Colombo,R. Cascavel,null,580,502,8
+"Jun 7, 2023",BR,Curitiba,,null,541.5454545454545,414.90909090909093,932
+"Jun 7, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,null,623.4166666666666,518.5833333333334,555
+"Jun 7, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,1704.8095238095239,938.7380952380952,51646
+"Jun 7, 2023",BR,Curitiba,Av. Cândido Hartmann,null,1327.878048780488,743.4634146341464,13081
+"Jun 7, 2023",BR,Curitiba,R. Nunes Machado,null,1215,1168,54
+"Jun 7, 2023",BR,Curitiba,R. Ipiranga,null,789,602.9,4210
+"Jun 7, 2023",BR,Curitiba,R. Engenheiros Rebouças,null,951.125,460.25,4264
+"Jun 7, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,4695.706422018348,1083.1834862385322,32587
+"Jun 7, 2023",BR,Curitiba,R. Euzébio da Motta,null,550.6666666666666,670.3333333333334,68
+"Jun 7, 2023",BR,Curitiba,R. Mal. Deodoro,null,526,383.2647058823529,2954
+"Jun 7, 2023",BR,Colombo,Av. Abel Scuissiato,null,525,1009.2,306
+"Jun 7, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,ACCIDENT,1279,731.5384615384615,9386
+"Jun 7, 2023",BR,Curitiba,R. Eng. Ostoja Roguski,null,615.2380952380952,555.4285714285714,6132
+"Jun 7, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3512.4770642201834,966.0321100917431,26669
+"Jun 7, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,HAZARD,870.75,325,1500
+"Jun 7, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,null,2294.187319884726,697.864553314121,92894
+"Jun 7, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,2246,968.1666666666666,530
+"Jun 7, 2023",BR,Curitiba,R. Imaculada Conceição,null,765.1,673.45,9569
+"Jun 7, 2023",BR,Curitiba,R. Dr. Aluízio França,null,511,758.5,1361
+"Jun 7, 2023",BR,Curitiba,R. Paulo Gorski,null,604.5,466,1084
+"Jun 7, 2023",BR,São José dos Pinhais,R. David Campista,null,727.5862068965517,542.2068965517242,1156
+"Jun 7, 2023",BR,Curitiba,BR-376 Contorno Sul,null,5705.916923076923,1220.0446153846153,137220
+"Jun 7, 2023",BR,Curitiba,R. Dr. Júlio Cesar Ribeiro de Souza,null,1039,448,684
+"Jun 7, 2023",BR,Curitiba,BR-376 Contorno Sul,HAZARD,5419.566666666667,1469.2333333333333,8588
+"Jun 7, 2023",BR,Curitiba,R. Gen. Carneiro,null,540,1529,70
+"Jun 7, 2023",BR,Curitiba,R. Paul Garfunkel,null,1008.5,330.6,1105
+"Jun 7, 2023",BR,Curitiba,R. Arthur Leinig,null,653,1474.5,24
+"Jun 7, 2023",BR,Curitiba,R. Cristiano Strobel,null,581,543.6666666666666,62
+"Jun 7, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,1270.2051282051282,676.025641025641,1758
+"Jun 7, 2023",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,null,1759.6216216216217,314.05405405405406,6726
+"Jun 7, 2023",BR,São José dos Pinhais,Saída 103 A,null,653,336.5,62
+"Jun 7, 2023",BR,São José dos Pinhais,Al. Bom Pastor,null,1238.1379310344828,474.51724137931035,3892
+"Jun 7, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,9104.818181818182,654.7840909090909,31117
+"Jun 7, 2023",BR,Curitiba,R. Francisco Raitani,null,1037.9,341.05,9682
+"Jun 7, 2023",BR,Curitiba,Est. do Ganchinho,null,1396.0153846153846,552.8615384615384,4746
+"Jun 7, 2023",BR,Campo Largo,BR-277 S Rod. do Café Gov. Ney Braga,null,2787.5,657.8333333333334,2190
+"Jun 7, 2023",BR,Curitiba,Av. João Gualberto,null,1036.5,510.4166666666667,552
+"Jun 7, 2023",BR,Curitiba,R. Emílio de Menezes,null,646,913,26
+"Jun 7, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1780.826923076923,670.3846153846154,13679
+"Jun 7, 2023",BR,Curitiba,R. Sônia Maria,null,518,874.5,136
+"Jun 7, 2023",BR,Curitiba,R. Brigadeiro Franco,null,1129.45,545.85,9110
+"Jun 7, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,ACCIDENT,671,366.3333333333333,826
+"Jun 7, 2023",BR,Curitiba,R. Ver. Constante Pinto,null,639,626,16
+"Jun 7, 2023",BR,Curitiba,Av. Água Verde,null,839.4,444.4,3136
+"Jun 7, 2023",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,null,898.625,389.4375,1247
+"Jun 7, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,849.2222222222222,430.0833333333333,692
+"Jun 7, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,1129.4347826086957,655.5217391304348,10953
+"Jun 7, 2023",BR,Curitiba,R. Pe. José Kentenich,ACCIDENT,631,469.75,598
+"Jun 7, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,4737.041666666667,1224.6666666666667,13436
+"Jun 7, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1568,599,4628
+"Jun 7, 2023",BR,Curitiba,V. Exclusiva Ônibus,null,744.5,445,28
+"Jun 7, 2023",BR,Curitiba,R. Omar Raymundo Picheth,null,714.85,551.145,14962
+"Jun 7, 2023",BR,Curitiba,R. João Batista Zagonel Passos,null,939,704.5,32
+"Jun 7, 2023",BR,Curitiba,R. Velcy Bolívar Grandó,ACCIDENT,982.8,526.8,738
+"Jun 7, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,559,1480.5,40
+"Jun 7, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,ACCIDENT,875.5,599.5714285714286,4343
+"Jun 7, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,1109.3076923076924,653.3846153846154,2244
+"Jun 7, 2023",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1677.859649122807,367.35087719298247,1076
+"Jun 7, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,3205.5283018867926,361.7311320754717,56200
+"Jun 7, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,863.4,422.2,7274
+"Jun 7, 2023",BR,Curitiba,BR-116 S Contorno Leste,ACCIDENT,3139.731343283582,1647.5074626865671,7358
+"Jun 7, 2023",BR,Araucária,Av. das Araucárias,null,4616,807,798
+"Jun 7, 2023",BR,Curitiba,R. Marquês do Paraná,null,557,294,228
+"Jun 7, 2023",BR,Curitiba,Marg. BR-116 Contorno Leste,null,614,320.22222222222223,406
+"Jun 7, 2023",BR,Curitiba,R. Francisco Mota Machado,null,720,549,10
+"Jun 7, 2023",BR,Curitiba,R. Emanoel Voluz,null,888,665,260
+"Jun 7, 2023",BR,Curitiba,R. Hermes Fontes,null,541,568,18
+"Jun 7, 2023",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,3407.140625,468.265625,33262
+"Jun 7, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1876,882.1428571428571,5010
+"Jun 7, 2023",BR,Curitiba,R. Lamenha Lins,null,1108.421052631579,661.1052631578947,2886
+"Jun 7, 2023",BR,São José dos Pinhais,Av. Guatupê,null,640,1142.6666666666667,18
+"Jun 7, 2023",BR,Curitiba,R. Prof. João Falarz,null,1118.7457627118645,588.7457627118644,5645
+"Jun 7, 2023",BR,Curitiba,R. Tenente Miguel Afonso Ribeiro Cubas,null,554.2941176470588,487.20588235294116,4223
+"Jun 7, 2023",BR,Curitiba,R. Carlos Klemtz,null,577.5,578.75,229
+"Jun 7, 2023",BR,São José dos Pinhais,R. Constante Moro Sobrinho,null,2103.206896551724,466.86206896551727,4496
+"Jun 7, 2023",BR,Curitiba,R. Jornalista Caio Machado,null,628,849,12
+"Jun 7, 2023",BR,Curitiba,Av. Pres. Kennedy,null,1592.8727272727272,550.5272727272727,29208
+"Jun 7, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,727.7175572519084,552.0343511450382,19114
+"Jun 7, 2023",BR,São José dos Pinhais,R. Dr. Murici,null,1125.2307692307693,425.37179487179486,1453
+"Jun 7, 2023",BR,Curitiba,Av. Iguaçu - Pista Dir.,null,664.8571428571429,649.5714285714286,1434
+"Jun 7, 2023",BR,Curitiba,R. Dom Bosco,null,575,901.5,12
+"Jun 7, 2023",BR,Colombo,R. Pres. Faria,null,728,626.5,30
+"Jun 7, 2023",BR,Curitiba,Av. Anita Garibaldi,null,507,2128,20
+"Jun 7, 2023",BR,Curitiba,R. Alferes Poli,null,532,260.2307692307692,2428
+"Jun 7, 2023",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,null,2417.866666666667,369.3333333333333,9750
+"Jun 7, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,5937,748.875,5106
+"Jun 7, 2023",BR,Curitiba,Av. República Argentina,null,1100.5454545454545,554.7878787878788,4944
+"Jun 7, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,3913.948717948718,3722.7179487179487,42506
+"Jun 7, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,3331.1,732.65,10452
+"Jun 7, 2023",BR,Curitiba,R. Gastão Câmara,null,675.7142857142857,481.3095238095238,6392
+"Jun 7, 2023",BR,São José dos Pinhais,Al. Arpo,null,858.1964285714286,389.42857142857144,3484
+"Jun 7, 2023",BR,Curitiba,Av. Sete de Setembro,null,1121.9447852760736,571.2883435582822,20905
+"Jun 7, 2023",BR,Curitiba,R. Dr. Pedro A. M. Barreto Monclaro,null,627.3333333333334,346.6666666666667,942
+"Jun 7, 2023",BR,Curitiba,R. Maestro Francisco Antonello,null,891.2253521126761,384.7676056338028,8631
+"Jun 7, 2023",BR,Curitiba,PR-418 Contorno Norte,null,4534.879518072289,397.7710843373494,10265
+"Jun 7, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,3883.2272727272725,853.55,35168
+"Jun 7, 2023",BR,Piraquara,Av. Antônio Meireles Sobrinho,null,591.8,412.6,116
+"Jun 7, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,2180,642.3846153846154,6146
+"Jun 7, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1154.095238095238,572.2380952380952,8716
+"Jun 7, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,977.8709677419355,499.83870967741933,4123
+"Jun 7, 2023",BR,Curitiba,R. Raul Pompéia,null,614.7177419354839,629.8145161290323,8520
+"Jun 7, 2023",BR,São José dos Pinhais,R. Antônio Batista de Bastos,null,698.7777777777778,449.44444444444446,296
+"Jun 7, 2023",BR,Curitiba,R. Velcy Bolívar Grandó,null,572,201.8,1406
+"Jun 7, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1292.5,429.5,4192
+"Jun 7, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,ACCIDENT,1808.5,83,1480
+"Jun 7, 2023",BR,Curitiba,R. João Bettega,null,721,681,170
+"Jun 7, 2023",BR,Curitiba,R. Morretes,null,706,422,774
+"Jun 7, 2023",BR,Curitiba,R. das Andorinhas,null,528.1111111111111,453.55555555555554,2614
+"Jun 7, 2023",BR,Piraquara,BR-116 Contorno Leste,null,4770.747474747474,2225.063131313131,30015
+"Jun 7, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,1453.9756097560976,599.8048780487804,610
+"Jun 7, 2023",BR,Curitiba,R. Dr. Petrônio Romero de Souza,null,521,466.5,1404
+"Jun 7, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,947.0849673202614,764.1045751633987,39785
+"Jun 7, 2023",BR,Piraquara,R. Betonex,null,612,876.5,44
+"Jun 7, 2023",BR,Curitiba,R. Augusto Stresser,null,1288,579.875,2534
+"Jun 7, 2023",BR,Curitiba,R. Frederico Cantarelli,null,592,496,822
+"Jun 7, 2023",BR,Curitiba,R. Paulo Kissula,null,503,429,142
+"Jun 7, 2023",BR,Curitiba,Av. Comendador Franco,null,2279.483870967742,580.1612903225806,35274
+"Jun 7, 2023",BR,Curitiba,Av. Iguaçu,null,886.6666666666666,342.3333333333333,5562
+"Jun 7, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1079.6315789473683,570.6929824561404,17155
+"Jun 7, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,ACCIDENT,606.3333333333334,362.6666666666667,2410
+"Jun 7, 2023",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,HAZARD,2180,857.6666666666666,1150
+"Jun 7, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3439.7906976744184,1881.0658914728683,9569
+"Jun 7, 2023",BR,Curitiba,Al. Nossa Senhora do Sagrado Coração,null,729.4516129032259,663.6774193548387,1720
+"Jun 7, 2023",BR,Curitiba,R. Rio Grande do Sul,null,522,642.5714285714286,1360
+"Jun 7, 2023",BR,Curitiba,R. Cleto da Silva,null,651,752,12
+"Jun 7, 2023",BR,Curitiba,R. Prof. Dário Veloso,null,543,854,50
+"Jun 7, 2023",BR,Curitiba,Marg. BR-277,null,686.1785714285714,642.1428571428571,2642
+"Jun 7, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,HAZARD,1788.5,661.8333333333334,2472
+"Jun 7, 2023",BR,Curitiba,R. João Lunardeli,null,1009.34,456.24,872
+"Jun 7, 2023",BR,Curitiba,Al. Dr. Carlos de Carvalho,null,560,519,6
+"Jun 7, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,ACCIDENT,987.1428571428571,544.2857142857143,1192
+"Jun 7, 2023",BR,Curitiba,R. Pe. Anchieta,null,1031.175,494.8875,5271
+"Jun 7, 2023",BR,Curitiba,R. Carlos de Laet,null,666,572,14
+"Jun 7, 2023",BR,Curitiba,R. João Chede,null,982.6382978723404,947.4468085106383,2886
+"Jun 7, 2023",BR,Curitiba,R. Imaculada Conceição,ACCIDENT,739,988,478
+"Jun 6, 2023",BR,São José dos Pinhais,R. Pe. Antônio Darius,null,647,779.5,10
+"Jun 6, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,617.2307692307693,287.0769230769231,408
+"Jun 6, 2023",BR,Curitiba,R. Chile,null,1621.2926829268292,566.780487804878,33111
+"Jun 6, 2023",BR,Curitiba,R. Tibagi,null,911.5675675675676,480.2162162162162,17818
+"Jun 6, 2023",BR,Pinhais,R. 21 de Abril,null,503,1003,20
+"Jun 6, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,null,908.9285714285714,517.5714285714286,1298
+"Jun 6, 2023",BR,Curitiba,R. Francisco Rocha,null,932.9285714285714,439.42857142857144,7270
+"Jun 6, 2023",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,3422,132,116
+"Jun 6, 2023",BR,Curitiba,R. Paul Garfunkel,null,521.0909090909091,391.45454545454544,310
+"Jun 6, 2023",BR,Curitiba,Av. Winston Churchill,null,694,457.5,8
+"Jun 6, 2023",BR,Curitiba,R. Des. Otávio do Amaral,null,643,1265,36
+"Jun 6, 2023",BR,Curitiba,R. Prof. Fernando Moreira,null,929.2631578947369,712.6315789473684,7178
+"Jun 6, 2023",BR,Curitiba,Av. Cândido de Abreu,null,680,425.5,1206
+"Jun 6, 2023",BR,Curitiba,R. Sete de Abril,null,537.4583333333334,373.4166666666667,4018
+"Jun 6, 2023",BR,Curitiba,R. Miguel Caluf,null,541,641,30
+"Jun 6, 2023",BR,São José dos Pinhais,R. Dr. Murici,null,1091.8461538461538,419.8076923076923,1746
+"Jun 6, 2023",BR,São José dos Pinhais,Av. das Torres,ACCIDENT,687.32,690.36,6534
+"Jun 6, 2023",BR,Curitiba,R. Barão de Antonina,null,581.0454545454545,682.6818181818181,5136
+"Jun 6, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,975.2413793103449,418.6896551724138,1708
+"Jun 6, 2023",BR,Curitiba,BR-116 S Contorno Leste,ACCIDENT,3310,1277,288
+"Jun 6, 2023",BR,Curitiba,PR-418 Contorno Norte,HAZARD,3241.75,660,870
+"Jun 6, 2023",BR,Curitiba,R. Francisco Moro,null,530,1065,12
+"Jun 6, 2023",BR,Curitiba,R. Bruno Filgueira,null,753,413,2356
+"Jun 6, 2023",BR,Curitiba,R. Eng. Costa Barros,null,513.2,858.2,70
+"Jun 6, 2023",BR,Curitiba,Vd. Colorado,null,1115.5483870967741,478.5967741935484,6740
+"Jun 6, 2023",BR,Pinhais,R. Rio Iguaçu,null,519,580,6
+"Jun 6, 2023",BR,Araucária,Av. das Araucárias,ACCIDENT,1278.3297872340424,950.8617021276596,6625
+"Jun 6, 2023",BR,Curitiba,Av. Pres. Wenceslau Braz,null,773.5,535.5,3372
+"Jun 6, 2023",BR,Curitiba,R. Gabriel Frecceiro de Miranda,null,823.3333333333334,627.6666666666666,2040
+"Jun 6, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1097.1666666666667,463.6666666666667,2756
+"Jun 6, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3457.8529411764707,1099.389705882353,10181
+"Jun 6, 2023",BR,Curitiba,R. João Chede,null,771.8260869565217,750.2608695652174,1180
+"Jun 6, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2292.6916666666666,805.65,49396
+"Jun 6, 2023",BR,Curitiba,R. Saldanha Marinho,null,693.625,917.4375,4074
+"Jun 6, 2023",BR,Curitiba,R. Brasílio Itiberê,null,999.3333333333334,653.3846153846154,15290
+"Jun 6, 2023",BR,Curitiba,R. Raul Pompéia,null,556,531.5,122
+"Jun 6, 2023",BR,Curitiba,Av. Silva Jardim,null,1049.962962962963,597.1481481481482,12095
+"Jun 6, 2023",BR,Pinhais,R. Rio Piquiri,null,517,1762.75,44
+"Jun 6, 2023",BR,Curitiba,R. Ouro Verde,null,542,504,4
+"Jun 6, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,981.6666666666666,1043.6666666666667,38
+"Jun 6, 2023",BR,Curitiba,Av. Vicente Machado,null,979.8571428571429,354.07142857142856,10060
+"Jun 6, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,729,1575.75,42
+"Jun 6, 2023",BR,Curitiba,Av. Manoel Ribas,null,622,516.5,56
+"Jun 6, 2023",BR,Curitiba,R. Benedito Guil,null,508,588,12
+"Jun 6, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,ACCIDENT,1560,679,800
+"Jun 6, 2023",BR,Curitiba,Av. Prefeito Omar Sabbag,null,945.6666666666666,401.6666666666667,11066
+"Jun 6, 2023",BR,São José dos Pinhais,R. Francisco Ferreira Machado,null,552,786,16
+"Jun 6, 2023",BR,Curitiba,Av. Sete de Setembro,null,1113.0416666666667,666.8229166666666,11659
+"Jun 6, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,883.3333333333334,486.09722222222223,1517
+"Jun 6, 2023",BR,Curitiba,R. Almirante Gonçalves,null,1158,438.6666666666667,770
+"Jun 6, 2023",BR,Curitiba,R. Nicola Pellanda,null,2941,657.6,661
+"Jun 6, 2023",BR,Curitiba,R. Cyro Correia Pereira,null,521,1122,4
+"Jun 6, 2023",BR,Curitiba,R. Filipinas,null,720,729,20
+"Jun 6, 2023",BR,Curitiba,Av. Linha Verde,null,2324.405,505.395,46770
+"Jun 6, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,HAZARD,789.8387096774194,634.6129032258065,8814
+"Jun 6, 2023",BR,Curitiba,Av. Paraná,null,634.75,570.5,80
+"Jun 6, 2023",BR,Curitiba,R. João Guariza,null,525,619,32
+"Jun 6, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,750.8936170212766,1031.0425531914893,21690
+"Jun 6, 2023",BR,Curitiba,Al. Princesa Izabel,null,641.741935483871,644.4516129032259,2336
+"Jun 6, 2023",BR,Curitiba,Av. Comendador Franco,null,1017.88,434.64,16016
+"Jun 6, 2023",BR,Curitiba,R. Ubaldino do Amaral,null,1561.7894736842106,657.1052631578947,12394
+"Jun 6, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,957.7017543859649,672.1052631578947,24016
+"Jun 6, 2023",BR,Curitiba,R. Gov. Agamenon Magalhães,null,503,277.2857142857143,1164
+"Jun 6, 2023",BR,Curitiba,R. Francisco Derosso,null,911.85,514.15,6010
+"Jun 6, 2023",BR,Curitiba,R. Bôrtolo Pelanda,null,890.7142857142857,466.75,930
+"Jun 6, 2023",BR,Pinhais,R. Corbélia,null,571,485,8
+"Jun 6, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,2243,303.05357142857144,9435
+"Jun 6, 2023",BR,Araucária,PR-421,null,1443.8620689655172,1021.3103448275862,6297
+"Jun 6, 2023",BR,Campina Grande do Sul,R. João Trevizan,null,557,1384,6
+"Jun 6, 2023",BR,Curitiba,R. Alferes Ângelo Sampaio,null,2551.8526315789472,1260.8315789473684,50744
+"Jun 6, 2023",BR,Curitiba,R. Cristiano Strobel,null,526,530.75,78
+"Jun 6, 2023",BR,São José dos Pinhais,R. Antônio Batista de Bastos,null,800.5833333333334,672.6666666666666,768
+"Jun 6, 2023",BR,Curitiba,R. João Lunardeli,null,580,449,18
+"Jun 6, 2023",BR,São José dos Pinhais,BR-376 S Rod. Henrique Herwig,null,1420.5873015873017,421.46031746031747,8524
+"Jun 6, 2023",BR,Curitiba,Av. do Batel,null,720.72,445.36,4416
+"Jun 6, 2023",BR,Curitiba,R. Camões,null,663,828.6666666666666,48
+"Jun 6, 2023",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,null,1714.4411764705883,318.47058823529414,16170
+"Jun 6, 2023",BR,Curitiba,R. Schiller,null,524,810,20
+"Jun 6, 2023",BR,Curitiba,BR-376 Contorno Sul,null,7902.68,743.38,17488
+"Jun 6, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,830.3947368421053,475.0263157894737,2337
+"Jun 6, 2023",BR,Curitiba,R. Prof. João Falarz,null,969.75,592.25,1034
+"Jun 6, 2023",BR,Curitiba,R. Napoleão Laureano,null,518,875.25,16
+"Jun 6, 2023",BR,Curitiba,R. Valdomiro Rodrigues,null,511,672.6206896551724,1050
+"Jun 6, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1409.8484848484848,774.0530303030303,27676
+"Jun 6, 2023",BR,Curitiba,Al. Dr. Carlos de Carvalho,null,888.75,464.375,5390
+"Jun 6, 2023",BR,Curitiba,Al. Dr. Muricy,null,759.1333333333333,458.26666666666665,6636
+"Jun 6, 2023",BR,Curitiba,R. Visc. do Rio Branco,null,722,601.4166666666666,2567
+"Jun 6, 2023",BR,Curitiba,R. Cândido Xavier,null,669.4285714285714,691,544
+"Jun 6, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,6950.625,3062.0694444444443,12903
+"Jun 6, 2023",BR,Curitiba,R. Buenos Aires,null,635.2173913043479,355.8695652173913,4108
+"Jun 6, 2023",BR,Curitiba,PR-418 Contorno Norte,null,2713.712727272727,421.7781818181818,16716
+"Jun 6, 2023",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,750,435.3636363636364,6166
+"Jun 6, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,968.0370370370371,459.4259259259259,3286
+"Jun 6, 2023",BR,Curitiba,R. Emílio Romani,null,546,543.7,328
+"Jun 6, 2023",BR,Curitiba,R. Prof. Álvaro Jorge,null,578,654.8571428571429,8642
+"Jun 6, 2023",BR,Curitiba,R. João Negrão,null,777.4375,429.5625,9868
+"Jun 6, 2023",BR,Curitiba,R. Carlos Essenfelder,null,1130,1683,18
+"Jun 6, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,2175.019047619048,932.2666666666667,47597
+"Jun 6, 2023",BR,Curitiba,R. Des. Motta,null,2248.2444444444445,1440.6444444444444,44906
+"Jun 6, 2023",BR,Curitiba,R. Me. Clélia Merloni,null,536,556,16
+"Jun 6, 2023",BR,São José dos Pinhais,R. David Campista,null,729.16,552.76,772
+"Jun 6, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,572,1018,18
+"Jun 6, 2023",BR,Curitiba,R. Helena Grodzki,null,761.8947368421053,367.5263157894737,695
+"Jun 6, 2023",BR,Araucária,Av. das Araucárias,null,1013.7777777777778,303.44444444444446,1254
+"Jun 6, 2023",BR,Curitiba,R. Santo Antônio,null,798,496.5,36
+"Jun 6, 2023",BR,Curitiba,R. Visc. de Nácar,null,938.7391304347826,767.1521739130435,29762
+"Jun 6, 2023",BR,Curitiba,R. Brigadeiro Franco,null,2083.0833333333335,795.3055555555555,32924
+"Jun 6, 2023",BR,Curitiba,Marg. BR-116,null,1094.69,565.775,21095
+"Jun 6, 2023",BR,Curitiba,Al. Pres. Taunay,null,923.4666666666667,592.6833333333333,10936
+"Jun 6, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,1001.1428571428571,495.7142857142857,168
+"Jun 6, 2023",BR,Curitiba,R. Chanceler Oswaldo Aranha,null,765.4615384615385,406.38461538461536,2432
+"Jun 6, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5706.0610328638495,1032.0586854460093,72440
+"Jun 6, 2023",BR,Pinhais,R. Maria Antonieta dos Santos,null,778,433,6
+"Jun 6, 2023",BR,Curitiba,R. Ourizona,null,530,471.3333333333333,18
+"Jun 6, 2023",BR,Curitiba,R. Engenheiros Rebouças,null,1214.4444444444443,742.6527777777778,26369
+"Jun 6, 2023",BR,Curitiba,R. Prof. João Soares Barcelos,null,676.2424242424242,627.939393939394,8422
+"Jun 6, 2023",BR,Curitiba,R. Eduardo Sprada,null,636,397.1111111111111,785
+"Jun 6, 2023",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,ACCIDENT,2534.705882352941,668.8823529411765,15296
+"Jun 6, 2023",BR,Curitiba,R. William Booth,null,671,1553.25,47
+"Jun 6, 2023",BR,Curitiba,R. Sete de Abril,ACCIDENT,519,421.56666666666666,1925
+"Jun 6, 2023",BR,Curitiba,R. Emanoel Voluz,null,841.8947368421053,800.1578947368421,3366
+"Jun 6, 2023",BR,Curitiba,R. Luiz Leão,null,565,596.551724137931,2000
+"Jun 6, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,4180.461538461538,1232.923076923077,3067
+"Jun 6, 2023",BR,Curitiba,R. Chile,ACCIDENT,982,577.3333333333334,4188
+"Jun 6, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1614.578947368421,443.6842105263158,3930
+"Jun 6, 2023",BR,Curitiba,R. Piquiri,null,825,1188,10
+"Jun 5, 2023",BR,São José dos Pinhais,R. Castro,null,843,547.5,78
+"Jun 5, 2023",BR,Curitiba,R. Carlos de Laet,null,500,1316,8
+"Jun 5, 2023",BR,São José dos Pinhais,R. Pedrina Costa Viski,null,591,456.7,30
+"Jun 5, 2023",BR,Curitiba,R. Nunes Machado,null,750.3333333333334,973.6666666666666,86
+"Jun 5, 2023",BR,Curitiba,R. Theodoro Schneider,null,599,777,14
+"Jun 5, 2023",BR,Curitiba,Av. Sete de Setembro,null,1279,589,76
+"Jun 5, 2023",BR,Araucária,Av. das Araucárias,null,2461,731,840
+"Jun 5, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,758,992.5,54
+"Jun 5, 2023",BR,Pinhais,Est. da Graciosa,ACCIDENT,695,522.2857142857143,726
+"Jun 5, 2023",BR,Almirante Tamandaré,Av. Francisco Krüger,null,1034,313.2142857142857,510
+"Jun 5, 2023",BR,Almirante Tamandaré,Av. Francisco Krüger,ACCIDENT,883.6388888888889,191.08333333333334,442
+"Jun 5, 2023",BR,Curitiba,R. Chile,HAZARD,1474.6363636363637,644,4634
+"Jun 5, 2023",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,null,934.9705882352941,462.11764705882354,8088
+"Jun 5, 2023",BR,Curitiba,R. Pe. Anchieta,null,943.8235294117648,609.3088235294117,7540
+"Jun 5, 2023",BR,Curitiba,R. Sen. Accioly Filho,null,599,1198,46
+"Jun 5, 2023",BR,Curitiba,Av. Linha Verde,null,1635.5604395604396,464.5631868131868,35841
+"Jun 5, 2023",BR,Curitiba,R. Francisco Frischmann,null,1245.6486486486488,533.3108108108108,18637
+"Jun 5, 2023",BR,Piraquara,Av. Antônio Meireles Sobrinho,null,509,359,102
+"Jun 5, 2023",BR,Curitiba,R. Alberto Klemtz,null,504,741.5,28
+"Jun 5, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,1475.7179487179487,872.8333333333334,28937
+"Jun 5, 2023",BR,Curitiba,R. Capitão Souza Franco,null,594,468.1111111111111,7055
+"Jun 5, 2023",BR,Curitiba,R. Jerônimo Durski,null,685.6666666666666,641.7777777777778,4134
+"Jun 5, 2023",BR,Colombo,R. José Maria da Silva Paranhos,null,863.6666666666666,425,6
+"Jun 5, 2023",BR,Curitiba,R. Euzébio da Motta,null,556,482,112
+"Jun 5, 2023",BR,São José dos Pinhais,R. Agudos do Sul,null,597,410,6
+"Jun 5, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,874,427,12
+"Jun 5, 2023",BR,Curitiba,R. Francisco Nadolny,ACCIDENT,573,497,76
+"Jun 5, 2023",BR,Curitiba,R. das Carmelitas,null,1334,462,66
+"Jun 5, 2023",BR,Curitiba,Al. Júlia da Costa,null,744.8333333333334,426.27777777777777,6618
+"Jun 5, 2023",BR,Curitiba,R. Helena Grodzki,null,785.5454545454545,284.09090909090907,969
+"Jun 5, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,ACCIDENT,596,399,208
+"Jun 5, 2023",BR,Curitiba,R. Prof. Nivaldo Braga,null,711.0769230769231,344.7692307692308,429
+"Jun 5, 2023",BR,Pinhais,R. Uniflor,null,816,345,32
+"Jun 5, 2023",BR,Curitiba,R. Epaminondas Santos,null,1029,816,8
+"Jun 5, 2023",BR,Curitiba,R. Gutemberg,null,646,1304.5,66
+"Jun 5, 2023",BR,Curitiba,R. Senador Nereu Ramos,null,632,2192.5,28
+"Jun 5, 2023",BR,Curitiba,R. Chile,null,1191.857142857143,495,2538
+"Jun 5, 2023",BR,Curitiba,R. Cel. José Carvalho de Oliveira,null,518,867.5,16
+"Jun 5, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,2246,383,720
+"Jun 5, 2023",BR,Curitiba,Av. Água Verde,null,829.2,651.3,2958
+"Jun 5, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,925.3333333333334,633.3333333333334,48
+"Jun 5, 2023",BR,Curitiba,R. Pe. Agostinho,null,2441.6769230769232,2521.723076923077,48972
+"Jun 5, 2023",BR,Curitiba,R. José Domakoski,null,603.6666666666666,836.3333333333334,1956
+"Jun 5, 2023",BR,Curitiba,R. 1º de Maio,null,532,433.3333333333333,54
+"Jun 5, 2023",BR,Curitiba,R. Frei Teófilo,null,615,452,12
+"Jun 5, 2023",BR,Curitiba,R. José Cadilhe,null,614,741,54
+"Jun 5, 2023",BR,Curitiba,Av. Iguaçu - Pista Dir.,null,853.0625,542.625,3372
+"Jun 5, 2023",BR,Curitiba,Av. Anita Garibaldi,null,1639.6774193548388,608.1774193548387,1367
+"Jun 5, 2023",BR,Curitiba,R. Gastão Câmara,null,700.9787234042553,1237.0212765957447,9747
+"Jun 5, 2023",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,null,1152.2222222222222,641.6666666666666,3108
+"Jun 5, 2023",BR,Curitiba,Est. do Ganchinho,null,949,445.7857142857143,2570
+"Jun 5, 2023",BR,Curitiba,Av. Água Verde,HAZARD,1172.2857142857142,645.8571428571429,6126
+"Jun 5, 2023",BR,São José dos Pinhais,R. Tomazina,null,634,279,28
+"Jun 5, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1648,466.3333333333333,636
+"Jun 5, 2023",BR,Araucária,Av. das Araucárias,ACCIDENT,1137.0714285714287,433.07142857142856,1404
+"Jun 5, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,1048,340.6,1102
+"Jun 5, 2023",BR,Curitiba,R. Fernando Simas,null,1046,367.1,6972
+"Jun 5, 2023",BR,Curitiba,Av. Cândido Hartmann,null,1324.75,775.5,17856
+"Jun 5, 2023",BR,Curitiba,Av. Iguaçu - Pista Dir.,ACCIDENT,698.5,275.875,1316
+"Jun 5, 2023",BR,Curitiba,R. Prof. João Soares Barcelos,null,832.1071428571429,762.3571428571429,6896
+"Jun 5, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,6861.689655172414,1340.2241379310344,13039
+"Jun 5, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1728.3333333333333,522,844
+"Jun 5, 2023",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,ACCIDENT,608.7857142857143,538.4910714285714,17700
+"Jun 5, 2023",BR,São José dos Pinhais,Av. Industrial,null,840,398.6666666666667,20
+"Jun 5, 2023",BR,Curitiba,Av. Paraná,null,1066.7142857142858,936.5714285714286,144
+"Jun 5, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,569.5714285714286,330.2857142857143,1276
+"Jun 5, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,2302,196.8,1164
+"Jun 5, 2023",BR,Curitiba,PR-418 Contorno Norte,null,3865.942857142857,641.7238095238096,19698
+"Jun 5, 2023",BR,Curitiba,R. Eng. Costa Barros,null,502,209.2,50
+"Jun 5, 2023",BR,Curitiba,R. Hugo Kinzelmann,null,505,749.4,518
+"Jun 5, 2023",BR,São José dos Pinhais,R. Dr. Motta Jr.,null,739.1666666666666,638.6666666666666,148
+"Jun 5, 2023",BR,São José dos Pinhais,R. Tereza Caetano de Lima,null,575,650.5,22
+"Jun 5, 2023",BR,Curitiba,R. Emílio Romani,null,546,454,14
+"Jun 5, 2023",BR,São José dos Pinhais,R. Constante Moro Sobrinho,null,584,2451.5,38
+"Jun 5, 2023",BR,São José dos Pinhais,Av. Complexo Ayrton Senna,null,983.4,238,224
+"Jun 5, 2023",BR,Curitiba,R. Dr. Aluízio França,null,664.8,429,34
+"Jun 5, 2023",BR,Curitiba,Av. República Argentina,null,1253.4444444444443,691.8888888888889,1116
+"Jun 5, 2023",BR,Curitiba,BR-376 Contorno Sul,null,2303.5789473684213,534.7105263157895,7550
+"Jun 5, 2023",BR,Pinhais,Est. da Graciosa,null,607.7,510.9,714
+"Jun 4, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,1118.3076923076924,329.38461538461536,952
+"Jun 4, 2023",BR,Curitiba,R. Parintins,null,505,476,8
+"Jun 4, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1037.142857142857,237.42857142857142,2924
+"Jun 4, 2023",BR,São José dos Pinhais,R. Júlio César Setenareski,null,1632.2307692307693,768.9145299145299,5009
+"Jun 4, 2023",BR,Curitiba,R. 24 de Maio,null,787,826,18
+"Jun 4, 2023",BR,Curitiba,R. das Carmelitas,null,891,1455,6
+"Jun 4, 2023",BR,Curitiba,R. Rodolpho Senff Jr.,null,615,1036,14
+"Jun 4, 2023",BR,Curitiba,R. Niccolo Paganini,null,540,571,6
+"Jun 4, 2023",BR,Curitiba,R. Brigadeiro Franco,ACCIDENT,571.3333333333334,438.6666666666667,1006
+"Jun 4, 2023",BR,Curitiba,R. Arnaldo Thá,null,1041.5,383.5,16
+"Jun 4, 2023",BR,Curitiba,R. Via Veneto,null,704,623.2222222222222,1194
+"Jun 4, 2023",BR,Colombo,Av. Marg. José de Anchieta,null,674,495.375,16
+"Jun 4, 2023",BR,Curitiba,Av. Cândido Hartmann,null,582,453.2142857142857,642
+"Jun 4, 2023",BR,Curitiba,R. Lamenha Lins,null,533,528,42
+"Jun 4, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,639.6666666666666,212.5,4744
+"Jun 4, 2023",BR,Curitiba,Av. República Argentina,null,635,723,26
+"Jun 4, 2023",BR,Piraquara,R. Vagner Luis Boscardin,null,2737.285714285714,321.42857142857144,28
+"Jun 4, 2023",BR,Curitiba,R. Teófilo Otoni,null,593,469,12
+"Jun 4, 2023",BR,Pinhais,R. Antônio Gonçalves Dias,null,672.4,658.8,20
+"Jun 4, 2023",BR,Curitiba,R. Cel. Airton Plaisant,null,594,1046,20
+"Jun 4, 2023",BR,Curitiba,Av. Iguaçu,null,919.9090909090909,298.72727272727275,6422
+"Jun 4, 2023",BR,Curitiba,R. Hildebrando de Araújo,null,534,977,16
+"Jun 4, 2023",BR,Curitiba,R. Piquiri,null,825,1233,20
+"Jun 4, 2023",BR,Curitiba,R. Sebastião Malucelli,null,594,517,8
+"Jun 4, 2023",BR,Curitiba,R. Brasílio Itiberê,null,700.6666666666666,302,740
+"Jun 4, 2023",BR,Curitiba,R. Bento Viana,null,688.3333333333334,343.0833333333333,4074
+"Jun 4, 2023",BR,Curitiba,R. Cristiano Strobel,null,943,474,30
+"Jun 4, 2023",BR,Curitiba,Al. Ecológica Burle Marx,null,1163.4313725490197,779.2549019607843,1730
+"Jun 4, 2023",BR,Curitiba,R. Dr. Aluízio França,null,532,664,46
+"Jun 4, 2023",BR,São José dos Pinhais,R. Joaquim Nabuco,null,541,366.6666666666667,58
+"Jun 4, 2023",BR,Curitiba,R. Prof. Guido Straube,null,688,1026,8
+"Jun 4, 2023",BR,Curitiba,R. Brigadeiro Franco,null,968.8,450.8,4598
+"Jun 4, 2023",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,3865.3333333333335,410.3333333333333,16
+"Jun 4, 2023",BR,Curitiba,R. Dom Orione,null,584,318,16
+"Jun 4, 2023",BR,Colombo,R. São Pedro,null,525,582,6
+"Jun 4, 2023",BR,São José dos Pinhais,R. Dona Izabel A Redentora,null,548,544.2,50
+"Jun 3, 2023",BR,Curitiba,Av. República Argentina,null,1135.2222222222222,961.4444444444445,1056
+"Jun 3, 2023",BR,Colombo,R. Ver. Miguel Costacurta,null,720,1200.6,24
+"Jun 3, 2023",BR,Curitiba,R. Mamoré,null,517,561.5,100
+"Jun 3, 2023",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,777,390.5,1146
+"Jun 3, 2023",BR,Pinhais,R. Graça Aranha,null,797,384.8,30
+"Jun 3, 2023",BR,Curitiba,Av. Iguaçu,null,977,397,544
+"Jun 3, 2023",BR,Curitiba,R. Tamoios,null,644,968.75,38
+"Jun 3, 2023",BR,Curitiba,R. André Ferreira Barbosa,null,640.9230769230769,415.53846153846155,2830
+"Jun 3, 2023",BR,Curitiba,R. Emanoel Voluz,null,842.4285714285714,723.5714285714286,2554
+"Jun 3, 2023",BR,Curitiba,R. Bororós,null,638,915.6666666666666,52
+"Jun 3, 2023",BR,Curitiba,R. Brasílio Itiberê,null,1645.1666666666667,641.5,2830
+"Jun 3, 2023",BR,Curitiba,R. Camões,null,857,1012,10
+"Jun 3, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,749,450,84
+"Jun 3, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1162.8823529411766,512.0588235294117,4760
+"Jun 3, 2023",BR,Curitiba,R. 25 de Agosto,null,666,393,12
+"Jun 3, 2023",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1022,533.2,1892
+"Jun 3, 2023",BR,Curitiba,R. Buenos Aires,null,524,528.5,50
+"Jun 3, 2023",BR,Curitiba,Av. Pres. Arthur da Silva Bernardes,null,802,454,166
+"Jun 3, 2023",BR,Curitiba,R. Des. Otávio do Amaral,null,538,970,96
+"Jun 3, 2023",BR,Curitiba,R. Myltho Anselmo da Silva,null,672,626.6666666666666,30
+"Jun 3, 2023",BR,Curitiba,Av. Ver. Toaldo Túlio,null,1594.6,487,1202
+"Jun 3, 2023",BR,Curitiba,R. Costa Rica,null,660,537.6666666666666,24
+"Jun 3, 2023",BR,Curitiba,R. Emanoel Voluz,ACCIDENT,864.9375,755.5625,1394
+"Jun 3, 2023",BR,Curitiba,R. Conselheiro Laurindo,null,518,556,24
+"Jun 3, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,2014.875,547.125,54
+"Jun 3, 2023",BR,Curitiba,R. O Brasil para Cristo,null,882,1403,6
+"Jun 3, 2023",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,687,553.5,18
+"Jun 3, 2023",BR,Curitiba,R. Brigadeiro Franco,null,1216.3333333333333,558.8333333333334,3424
+"Jun 3, 2023",BR,Curitiba,R. Mato Grosso,null,634,889.8571428571429,58
+"Jun 3, 2023",BR,Curitiba,Av. Sete de Setembro,null,616,686,44
+"Jun 3, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,906.2692307692307,790.4615384615385,286
+"Jun 3, 2023",BR,Curitiba,R. Abrão Winter,null,628,478.5,26
+"Jun 3, 2023",BR,Curitiba,Av. João Gualberto,null,706,995,38
+"Jun 3, 2023",BR,São José dos Pinhais,,null,596,1792,34
+"Jun 3, 2023",BR,Colombo,R. Vitorino Polli,null,520,835.6,20
+"Jun 3, 2023",BR,Curitiba,R. Ary Barroso,null,747,516.3333333333334,24
+"Jun 3, 2023",BR,Curitiba,R. Dr. Aluízio França,null,939.2857142857143,810.2857142857143,174
+"Jun 3, 2023",BR,Colombo,R. Cornélio Procópio,null,612,815,18
+"Jun 3, 2023",BR,Curitiba,Av. Cândido Hartmann,null,907.3728813559322,359.93220338983053,10194
+"Jun 3, 2023",BR,Curitiba,R. Joaquim da Costa Ribeiro,null,798,1042,18
+"Jun 3, 2023",BR,Curitiba,Av. Manoel Ribas,null,907,1328,24
+"Jun 3, 2023",BR,Curitiba,R. Jorge Brey,null,523,884,48
+"Jun 3, 2023",BR,Curitiba,R. Fernando de Noronha,null,635,441.3333333333333,32
+"Jun 3, 2023",BR,Curitiba,R. Profa Maria de Assumpção,null,556,491.5,28
+"Jun 3, 2023",BR,Curitiba,R. Simão Brante,null,559,472,14
+"Jun 3, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,633,778,68
+"Jun 3, 2023",BR,Curitiba,R. Carlos de Laet,null,666,1541,14
+"Jun 3, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4081.5151515151515,825.5151515151515,4270
+"Jun 3, 2023",BR,Curitiba,Av. Linha Verde,null,1189.8333333333333,301.5,1758
+"Jun 3, 2023",BR,Campina Grande do Sul,R. Aniballe Ferrarini,null,577,2001,4
+"Jun 2, 2023",BR,Curitiba,R. Arthur Martins Franco,null,1160,468,8
+"Jun 2, 2023",BR,São José dos Pinhais,Av. das Américas,null,1304.625,258.625,1630
+"Jun 2, 2023",BR,Curitiba,Av. Anita Garibaldi,null,849.7142857142857,374.2857142857143,332
+"Jun 2, 2023",BR,Curitiba,Marg. BR-116,null,698.0909090909091,186.45454545454547,1768
+"Jun 2, 2023",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,ACCIDENT,1474.9583333333333,489.75,1146
+"Jun 2, 2023",BR,Curitiba,R. Dr. Carlos de Paula Soares,null,679,789,10
+"Jun 2, 2023",BR,Curitiba,R. Prof. Nivaldo Braga,ACCIDENT,760.0322580645161,499.56451612903226,1762
+"Jun 2, 2023",BR,Curitiba,BR-376 Contorno Sul,HAZARD,4309.657142857143,899.6285714285714,5845
+"Jun 2, 2023",BR,São José dos Pinhais,R. Canoinhas,null,580,595.5,22
+"Jun 2, 2023",BR,Pinhais,R. Isaac Victor Pereira,null,589,901,8
+"Jun 2, 2023",BR,Curitiba,R. Carneiro Lobo,null,788,1213.2,1656
+"Jun 2, 2023",BR,Curitiba,R. Prof. Assis Gonçalves,null,553,1033,24
+"Jun 2, 2023",BR,Almirante Tamandaré,R. Ver. Wadislau Bugalski,null,1188.5714285714287,249,328
+"Jun 2, 2023",BR,Curitiba,R. Gastão Câmara,null,666,557.6923076923077,2982
+"Jun 2, 2023",BR,Curitiba,Av. República Argentina,null,1125.0377358490566,784.9150943396227,8921
+"Jun 2, 2023",BR,Pinhais,,null,531,546.6666666666666,60
+"Jun 2, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,4954.916666666667,595.8333333333334,2848
+"Jun 2, 2023",BR,São José dos Pinhais,R. Joaquim Nabuco,null,666,344.46153846153845,2110
+"Jun 2, 2023",BR,Curitiba,R. Dante Honório,null,669,441.5,40
+"Jun 2, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,586.75,744.5,196
+"Jun 2, 2023",BR,São José dos Pinhais,R. Dr. Murici,null,970.2,358.8,320
+"Jun 2, 2023",BR,Curitiba,,null,601,475,14
+"Jun 2, 2023",BR,Curitiba,R. Nunes Machado,null,506,871,20
+"Jun 2, 2023",BR,Curitiba,R. Dep. Nilson Ribas,null,546,547,436
+"Jun 2, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,648.2857142857143,1126.4285714285713,84
+"Jun 2, 2023",BR,São José dos Pinhais,R. Sílvio Pinto Ribeiro,null,861.6363636363636,496.40909090909093,518
+"Jun 2, 2023",BR,Colombo,BR-476 Est. da Ribeira,null,830,663.8,598
+"Jun 2, 2023",BR,Curitiba,R. Via Veneto,null,607.5,545.5,126
+"Jun 2, 2023",BR,Curitiba,R. Assaí,null,533,436,9
+"Jun 2, 2023",BR,Pinhais,R. Rolândia,null,688,827,16
+"Jun 2, 2023",BR,Curitiba,Marg. BR-116,ACCIDENT,617.6666666666666,389.3333333333333,438
+"Jun 2, 2023",BR,Curitiba,Av. Cândido Hartmann,null,1139.08,584.32,7514
+"Jun 2, 2023",BR,Pinhais,R. Rio Amazonas,null,649.4666666666667,482.26666666666665,642
+"Jun 2, 2023",BR,Almirante Tamandaré,R. Affonso Mathuzcewski,null,545,660.25,24
+"Jun 2, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,1283.235294117647,319.52941176470586,2086
+"Jun 2, 2023",BR,Curitiba,R. Constantino José de Almeida,null,527,779,10
+"Jun 2, 2023",BR,Curitiba,R. Heitor de Andrade,null,738,488,14
+"Jun 2, 2023",BR,São José dos Pinhais,R. Veríssimo Marques,null,671,678.2,89
+"Jun 2, 2023",BR,Curitiba,R. Olavo Bilac,null,567,719,34
+"Jun 2, 2023",BR,Curitiba,Av. Prefeito Maurício Fruet,null,761.3333333333334,433.1111111111111,1038
+"Jun 2, 2023",BR,Curitiba,Al. Prudente de Moraes,null,770.8,619.6,206
+"Jun 2, 2023",BR,Curitiba,R. Francisco José Lobo,null,512,845,10
+"Jun 2, 2023",BR,Curitiba,R. Francisco Frischmann,null,1260.5479452054794,593.6027397260274,39624
+"Jun 2, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,845,499.3333333333333,52
+"Jun 2, 2023",BR,Curitiba,Av. Manoel Ribas,null,916.32,340.32,1558
+"Jun 2, 2023",BR,Curitiba,R. Augusto de Mari,null,628,429,12
+"Jun 2, 2023",BR,Colombo,Av. Abel Scuissiato,null,525,892.4,298
+"Jun 2, 2023",BR,São José dos Pinhais,R. Ten. Djalma Dutra,null,758,649.8,32
+"Jun 2, 2023",BR,Curitiba,Av. Pres. Arthur da Silva Bernardes,null,902.3,441.3,3853
+"Jun 2, 2023",BR,Curitiba,R. Luiz França,null,583,720.6666666666666,38
+"Jun 2, 2023",BR,Curitiba,R. Augusto Stresser,null,1115.8695652173913,467,4070
+"Jun 2, 2023",BR,Curitiba,R. Leon Nicolas,null,539,1286,3
+"Jun 2, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,1208,684.6666666666666,502
+"Jun 2, 2023",BR,Curitiba,R. Tamoios,null,517,820,36
+"Jun 2, 2023",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,5781,417,3618
+"Jun 2, 2023",BR,Curitiba,R. Eng. Ostoja Roguski,null,640.9714285714285,716.0571428571428,7828
+"Jun 2, 2023",BR,Curitiba,R. Paulo Rio Branco de Macedo,null,542,735.5,8
+"Jun 2, 2023",BR,São José dos Pinhais,Av. Benjamin Possebom,null,562,472,6
+"Jun 2, 2023",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,1402.3529411764705,893.4705882352941,3096
+"Jun 2, 2023",BR,Curitiba,R. Cruzeiro do Sul,null,684.5,1280,26
+"Jun 2, 2023",BR,Curitiba,Av. Iguaçu,ACCIDENT,1160.1333333333334,624.6,5620
+"Jun 2, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,1863.8478260869565,602.4130434782609,10767
+"Jun 2, 2023",BR,Curitiba,Av. Comendador Franco,null,1792.0576923076924,585.7596153846154,31186
+"Jun 2, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1430.607142857143,604.0714285714286,7053
+"Jun 2, 2023",BR,São José dos Pinhais,R. Vanderlei Moreno,null,593,685,64
+"Jun 2, 2023",BR,Almirante Tamandaré,R. Antônio Johnson,null,642,322.25,90
+"Jun 2, 2023",BR,São José dos Pinhais,R. Constante Moro Sobrinho,null,1467.4117647058824,333.29411764705884,2608
+"Jun 2, 2023",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2393.25,836.9090909090909,18264
+"Jun 2, 2023",BR,Curitiba,BR-476 Est. da Ribeira,null,596,743.5,258
+"Jun 2, 2023",BR,Curitiba,Av. Iguaçu,null,1086,486.45454545454544,3794
+"Jun 2, 2023",BR,Pinhais,R. Henrique Coelho Neto,null,626,582,8
+"Jun 2, 2023",BR,Curitiba,Av. Paraná,null,588.6363636363636,939.1818181818181,154
+"Jun 2, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,7407.275362318841,2550.572463768116,54077
+"Jun 2, 2023",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,1094.857142857143,599.9285714285714,915
+"Jun 2, 2023",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,515,682,34
+"Jun 2, 2023",BR,Curitiba,R. William Booth,null,677,773.6,30
+"Jun 2, 2023",BR,Curitiba,R. Carlos Essenfelder,null,890,736.5714285714286,56
+"Jun 2, 2023",BR,Curitiba,R. Pe. Anchieta,null,857.2,628.4666666666667,1066
+"Jun 2, 2023",BR,Curitiba,R. Gen. Mário Tourinho,null,1770,1108.5,4612
+"Jun 2, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,5108.477272727273,436.1818181818182,27719
+"Jun 2, 2023",BR,Curitiba,R. São Paulo,null,697,1153.5,40
+"Jun 2, 2023",BR,Curitiba,R. Carlos de Laet,null,690,603,12
+"Jun 2, 2023",BR,Curitiba,R. Frederico Stadler Jr.,null,718,488.3333333333333,18
+"Jun 2, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,671,571,14
+"Jun 2, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,507,566,50
+"Jun 2, 2023",BR,Curitiba,R. Bartolomeu Lourenço de Gusmão,null,963.6666666666666,431.1666666666667,56
+"Jun 2, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,1239,387.34615384615387,3154
+"Jun 2, 2023",BR,Curitiba,R. João Chede,null,758.0869565217391,762.5652173913044,1296
+"Jun 2, 2023",BR,Curitiba,BR-376 Contorno Sul,null,4158.33110367893,621.123745819398,39587
+"Jun 2, 2023",BR,Curitiba,Av. Linha Verde,null,1579.3660886319847,697.776493256262,60364
+"Jun 2, 2023",BR,Curitiba,R. Buenos Aires,null,700.5,628.75,232
+"Jun 2, 2023",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,5410.697674418605,505.7674418604651,10742
+"Jun 2, 2023",BR,Curitiba,PR-418 Contorno Norte,null,4450.195652173913,733.554347826087,9700
+"Jun 2, 2023",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,null,664.375,310.625,1442
+"Jun 2, 2023",BR,Curitiba,R. Mário Gomes Cézar,null,574,830,28
+"Jun 1, 2023",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,753.3333333333334,394,12
+"Jun 1, 2023",BR,Curitiba,R. Carlos Dietzsch,null,503,332.3333333333333,96
+"Jun 1, 2023",BR,Curitiba,R. Augusto Stresser,null,1040.6666666666667,560.6666666666666,430
+"Jun 1, 2023",BR,Curitiba,R. Clávio Molinari,null,900,616.25,40
+"Jun 1, 2023",BR,Curitiba,R. Dr. Goulin,null,604,856.6666666666666,16
+"Jun 1, 2023",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,782.2,829.8,130
+"Jun 1, 2023",BR,Curitiba,V. Exclusiva de Ônibus,null,1262.909090909091,572.2272727272727,79
+"Jun 1, 2023",BR,Curitiba,R. Manoel Eufrásio,null,538,594,62
+"Jun 1, 2023",BR,Curitiba,Al. Prudente de Moraes,null,779,457.6,278
+"Jun 1, 2023",BR,Curitiba,R. João Tobias de Paiva Netto,null,651,1286,4
+"Jun 1, 2023",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,1236,563.3636363636364,556
+"Jun 1, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,6100.578947368421,1215,13532
+"Jun 1, 2023",BR,São José dos Pinhais,Marg. BR-116 Contorno Leste,null,557,457,104
+"Jun 1, 2023",BR,Curitiba,PR-418 Contorno Norte,null,4113.5462962962965,668.0648148148148,9864
+"Jun 1, 2023",BR,Curitiba,R. 13 de Maio,null,679.9285714285714,440.2142857142857,2472
+"Jun 1, 2023",BR,Curitiba,R. Mário Gomes Cézar,null,516,663,26
+"Jun 1, 2023",BR,Curitiba,R. Pe. José Martini,null,594,645,4
+"Jun 1, 2023",BR,Curitiba,R. Isaías Régis de Miranda,null,669,1522,8
+"Jun 1, 2023",BR,São José dos Pinhais,R. Tavares de Lyra,null,867.3793103448276,381.9310344827586,1774
+"Jun 1, 2023",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,4674.9047619047615,2170.9761904761904,13727
+"Jun 1, 2023",BR,Curitiba,R. Atílio Bório,null,844.25,651,64
+"Jun 1, 2023",BR,Curitiba,R. João Bettega,null,925,666,78
+"Jun 1, 2023",BR,Curitiba,BR-116 S Contorno Leste,ACCIDENT,3862,1102,414
+"Jun 1, 2023",BR,Curitiba,R. Fernando Amaro,null,670,426,60
+"Jun 1, 2023",BR,Pinhais,R. 15 de Outubro,null,540,633,20
+"Jun 1, 2023",BR,Piraquara,BR-116 Contorno Leste,null,1373,501,82
+"Jun 1, 2023",BR,Curitiba,BR-116 S Contorno Leste,null,5132.292397660819,812.5994152046784,38857
+"Jun 1, 2023",BR,Curitiba,Av. Mal. Floriano Peixoto,null,608,936.5,32
+"Jun 1, 2023",BR,Curitiba,R. Caetano Marchesini,null,543,451,20
+"Jun 1, 2023",BR,Curitiba,R. Helena Grodzki,null,811.5,759.25,926
+"Jun 1, 2023",BR,Campo Largo,BR-277 N Rod. do Café Gov. Ney Braga,null,8798.57142857143,1188.1224489795918,11380
+"Jun 1, 2023",BR,Curitiba,BR-376 Contorno Sul,null,8068.693877551021,1503.6938775510205,22440
+"Jun 1, 2023",BR,Curitiba,R. José de Oliveira Franco,null,1128.5,365.5,48
+"Jun 1, 2023",BR,Curitiba,R. Irmã Flávia Borlet,null,639,784,14
+"Jun 1, 2023",BR,Curitiba,R. Carlos de Laet,null,691,826,12
+"Jun 1, 2023",BR,Curitiba,R. João Bettega,ACCIDENT,738.1428571428571,749.1428571428571,446
+"Jun 1, 2023",BR,Curitiba,Av. Linha Verde,ACCIDENT,2878.8636363636365,2731.409090909091,13672
+"Jun 1, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,6807.625,2396.1458333333335,6811
+"Jun 1, 2023",BR,Curitiba,R. Wiegando Olsen,null,547,2213.6666666666665,8
+"Jun 1, 2023",BR,São José dos Pinhais,BR-116 S Contorno Leste,null,3531,536.2047619047619,11516
+"Jun 1, 2023",BR,Colombo,R. das Orquídeas,null,532,1078.5,36
+"Jun 1, 2023",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1734.8333333333333,778.6666666666666,4070
+"Jun 1, 2023",BR,São José dos Pinhais,R. Vanderlei Moreno,null,1013,334.875,478
+"Jun 1, 2023",BR,Curitiba,R. Des. Otávio do Amaral,null,538,445,30
+"Jun 1, 2023",BR,Curitiba,Marg. Av. Linha Verde,null,625.3,451.9,820
+"Jun 1, 2023",BR,Almirante Tamandaré,PR-418 Contorno Norte,null,2038.2,443.4,20
+"Jun 1, 2023",BR,Curitiba,Av. João Gualberto,null,503,674,6
+"Jun 1, 2023",BR,Curitiba,R. Ludovico Lucca,null,549,832.6666666666666,72
+"Jun 1, 2023",BR,Curitiba,Av. Linha Verde,null,1556.5241379310344,926.4,40590
+"Jun 1, 2023",BR,Piraquara,R. Mararupá,null,520,276.8888888888889,178
+"Jun 1, 2023",BR,Curitiba,BR-116 N Contorno Leste,ACCIDENT,3581,844.6363636363636,3202
+"Jun 1, 2023",BR,Curitiba,R. Maria Homan Wisniewski,null,504,525,6
+"Jun 1, 2023",BR,São José dos Pinhais,Av. Rui Barbosa,null,904,264.1666666666667,536
+"Jun 1, 2023",BR,Curitiba,Av. Paraná,null,642.625,786.375,190
+"Jun 1, 2023",BR,São José dos Pinhais,Al. Arpo,null,872.0869565217391,441.45652173913044,957
+"Jun 1, 2023",BR,Curitiba,R. Raul Pompéia,null,596.7647058823529,530.3529411764706,4000
+"Jun 1, 2023",BR,Curitiba,R. Reinaldino Schaffemberg de Quadros,null,526,517,48
+"Jun 1, 2023",BR,Curitiba,Av. Linha Verde,HAZARD,1754.3658536585365,779.0365853658536,12768
+"Jun 1, 2023",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,837.5,767.5625,3027
+"Jun 1, 2023",BR,Pinhais,R. Wanda dos Santos Mallmann,null,559,1072,62
+"Jun 1, 2023",BR,Curitiba,R. Santo Antônio,null,580,829.5,56
+"Jun 1, 2023",BR,São José dos Pinhais,R. Dona Izabel A Redentora,null,558,530.5,16
+"Jun 1, 2023",BR,São José dos Pinhais,R. Antônio Batista de Bastos,null,631.6470588235294,576.0588235294117,210
+"Jun 1, 2023",BR,Curitiba,R. Eng. Eduardo Afonso Nadolny,null,598,620.25,32
+"Jun 1, 2023",BR,Curitiba,R. das Carmelitas,null,891,859,20
+"Jun 1, 2023",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,2508.8571428571427,525.9285714285714,3732
+"Jun 1, 2023",BR,Curitiba,R. Celestino Messing de Siqueira,null,603,745.5,8
+"Jun 1, 2023",BR,Curitiba,Est. do Ganchinho,null,579,409.6,336
+"Jun 1, 2023",BR,Curitiba,Av. Sete de Setembro,null,517,1001,4
+"Jun 1, 2023",BR,Curitiba,BR-116 N Contorno Leste,null,3186.9,338.55,5632
+"Jun 1, 2023",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4550.022298456261,1181.4682675814752,64459
+"Jun 1, 2023",BR,Curitiba,R. Eduardo Sprada,null,594.3913043478261,473.5652173913044,3476
+"Jun 1, 2023",BR,Curitiba,Av. Pres. Kennedy,null,1390.909090909091,635.3636363636364,4252

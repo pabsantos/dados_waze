@@ -1,0 +1,1578 @@
+﻿Day,Country,City,Street,Cause,Avg Length (Meters),Avg Delay (Seconds),Impacted Wazers
+"Apr 1, 2022",BR,São José dos Pinhais,R. Visc. do Rio Branco,null,505,952,20
+"Apr 1, 2022",BR,null,BR-116 Contorno Leste,ACCIDENT,2053,752.4,262
+"Apr 1, 2022",BR,null,BR-116 Contorno Leste,null,1270.5294117647059,698.1176470588235,358
+"Mar 31, 2022",BR,São José dos Pinhais,R. Dr. Motta Jr.,null,627.5,723.75,80
+"Mar 31, 2022",BR,Curitiba,R. Dante Melara,null,540,1173,8
+"Mar 31, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,930.5,564.1666666666666,122
+"Mar 31, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,null,1029.2592592592594,318.6666666666667,1294
+"Mar 31, 2022",BR,Curitiba,BR-376 Contorno Sul,null,10845.516666666666,2049.116666666667,22244
+"Mar 31, 2022",BR,null,BR-116 Contorno Leste,ACCIDENT,2181,611.8333333333334,380
+"Mar 31, 2022",BR,Pinhais,R. Wanda dos Santos Mallmann,null,561,767,30
+"Mar 31, 2022",BR,Curitiba,R. Brig. Franco,null,1988.5882352941176,771.4705882352941,9268
+"Mar 31, 2022",BR,Curitiba,null,null,620.36,401.52,2734
+"Mar 31, 2022",BR,Curitiba,BR-116 Contorno Leste,null,3522,684,4092
+"Mar 31, 2022",BR,Curitiba,PR-418 Contorno Norte,HAZARD,932,175.125,548
+"Mar 31, 2022",BR,Curitiba,Av. República Argentina,null,629.7368421052631,528.1578947368421,681
+"Mar 31, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,937,1099,86
+"Mar 31, 2022",BR,Curitiba,R. Gastão Luiz Cruls,null,797,132.2,26
+"Mar 31, 2022",BR,Curitiba,R. Visc. do Rio Branco,null,687.2857142857143,400.85714285714283,1292
+"Mar 31, 2022",BR,Curitiba,Al. Dr. Muricy,null,990,591,196
+"Mar 31, 2022",BR,Curitiba,R. Osmário de Lima,null,543,1270.3333333333333,60
+"Mar 31, 2022",BR,Curitiba,R. Visc. do Rio Branco,HAZARD,727.6666666666666,777.3333333333334,814
+"Mar 31, 2022",BR,Curitiba,Av. Vicente Machado,null,1067.8095238095239,543.9880952380952,12164
+"Mar 31, 2022",BR,Curitiba,R. Fagundes Varela,null,1022.2741935483871,454.0967741935484,5963
+"Mar 31, 2022",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,1794.6666666666667,507,194
+"Mar 31, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,660.75,76
+"Mar 31, 2022",BR,São José dos Pinhais,R. Visc. do Rio Branco,null,505,959,20
+"Mar 31, 2022",BR,Curitiba,Al. D. Pedro II,null,649.9705882352941,504.97058823529414,2350
+"Mar 31, 2022",BR,Curitiba,R. Frei Henrique de Coimbra,null,520,468,22
+"Mar 31, 2022",BR,Curitiba,R. Saldanha Marinho,null,540,857,44
+"Mar 31, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1006,653.0434782608696,3306
+"Mar 31, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,6004.846153846154,809.3846153846154,4542
+"Mar 31, 2022",BR,Pinhais,Av. Iraí,null,835.8,503.8,240
+"Mar 31, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,2000,543,2236
+"Mar 31, 2022",BR,Pinhais,R. Rio Amazonas,null,965,614.125,174
+"Mar 31, 2022",BR,Curitiba,R. Pres. Rodrigo Otávio,null,576.5,1155.5,34
+"Mar 31, 2022",BR,Curitiba,R. Prof. João Soares Barcelos,null,587.6153846153846,627.2307692307693,1758
+"Mar 31, 2022",BR,Curitiba,R. Iapó,null,977.9375,683.625,3482
+"Mar 31, 2022",BR,Curitiba,R. José Valle,null,880,475.75,196
+"Mar 31, 2022",BR,Curitiba,R. João Chede,null,982.4912280701755,1225.5964912280701,2060
+"Mar 31, 2022",BR,Curitiba,R. Cons. Laurindo,null,514,737,96
+"Mar 31, 2022",BR,Curitiba,R. Holanda,null,553,405,104
+"Mar 31, 2022",BR,Curitiba,Av. Sete de Setembro,null,620,534.5,104
+"Mar 31, 2022",BR,Curitiba,Av. Paraná,null,801.9,562,216
+"Mar 31, 2022",BR,São José dos Pinhais,R. Castro,null,613,922,34
+"Mar 31, 2022",BR,Curitiba,BR-116 N Contorno Leste,null,1953,468.3157894736842,2674
+"Mar 31, 2022",BR,Curitiba,PR-418 Contorno Norte,null,3203.029761904762,454.94642857142856,8883
+"Mar 31, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2135.5714285714284,665.4285714285714,3418
+"Mar 31, 2022",BR,Curitiba,R. Holanda,HAZARD,534,486,90
+"Mar 31, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,1096.5121951219512,911.3170731707318,2827
+"Mar 31, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,HAZARD,1186.5,710.1666666666666,418
+"Mar 31, 2022",BR,Curitiba,R. Gen. Carneiro,null,955,770,52
+"Mar 31, 2022",BR,Curitiba,R. Pe. Germano Mayer,null,577.7692307692307,336.15384615384613,624
+"Mar 31, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,569.8,326.8,546
+"Mar 31, 2022",BR,Curitiba,R. Cyro Correia Pereira,null,821,577,54
+"Mar 31, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5512.304347826087,523.554347826087,10757
+"Mar 31, 2022",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,ACCIDENT,598.8666666666667,536.7333333333333,1036
+"Mar 31, 2022",BR,Curitiba,Av. João Gualberto,null,731.6666666666666,322.4166666666667,474
+"Mar 31, 2022",BR,São José dos Pinhais,R. Dr. Murici,null,1005.2,343.75,260
+"Mar 31, 2022",BR,Curitiba,R. Paulo Gorski,null,661,480.44444444444446,400
+"Mar 31, 2022",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,3128.3703703703704,891.1851851851852,2488
+"Mar 31, 2022",BR,Curitiba,R. Santo Antônio,null,797,935.5,40
+"Mar 31, 2022",BR,Pinhais,R. Antônio Zielonka,null,946,528.5,22
+"Mar 31, 2022",BR,Curitiba,Av. Linha Verde,null,2724.315789473684,410.8157894736842,5864
+"Mar 31, 2022",BR,Pinhais,Av. Camilo di Lellis,null,903,528.25,62
+"Mar 31, 2022",BR,Curitiba,R. Pará,null,790,1026,4
+"Mar 31, 2022",BR,Curitiba,R. Francisco de Paula Guimarães,null,536,622.25,80
+"Mar 31, 2022",BR,Curitiba,R. Cap. Leônidas Marques,ACCIDENT,648.5714285714286,231.5,534
+"Mar 31, 2022",BR,Curitiba,R. Emílio de Menezes,null,644,448,4
+"Mar 31, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,520.1363636363636,366.1363636363636,1748
+"Mar 30, 2022",BR,São José dos Pinhais,R. Irati,null,597,1089.5,20
+"Mar 30, 2022",BR,Curitiba,R. Cel. Dulcídio,HAZARD,676,546,96
+"Mar 30, 2022",BR,Curitiba,R. Pe. Anchieta,null,520,809,18
+"Mar 30, 2022",BR,Curitiba,R. José Zgoda,null,595,583.5,154
+"Mar 30, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,593.9285714285714,785.3571428571429,498
+"Mar 30, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,ACCIDENT,653.6666666666666,653,302
+"Mar 30, 2022",BR,Curitiba,Av. Linha Verde,null,2108.75,335.7916666666667,4876
+"Mar 30, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,ACCIDENT,659.1666666666666,384.6666666666667,282
+"Mar 30, 2022",BR,Curitiba,BR-376 Contorno Sul,null,3308.5,561.5,2172
+"Mar 30, 2022",BR,Curitiba,R. Holanda,null,534,566.4242424242424,2448
+"Mar 30, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,759.25,48
+"Mar 30, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,null,780.6842105263158,325.05263157894734,1697
+"Mar 30, 2022",BR,Curitiba,R. Camões,null,592,600,8
+"Mar 30, 2022",BR,Curitiba,Av. Pref. Erasto Gaertner,ACCIDENT,1271.2142857142858,500.2142857142857,1178
+"Mar 30, 2022",BR,Curitiba,R. Nicola Pellanda,null,937,374.7142857142857,34
+"Mar 30, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6842.1,712.6333333333333,9170
+"Mar 30, 2022",BR,Curitiba,R. Wiegando Olsen,null,990,1658,14
+"Mar 30, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,631,721,30
+"Mar 30, 2022",BR,Curitiba,Av. Sete de Setembro,null,888.9411764705883,476.11764705882354,1532
+"Mar 30, 2022",BR,Curitiba,R. Emílio de Menezes,null,644,603,14
+"Mar 30, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,HAZARD,1992.1538461538462,540.0076923076923,7693
+"Mar 30, 2022",BR,Curitiba,R. Mário Gomes Cézar,null,516,1172,24
+"Mar 30, 2022",BR,Curitiba,R. José Zgoda,HAZARD,595,619.5555555555555,702
+"Mar 30, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,2207.695652173913,533.304347826087,3388
+"Mar 30, 2022",BR,Curitiba,Al. Dr. Muricy,null,739,644,166
+"Mar 30, 2022",BR,Curitiba,R. México,null,507,392,220
+"Mar 30, 2022",BR,Curitiba,R. Holanda,HAZARD,534,513.3472222222222,6473
+"Mar 30, 2022",BR,Piraquara,R. Pastor Adolfo Weidmann,null,627,422,26
+"Mar 30, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1327.7058823529412,457.2352941176471,4648
+"Mar 30, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,783.5714285714286,465.2857142857143,60
+"Mar 30, 2022",BR,São José dos Pinhais,"R, Canoinhas",null,606,562.5,20
+"Mar 30, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,1332,438.8333333333333,1366
+"Mar 30, 2022",BR,Pinhais,R. Iolanda Túlio Borba,null,548,639,6
+"Mar 30, 2022",BR,Curitiba,R. Prof. Benedito Conceição,null,767,1208,4
+"Mar 30, 2022",BR,Curitiba,R. José Valle,null,880,336.75,94
+"Mar 30, 2022",BR,Curitiba,R. Cel. Dulcídio,null,1173,563,258
+"Mar 29, 2022",BR,Araucária,Av. das Araucárias,ACCIDENT,1237.7727272727273,755.9090909090909,1534
+"Mar 29, 2022",BR,Curitiba,Av. Comendador Franco,null,792.4054054054054,180.40540540540542,9490
+"Mar 29, 2022",BR,Curitiba,R. Gen. Carneiro,null,782,1071,24
+"Mar 29, 2022",BR,Curitiba,R. José Zgoda,null,595,422.75,1158
+"Mar 29, 2022",BR,Curitiba,R. Santo Amaro,null,614,670.3333333333334,30
+"Mar 29, 2022",BR,Curitiba,R. Alberto Folloni,null,529,684,40
+"Mar 29, 2022",BR,Curitiba,R. Carlos de Laet,null,889,463,14
+"Mar 29, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4249.073170731707,418.1585365853659,8596
+"Mar 29, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,6803.4047619047615,797.6190476190476,13849
+"Mar 29, 2022",BR,Curitiba,R. Fagundes Varela,null,544,384.6666666666667,268
+"Mar 29, 2022",BR,Curitiba,BR-116 N Contorno Leste,null,1900.5,703.7777777777778,998
+"Mar 29, 2022",BR,Curitiba,Av. Linha Verde,null,2044.3333333333333,559.4761904761905,4954
+"Mar 29, 2022",BR,Curitiba,R. Holanda,null,534,559.6666666666666,1030
+"Mar 29, 2022",BR,Curitiba,R. Holanda,HAZARD,549,466.04347826086956,1896
+"Mar 29, 2022",BR,Curitiba,R. Dr. Petrônio Romero de Souza,null,626,408.0833333333333,1296
+"Mar 29, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,778.7356687898089,536.108280254777,14192
+"Mar 29, 2022",BR,Curitiba,Av. Comendador Franco,ACCIDENT,1840,523.6666666666666,958
+"Mar 29, 2022",BR,null,BR-277 S Rod. do Café Gov. Ney Braga,null,2863.3,300.4,2068
+"Mar 29, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,1741,358,244
+"Mar 29, 2022",BR,Curitiba,R. Carlos Essenfelder,null,674,705.75,32
+"Mar 29, 2022",BR,Curitiba,R. Ten. Tito Teixeira de Castro,null,649,828,16
+"Mar 29, 2022",BR,São José dos Pinhais,null,null,510,434,14
+"Mar 29, 2022",BR,Curitiba,R. Eduardo Sprada,null,1115.0875,426.58125,9958
+"Mar 29, 2022",BR,Curitiba,Vd. Colorado,null,967.8,311.1,1280
+"Mar 29, 2022",BR,Curitiba,Av. Sete de Setembro,null,952.5396825396825,580.015873015873,2537
+"Mar 29, 2022",BR,Curitiba,R. Francisco Nunes,null,806,846.5,42
+"Mar 29, 2022",BR,Curitiba,R. Holanda,ACCIDENT,534,587.6666666666666,364
+"Mar 29, 2022",BR,Curitiba,R. Alferes Poli,null,676.125,322.625,1324
+"Mar 29, 2022",BR,Curitiba,R. Gabriel Frecceiro de Miranda,null,867.5555555555555,437,442
+"Mar 29, 2022",BR,Curitiba,R. Pe. Anchieta,null,621,906,156
+"Mar 29, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1030.6724137931035,506.5086206896552,8500
+"Mar 29, 2022",BR,Curitiba,R. Fagundes Varela,ACCIDENT,621,452.5,172
+"Mar 29, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,934,14
+"Mar 29, 2022",BR,Curitiba,BR-116 Contorno Leste,ACCIDENT,1266,438.5,82
+"Mar 29, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,874,574.4615384615385,1942
+"Mar 29, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,3133.5652173913045,313.17391304347825,9212
+"Mar 29, 2022",BR,Curitiba,Av. João Gualberto,null,1083.4444444444443,476.77777777777777,672
+"Mar 29, 2022",BR,Curitiba,R. Dr. Aluízio França,null,513,508.5,520
+"Mar 29, 2022",BR,Curitiba,Av. Sete de Setembro,HAZARD,900,906.6,582
+"Mar 29, 2022",BR,Curitiba,R. José Valle,null,850.5,431.5,162
+"Mar 29, 2022",BR,Curitiba,BR-116 Contorno Leste,null,5063.0722891566265,436.66265060240966,19110
+"Mar 29, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,761.625,488.03125,1472
+"Mar 29, 2022",BR,Curitiba,R. João Bettega,null,724,925.4,152
+"Mar 29, 2022",BR,Curitiba,R. Visc. do Sêrro Frio,null,697,901,14
+"Mar 29, 2022",BR,Curitiba,R. Euzébio da Motta,null,563,477,62
+"Mar 29, 2022",BR,Curitiba,R. Ricardo Emílio Michel,null,603,365.3333333333333,80
+"Mar 29, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1076.103448275862,744.1724137931035,5806
+"Mar 29, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,2194.777777777778,593.2222222222222,4856
+"Mar 29, 2022",BR,Curitiba,BR-376 Contorno Sul,null,4746.062857142857,584.6514285714286,39654
+"Mar 29, 2022",BR,São José dos Pinhais,Al. Bom Pastor,null,726,980,50
+"Mar 28, 2022",BR,Curitiba,R. Holanda,HAZARD,534,494.16,2124
+"Mar 28, 2022",BR,Curitiba,R. Cel. Airton Plaisant,null,607.5,498,36
+"Mar 28, 2022",BR,Curitiba,Av. João Gualberto,null,564,740.3333333333334,26
+"Mar 28, 2022",BR,Curitiba,Av. Sete de Setembro,null,579,723.25,96
+"Mar 28, 2022",BR,Curitiba,R. Nestor Victor,null,703,487,10
+"Mar 28, 2022",BR,Curitiba,R. Mamoré,null,553,746,4
+"Mar 28, 2022",BR,Curitiba,BR-116 Contorno Leste,null,1605.2608695652175,424.5217391304348,2362
+"Mar 28, 2022",BR,Curitiba,null,null,880.6923076923077,285,880
+"Mar 28, 2022",BR,São José dos Pinhais,Av. das Américas,null,938.8823529411765,350.52941176470586,1030
+"Mar 28, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,1633.4666666666667,685.8,1536
+"Mar 28, 2022",BR,Curitiba,R. Antônio Escorsin,null,1077,530,18
+"Mar 28, 2022",BR,Curitiba,R. Alm. Gonçalves,null,713,1500,42
+"Mar 28, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,825.8571428571429,399.42857142857144,1180
+"Mar 28, 2022",BR,Curitiba,R. Holanda,null,534,559.8965517241379,2698
+"Mar 28, 2022",BR,Curitiba,BR-376 Contorno Sul,null,2947.75,1095.4479166666667,5997
+"Mar 28, 2022",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,null,798.5,311.0833333333333,3480
+"Mar 28, 2022",BR,Curitiba,Al. Princesa Izabel,null,500,507.5,56
+"Mar 28, 2022",BR,Curitiba,R. Marquês do Paraná,null,664,1043.5,8
+"Mar 28, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,574,541,38
+"Mar 28, 2022",BR,Curitiba,R. Augusto Stresser,null,1108.1764705882354,513.1176470588235,1384
+"Mar 28, 2022",BR,Curitiba,Al. Dr. Muricy,null,990,333,750
+"Mar 28, 2022",BR,Curitiba,BR-116 Contorno Leste,ACCIDENT,1266,455.1666666666667,342
+"Mar 28, 2022",BR,Curitiba,Av. Paraná,null,603.4444444444445,536.1111111111111,184
+"Mar 28, 2022",BR,Curitiba,R. Cel. Amazonas Marcondes,null,500,469,10
+"Mar 28, 2022",BR,Curitiba,R. Visc. do Sêrro Frio,null,697,836,10
+"Mar 28, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,521.4,96
+"Mar 28, 2022",BR,Curitiba,PR-418 Contorno Norte,null,4130.333333333333,568.1428571428571,2510
+"Mar 28, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,787.8064516129032,528.8064516129032,1368
+"Mar 28, 2022",BR,Curitiba,R. Eng. Ostoja Roguski,null,580.3636363636364,454.45454545454544,1534
+"Mar 28, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,ACCIDENT,654,662.0909090909091,310
+"Mar 28, 2022",BR,Curitiba,R. Cel. Ary Pinho,null,550,650,38
+"Mar 28, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,1853.5232558139535,570.1162790697674,21636
+"Mar 28, 2022",BR,Curitiba,Av. Linha Verde,null,1917.388888888889,565.1944444444445,7786
+"Mar 28, 2022",BR,Curitiba,BR-116 N Contorno Leste,null,1953,776.5092592592592,4616
+"Mar 28, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1080.2307692307693,613.7692307692307,2538
+"Mar 28, 2022",BR,Curitiba,Av. Winston Churchill,null,703,375.57142857142856,142
+"Mar 28, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,1466.2708333333333,542.0625,3903
+"Mar 28, 2022",BR,Curitiba,Av. Manoel Ribas,null,1041,561,382
+"Mar 28, 2022",BR,Curitiba,R. Iapó,null,955.4,477.2,2334
+"Mar 28, 2022",BR,Curitiba,Av. República Argentina,null,504,463.2857142857143,156
+"Mar 28, 2022",BR,Curitiba,Av. Vicente Machado,null,581,384,1404
+"Mar 28, 2022",BR,Curitiba,R. México,null,539.4117647058823,569.9558823529412,1658
+"Mar 28, 2022",BR,Curitiba,R. Imaculada Conceição,null,588.3333333333334,651.6666666666666,506
+"Mar 27, 2022",BR,Curitiba,R. Pref. Ângelo Lopes,null,562,526,8
+"Mar 27, 2022",BR,Pinhais,Est. Ecológica de Pinhais,null,655.05,836.65,290
+"Mar 27, 2022",BR,Colombo,BR-476 Est. da Ribeira,null,1483.4444444444443,815.1111111111111,32
+"Mar 27, 2022",BR,Pinhais,R. Rio Piraquara,null,606,573,6
+"Mar 27, 2022",BR,Curitiba,Al. Ecológica Burle Marx,null,571,3657,14
+"Mar 27, 2022",BR,Curitiba,Al. Cabral,null,665,459,148
+"Mar 27, 2022",BR,Curitiba,R. Eng. Costa Barros,null,730.5,892.5,20
+"Mar 27, 2022",BR,Curitiba,R. Gen. Carneiro,null,595,604.5714285714286,562
+"Mar 27, 2022",BR,Curitiba,Av. Cândido Hartmann,null,761,583.1428571428571,216
+"Mar 27, 2022",BR,Curitiba,R. Profa. Júlia Valery Legat Neal,null,552,1209,4
+"Mar 27, 2022",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,1445.4494047619048,392.79761904761904,31730
+"Mar 27, 2022",BR,Curitiba,R. Buenos Aires,null,500,534,130
+"Mar 27, 2022",BR,Curitiba,Av. Agostinho Leão Jr.,null,642.5384615384615,676.6153846153846,708
+"Mar 27, 2022",BR,São José dos Pinhais,R. Reinaldino Scharffenberg de Quadros,null,581,843,42
+"Mar 27, 2022",BR,Curitiba,null,null,652.75,883.5,68
+"Mar 27, 2022",BR,Curitiba,R. Dr. Aluízio França,null,666.3333333333334,1148.3333333333333,26
+"Mar 27, 2022",BR,Curitiba,R. Brig. Franco,null,1473.3333333333333,398.3333333333333,778
+"Mar 27, 2022",BR,Curitiba,R. Augusto Stresser,null,809.1875,361.6875,3480
+"Mar 27, 2022",BR,Piraquara,Av. Ribeira,null,685.3636363636364,517.5454545454545,174
+"Mar 27, 2022",BR,Colombo,R. da Pedreira,null,584,466,24
+"Mar 27, 2022",BR,Curitiba,R. Augusto Severo,null,689.3571428571429,355.69642857142856,6045
+"Mar 27, 2022",BR,Curitiba,Av. Manoel Ribas,null,576,443.5,66
+"Mar 27, 2022",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,500,463,138
+"Mar 26, 2022",BR,Curitiba,R. Cel. Herculano de Araújo,null,559,536.8,52
+"Mar 26, 2022",BR,Colombo,R. Joaquim Rocha,null,868,699,6
+"Mar 26, 2022",BR,Curitiba,Al. Princesa Izabel,null,756.5,622,34
+"Mar 26, 2022",BR,Curitiba,Av. Linha Verde,null,1545.7058823529412,521.5294117647059,5122
+"Mar 26, 2022",BR,Curitiba,R. Des. Vieira Cavalcanti,null,556,616,16
+"Mar 26, 2022",BR,São José dos Pinhais,R. Mal. Deodoro da Fonseca,null,875.5,526.5,64
+"Mar 26, 2022",BR,Curitiba,R. Paraíba,null,619,1017,28
+"Mar 26, 2022",BR,Curitiba,R. Atílio Bório,null,631.6666666666666,1167,74
+"Mar 26, 2022",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,ACCIDENT,516,502.5,198
+"Mar 26, 2022",BR,Curitiba,Av. Sete de Setembro,null,746.875,993.5,252
+"Mar 26, 2022",BR,Curitiba,R. Dr. Luiz Losso Filho,null,676,689,16
+"Mar 26, 2022",BR,Curitiba,R. dos Ferroviários,null,929.4,428,44
+"Mar 26, 2022",BR,Pinhais,Est. Ecológica de Pinhais,null,1082,465,20
+"Mar 26, 2022",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,1413.6016949152543,407.26271186440675,38016
+"Mar 26, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,991.25,503.375,40
+"Mar 26, 2022",BR,Curitiba,R. Prof. Benedito Conceição,null,543,1104,20
+"Mar 26, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,533,581,14
+"Mar 26, 2022",BR,Curitiba,Av. República Argentina,null,1027,591,214
+"Mar 25, 2022",BR,Curitiba,R. André Ferreira Barbosa,null,797.7241379310345,283.2241379310345,5732
+"Mar 25, 2022",BR,São José dos Pinhais,R. Francisco Dal Negro,null,848,464.75,16
+"Mar 25, 2022",BR,Curitiba,R. Imaculada Conceição,null,570.1333333333333,562.2666666666667,726
+"Mar 25, 2022",BR,Curitiba,R. Atílio Bório,null,696,903.5,100
+"Mar 25, 2022",BR,null,BR-376 S Rod. Henrique Herwig,HAZARD,1939,455.5,516
+"Mar 25, 2022",BR,Curitiba,R. Marcelino Nogueira,null,572,727,20
+"Mar 25, 2022",BR,Curitiba,BR-376 Contorno Sul,null,8202.02097902098,1385.7587412587413,55184
+"Mar 25, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,1072.710843373494,578.6204819277109,10999
+"Mar 25, 2022",BR,null,BR-376 S Rod. Henrique Herwig,null,1939,188,960
+"Mar 25, 2022",BR,Curitiba,Marg. BR-277,null,594.4,674.95,476
+"Mar 25, 2022",BR,Curitiba,R. Camões,HAZARD,566,937,8
+"Mar 25, 2022",BR,São José dos Pinhais,null,null,510,272.5,40
+"Mar 25, 2022",BR,Piraquara,BR-116 Contorno Leste,null,3991.95,718.55,2192
+"Mar 25, 2022",BR,Curitiba,Av. Winston Churchill,null,655,634.5,76
+"Mar 25, 2022",BR,Curitiba,Av. Des. Hugo Simas,null,582,1497,10
+"Mar 25, 2022",BR,São José dos Pinhais,R. Joinville,null,673.5,517,128
+"Mar 25, 2022",BR,Araucária,PR-421,null,706.7560975609756,262.3658536585366,1186
+"Mar 25, 2022",BR,Pinhais,R. Wanda dos Santos Mallmann,null,565,453,20
+"Mar 25, 2022",BR,Curitiba,R. Francisco Torres,null,684.5,558.25,114
+"Mar 25, 2022",BR,Curitiba,null,null,798.2307692307693,415.86538461538464,2202
+"Mar 25, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,891,1367,16
+"Mar 25, 2022",BR,Curitiba,R. Visc. do Rio Branco,null,581,843,72
+"Mar 25, 2022",BR,Curitiba,Av. República Argentina,null,625,597,136
+"Mar 25, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,746,879,20
+"Mar 25, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,null,4246.489583333333,721.28125,28140
+"Mar 25, 2022",BR,Curitiba,R. Brig. Franco,null,1020.4,280.8,1034
+"Mar 25, 2022",BR,Curitiba,V. Exclusiva Ônibus,null,654.8571428571429,241,216
+"Mar 25, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,1116.3478260869565,507.17391304347825,225
+"Mar 25, 2022",BR,Curitiba,R. Prof. João Falarz,null,1377.7457627118645,884.6864406779661,4988
+"Mar 25, 2022",BR,Curitiba,R. Des. Ermelino de Leão,null,550,478.5,48
+"Mar 25, 2022",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,842.6666666666666,412.3333333333333,2428
+"Mar 25, 2022",BR,Curitiba,R. Emílio de Menezes,null,644,595.3333333333334,42
+"Mar 25, 2022",BR,Curitiba,BR-277 N Rod. do Café Gov. Ney Braga,null,2050.7027027027025,691.9594594594595,10785
+"Mar 25, 2022",BR,Curitiba,Est. do Ganchinho,null,770.5,515,44
+"Mar 25, 2022",BR,Curitiba,R. Pe. Anchieta,null,796.3333333333334,1075.3333333333333,42
+"Mar 25, 2022",BR,Curitiba,R. Ildefonso Stockler de França,null,609,453,18
+"Mar 25, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,849.9756097560976,939.5975609756098,1207
+"Mar 25, 2022",BR,Curitiba,R. Frederico Maurer,null,672,1470,6
+"Mar 25, 2022",BR,Curitiba,R. Pe. Agostinho,null,1131.642857142857,479.5238095238095,7313
+"Mar 25, 2022",BR,Curitiba,Av. Anita Garibaldi,null,1952,529.1428571428571,284
+"Mar 25, 2022",BR,Curitiba,R. Mamoré,null,827,541,16
+"Mar 25, 2022",BR,Curitiba,Av. Linha Verde,null,1908.2769230769231,783.376923076923,19220
+"Mar 25, 2022",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,1828.3125,420.5,1483
+"Mar 25, 2022",BR,Curitiba,R. Tijucas do Sul,null,504,701,26
+"Mar 25, 2022",BR,Curitiba,R. Adílio Ramos,null,640,1078,8
+"Mar 25, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,610,886.25,136
+"Mar 25, 2022",BR,Curitiba,R. Paulo Gorski,null,707,558.8,150
+"Mar 25, 2022",BR,Curitiba,Av. Silva Jardim - Pista Esq.,ACCIDENT,795.7619047619048,400.85714285714283,6102
+"Mar 24, 2022",BR,Curitiba,Marg. BR-116,null,1129.7615894039734,883.933774834437,7066
+"Mar 24, 2022",BR,Curitiba,R. Ricardo Emílio Michel,null,603,451,16
+"Mar 24, 2022",BR,Colombo,R. da Pedreira,null,750,273,42
+"Mar 24, 2022",BR,Curitiba,Av. Iguaçu - Pista Dir.,null,678,535,584
+"Mar 24, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,640,18
+"Mar 24, 2022",BR,Curitiba,R. José Valle,null,880,491,158
+"Mar 24, 2022",BR,Curitiba,BR-376 Contorno Sul,null,10344,612.1428571428571,8360
+"Mar 24, 2022",BR,Curitiba,R. Visc. de Nácar,null,793.2352941176471,403.11764705882354,5920
+"Mar 24, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1227.5,567.75,686
+"Mar 24, 2022",BR,Araucária,PR-421,null,1254.5882352941176,577.8823529411765,1426
+"Mar 24, 2022",BR,Curitiba,PR-418 Contorno Norte,null,5081.206896551724,722.5862068965517,3572
+"Mar 24, 2022",BR,Curitiba,R. 13 de Maio,null,1104.3714285714286,535.7714285714286,7106
+"Mar 24, 2022",BR,Curitiba,R. Celeste Tortato Gabardo,null,537,480,36
+"Mar 24, 2022",BR,Araucária,PR-421,ACCIDENT,963.7647058823529,394.70588235294116,1636
+"Mar 24, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6833.482758620689,698.1206896551724,19316
+"Mar 24, 2022",BR,Curitiba,R. Buenos Aires,null,638.3333333333334,325.6666666666667,54
+"Mar 24, 2022",BR,Piraquara,BR-116 Contorno Leste,null,4207,983.6724137931035,7252
+"Mar 24, 2022",BR,Curitiba,Al. D. Pedro II,null,631.25,558.7857142857143,1904
+"Mar 24, 2022",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,null,1604.9473684210527,245.52631578947367,6368
+"Mar 24, 2022",BR,Curitiba,R. Rio Grande do Sul,null,660.75,167.875,512
+"Mar 24, 2022",BR,Curitiba,R. Lamenha Lins,null,818.5,415.7,824
+"Mar 24, 2022",BR,Curitiba,R. Ângelo Domingos Durigan,null,712.5,317.2,522
+"Mar 24, 2022",BR,Curitiba,R. Mons. Manoel Vicente,null,586,607.6666666666666,30
+"Mar 24, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,1032.857142857143,722.5714285714286,1470
+"Mar 24, 2022",BR,Curitiba,R. Bispo Dom José,null,712.7,360.2,4304
+"Mar 24, 2022",BR,Curitiba,R. Carlos Essenfelder,null,883,293,6
+"Mar 24, 2022",BR,Curitiba,R. Eduardo Sprada,null,1096.888888888889,464.6666666666667,958
+"Mar 24, 2022",BR,Curitiba,Av. Vicente Machado,null,1080.8260869565217,445.60869565217394,7446
+"Mar 24, 2022",BR,Piraquara,BR-116 Contorno Leste,ACCIDENT,3171.153846153846,1050.3076923076924,1394
+"Mar 24, 2022",BR,Curitiba,R. Mal. Octávio Saldanha Mazza,null,986.6875,271.1875,5346
+"Mar 24, 2022",BR,Curitiba,R. Iapó,null,1115.7142857142858,726.2142857142857,3518
+"Mar 24, 2022",BR,Curitiba,Av. Linha Verde,null,4205.0451612903225,957.9096774193548,31917
+"Mar 24, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,613.1428571428571,433.57142857142856,26
+"Mar 24, 2022",BR,Curitiba,R. Paulo Gorski,null,632.25,721,538
+"Mar 24, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,3303.75,721.2777777777778,22338
+"Mar 24, 2022",BR,Curitiba,R. Valdomiro Rodrigues,null,511,614.0384615384615,644
+"Mar 24, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,1539.9333333333334,695.0666666666667,3160
+"Mar 24, 2022",BR,Curitiba,Av. João Gualberto,null,900.7142857142857,464.42857142857144,186
+"Mar 24, 2022",BR,Curitiba,Av. Florianópolis,null,538,761,16
+"Mar 24, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4823,528.25,1286
+"Mar 24, 2022",BR,Curitiba,Av. Iguaçu,null,1208.5263157894738,566.2105263157895,12892
+"Mar 24, 2022",BR,Curitiba,Av. Anita Garibaldi,HAZARD,2560.4444444444443,826.5555555555555,466
+"Mar 24, 2022",BR,Curitiba,R. José Zgoda,null,595,582.9,592
+"Mar 24, 2022",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1124.2333333333333,551.0666666666667,7364
+"Mar 24, 2022",BR,Curitiba,R. Mons. Ivo Zanlorenzi,null,925.3658536585366,824.9268292682926,10616
+"Mar 24, 2022",BR,Curitiba,R. Brig. Franco,null,1169.952380952381,571.5238095238095,5602
+"Mar 24, 2022",BR,Curitiba,Al. Pres. Taunay,null,523,566,50
+"Mar 24, 2022",BR,Curitiba,R. Cons. Carrão,null,717,1008,36
+"Mar 24, 2022",BR,São José dos Pinhais,R. Ten. Djalma Dutra,null,851,1441.3333333333333,26
+"Mar 24, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,716.25,422.25,7488
+"Mar 24, 2022",BR,Curitiba,R. Chile,null,1969.896551724138,626.3103448275862,12428
+"Mar 24, 2022",BR,Curitiba,Av. Anita Garibaldi,null,1615.4285714285713,554.3809523809524,1222
+"Mar 24, 2022",BR,Curitiba,R. Paulo Gorski,ACCIDENT,661,519.5,390
+"Mar 24, 2022",BR,Curitiba,R. Brasílio Itiberê,null,1427.4,537.2666666666667,3104
+"Mar 24, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,682.5365853658536,748.4634146341464,981
+"Mar 24, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,941.3636363636364,965.9090909090909,710
+"Mar 24, 2022",BR,Curitiba,R. Cyro Correia Pereira,null,606.04,301.32,946
+"Mar 24, 2022",BR,Curitiba,Marg. BR-116,HAZARD,849.1836734693877,267.2517006802721,5061
+"Mar 24, 2022",BR,Curitiba,Av. Iguaçu - Pista Esq.,null,603.875,340.5625,1740
+"Mar 24, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1066.4150943396226,382.0377358490566,5827
+"Mar 24, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1134.4137931034484,304.6896551724138,4913
+"Mar 24, 2022",BR,Curitiba,R. Baltazar Carrasco dos Reis,null,616,499.8888888888889,376
+"Mar 24, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,693.5932203389831,569.6186440677966,2126
+"Mar 24, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,1080.958904109589,459.1917808219178,10540
+"Mar 23, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,1374,1773.8,58
+"Mar 23, 2022",BR,Curitiba,R. José Alcides de Lima,null,907,679,8
+"Mar 23, 2022",BR,Curitiba,Est. do Ganchinho,null,757.5833333333334,330.6666666666667,428
+"Mar 23, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,578.8,383.6,388
+"Mar 23, 2022",BR,Curitiba,R. Iapó,null,961.4285714285714,532.8571428571429,3786
+"Mar 23, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,726.9230769230769,569.4358974358975,15390
+"Mar 23, 2022",BR,Curitiba,R. Tamoios,null,659,492,36
+"Mar 23, 2022",BR,Curitiba,R. Pe. Anchieta,null,805.5,288,40
+"Mar 23, 2022",BR,Curitiba,R. Bôrtolo Pelanda,null,782.0869565217391,430.0869565217391,748
+"Mar 23, 2022",BR,Curitiba,R. Alagoas,null,1023,741,10
+"Mar 23, 2022",BR,Curitiba,R. Prof. Sebastião Paraná,null,543,891.3333333333334,48
+"Mar 23, 2022",BR,Curitiba,R. Des. Motta,null,1718.2727272727273,679.9090909090909,18504
+"Mar 23, 2022",BR,Curitiba,Av. Silva Jardim - Pista Esq.,null,717.125,451.25,3468
+"Mar 23, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,1136.5,501.65909090909093,10919
+"Mar 23, 2022",BR,Curitiba,Marg. BR-277,null,528,500.1666666666667,280
+"Mar 23, 2022",BR,Curitiba,R. Frei Teófilo,null,719,868,6
+"Mar 23, 2022",BR,São José dos Pinhais,null,null,510,597.5,40
+"Mar 23, 2022",BR,Curitiba,R. Alm. Gonçalves,null,529,285.77777777777777,214
+"Mar 23, 2022",BR,Curitiba,R. José Zgoda,null,595,429.11764705882354,1596
+"Mar 23, 2022",BR,Curitiba,null,null,571,432,30
+"Mar 23, 2022",BR,Curitiba,R. Cel. Airton Plaisant,null,551,785,6
+"Mar 23, 2022",BR,Curitiba,BR-376 Contorno Sul,null,5590.1016949152545,776.7203389830509,15571
+"Mar 23, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5573.083333333333,677.6666666666666,4186
+"Mar 23, 2022",BR,Curitiba,Av. João Gualberto,null,857,688,32
+"Mar 23, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,3066.021739130435,1154.891304347826,13021
+"Mar 23, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1236.4117647058824,612.25,8476
+"Mar 23, 2022",BR,Curitiba,BR-376 Contorno Sul,HAZARD,3048,180,216
+"Mar 23, 2022",BR,Curitiba,Av. Silva Jardim - Pista Dir.,null,1222.56,449.38666666666666,9305
+"Mar 23, 2022",BR,Curitiba,R. México,null,507,508.7142857142857,864
+"Mar 23, 2022",BR,Curitiba,R. Gov. Agamenon Magalhães,null,503,440.25,106
+"Mar 23, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,1054.857142857143,469.85714285714283,726
+"Mar 23, 2022",BR,Curitiba,Al. D. Pedro II,null,647,625.0714285714286,796
+"Mar 23, 2022",BR,Curitiba,R. Holanda,HAZARD,534,383.75757575757575,3492
+"Mar 23, 2022",BR,Curitiba,Av. Vicente Machado,null,974.695652173913,428.8695652173913,8176
+"Mar 23, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,1234,18
+"Mar 23, 2022",BR,Curitiba,Av. Iguaçu - Pista Dir.,HAZARD,563,453,70
+"Mar 23, 2022",BR,Curitiba,R. Bispo Dom José,HAZARD,997,692,214
+"Mar 23, 2022",BR,Curitiba,Av. Cândido Hartmann,null,588.3333333333334,311.6666666666667,422
+"Mar 23, 2022",BR,Curitiba,R. Visc. de Nácar,null,790.9565217391304,420.30434782608694,7658
+"Mar 23, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,776.5555555555555,956.8333333333334,776
+"Mar 23, 2022",BR,Curitiba,R. Bispo Dom José,null,738.5833333333334,393.9166666666667,2322
+"Mar 23, 2022",BR,Curitiba,Av. Linha Verde,null,3472.492307692308,886.3538461538461,34060
+"Mar 23, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,1966,436,4336
+"Mar 23, 2022",BR,São José dos Pinhais,R. Voluntários da Pátria,null,576,617,46
+"Mar 23, 2022",BR,Curitiba,Av. Sete de Setembro,null,957.75,700.925,4038
+"Mar 23, 2022",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1769.55,615.125,19830
+"Mar 23, 2022",BR,Curitiba,Al. Princesa Izabel,null,762,844.2,128
+"Mar 23, 2022",BR,Curitiba,R. Prof. Nivaldo Braga,ACCIDENT,760.9285714285714,505.2857142857143,1124
+"Mar 23, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,893.0526315789474,369.63157894736844,3234
+"Mar 23, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,3183.6666666666665,859.3888888888889,4450
+"Mar 23, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1102.5714285714287,1004.478021978022,3864
+"Mar 23, 2022",BR,Curitiba,Av. República Argentina,null,839.25,617.5,236
+"Mar 23, 2022",BR,Curitiba,R. Holanda,null,534,487.75,1744
+"Mar 23, 2022",BR,Curitiba,R. Goiás,null,511,756,26
+"Mar 23, 2022",BR,Curitiba,R. Buenos Aires,null,773.5,1293,74
+"Mar 23, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1943.1063829787233,721.2765957446809,25092
+"Mar 23, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,HAZARD,957.2105263157895,1010.8421052631579,600
+"Mar 23, 2022",BR,Curitiba,R. Paulo Gorski,null,617.1538461538462,516.4615384615385,866
+"Mar 22, 2022",BR,Curitiba,R. Hasdrúbal Bellegard,null,1375.4,666.4,390
+"Mar 22, 2022",BR,Curitiba,R. Cândido Xavier,null,691,507,20
+"Mar 22, 2022",BR,Curitiba,R. Mal. Octávio Saldanha Mazza,null,1082.5416666666667,443.6666666666667,6371
+"Mar 22, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,533,565,22
+"Mar 22, 2022",BR,Curitiba,Av. Anita Garibaldi,null,1412,648.7142857142857,288
+"Mar 22, 2022",BR,Curitiba,Av. República Argentina,null,899.4444444444445,586.4444444444445,415
+"Mar 22, 2022",BR,Piraquara,PR-415 Rod. João Leopoldo Jacomel,null,1393,307.4193548387097,1872
+"Mar 22, 2022",BR,Curitiba,Av. Cândido Hartmann,null,947.4444444444445,568.8518518518518,5076
+"Mar 22, 2022",BR,Curitiba,Al. Prudente de Moraes,null,764,533.5,34
+"Mar 22, 2022",BR,Curitiba,R. Carlos Klemtz,null,686.2727272727273,558.1818181818181,342
+"Mar 22, 2022",BR,Curitiba,Marg. BR-116,null,935.7916666666666,293.7083333333333,1235
+"Mar 22, 2022",BR,São José dos Pinhais,null,null,596,389,10
+"Mar 22, 2022",BR,Curitiba,Av. Comendador Franco,null,1806.8709677419354,483.7741935483871,9474
+"Mar 22, 2022",BR,Curitiba,Av. Linha Verde,null,1636.2794117647059,432.13529411764705,39991
+"Mar 22, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6030.422413793103,495.4913793103448,16628
+"Mar 22, 2022",BR,São José dos Pinhais,R. Maranhão,null,642,482,12
+"Mar 22, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,4425,1183,282
+"Mar 22, 2022",BR,Curitiba,R. Dr. Bley Zornig,HAZARD,976,475,450
+"Mar 22, 2022",BR,Curitiba,Al. Júlia da Costa,null,831.6363636363636,448.09090909090907,2610
+"Mar 22, 2022",BR,Curitiba,R. Eng. Costa Barros,null,552,1236,12
+"Mar 22, 2022",BR,São José dos Pinhais,R. Rafael Puchetti,null,579,737.3333333333334,60
+"Mar 22, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,1655.9811320754718,879.0471698113207,26547
+"Mar 22, 2022",BR,São José dos Pinhais,R. Ten. Djalma Dutra,null,648,764.75,54
+"Mar 22, 2022",BR,Curitiba,Marg. BR-116,ACCIDENT,969.2857142857143,337.7142857142857,600
+"Mar 22, 2022",BR,Curitiba,R. Iapó,null,1112.5,620.6111111111111,4476
+"Mar 22, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,784.5,640.9090909090909,2830
+"Mar 22, 2022",BR,Curitiba,R. Dr. Aluízio França,null,513,508.0833333333333,1268
+"Mar 22, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,2286.7901234567903,449.87654320987656,1202
+"Mar 22, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2516.0375,563.8625,17214
+"Mar 22, 2022",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,null,634.5454545454545,447.09090909090907,836
+"Mar 22, 2022",BR,Curitiba,R. Pe. Agostinho,null,1970.6447368421052,1295.092105263158,32718
+"Mar 22, 2022",BR,Curitiba,R. Hugo Kinzelmann,null,505,538,294
+"Mar 22, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,1625.7222222222222,308.3888888888889,3662
+"Mar 22, 2022",BR,Curitiba,Al. Pres. Taunay,null,810,638.5,260
+"Mar 22, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1204.25,580.3125,3904
+"Mar 22, 2022",BR,Curitiba,R. Tamoios,null,517,611.5,44
+"Mar 22, 2022",BR,Curitiba,Av. Vicente Machado,null,753.7,388.5,2882
+"Mar 22, 2022",BR,Curitiba,R. Profa. Doracy Cezzarino,null,537,531,52
+"Mar 22, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,ACCIDENT,1083.0882352941176,585.7352941176471,5890
+"Mar 22, 2022",BR,Curitiba,R. Cap. Souza Franco,null,567.6666666666666,357.469696969697,4285
+"Mar 22, 2022",BR,Curitiba,Av. Pres. Getúlio Vargas,null,788.1212121212121,493.57575757575756,5278
+"Mar 22, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1158.2857142857142,821.9761904761905,4319
+"Mar 22, 2022",BR,Curitiba,R. Dep. Nilson Ribas,null,546,735.75,432
+"Mar 22, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,4294.545454545455,905.0909090909091,3390
+"Mar 22, 2022",BR,Curitiba,R. Visc. do Sêrro Frio,null,564,1057.5,12
+"Mar 22, 2022",BR,Curitiba,R. Alagoas,null,724,537,4
+"Mar 22, 2022",BR,Curitiba,R. Gastão Câmara,null,688.4050632911392,1200.0759493670887,5268
+"Mar 22, 2022",BR,São José dos Pinhais,R. Giocondo Dall Stella,null,590,433,12
+"Mar 22, 2022",BR,Curitiba,R. Sebastião Malucelli,null,612,533.4,360
+"Mar 22, 2022",BR,Curitiba,R. Pe. Anchieta,null,1046.0434782608695,603.2391304347826,3296
+"Mar 22, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,829,843.1428571428571,836
+"Mar 22, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,HAZARD,1888,973.5,26
+"Mar 22, 2022",BR,Colombo,Av. Abel Scuissiato,null,521,965.5714285714286,256
+"Mar 22, 2022",BR,Curitiba,R. dos Funcionários,null,721.2222222222222,423.77777777777777,638
+"Mar 22, 2022",BR,São José dos Pinhais,R. Santa Rita,null,629,773,32
+"Mar 22, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4234,1227.551724137931,11602
+"Mar 22, 2022",BR,Curitiba,R. dos Funcionários,HAZARD,921.875,642.125,558
+"Mar 22, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,910.4666666666667,502.26666666666665,2176
+"Mar 22, 2022",BR,Curitiba,BR-376 Contorno Sul,null,2515.3,284.5,1398
+"Mar 22, 2022",BR,Curitiba,R. Alberto Otto,null,530,456,4
+"Mar 22, 2022",BR,Curitiba,R. Hasdrúbal Bellegard,ACCIDENT,978.3529411764706,219.02941176470588,1691
+"Mar 22, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,1904.3461538461538,217.34615384615384,4642
+"Mar 22, 2022",BR,Curitiba,Marg. Av. Linha Verde,ACCIDENT,991,499.3333333333333,94
+"Mar 21, 2022",BR,Curitiba,R. Myltho Anselmo da Silva,null,549,921,30
+"Mar 21, 2022",BR,Curitiba,Av. Linha Verde,null,2683.4692307692308,462.5076923076923,41546
+"Mar 21, 2022",BR,Curitiba,R. Jovino do Rosário,null,1024.391304347826,375.2608695652174,5542
+"Mar 21, 2022",BR,Curitiba,R. Jovino do Rosário,ACCIDENT,1508.3902439024391,1247.0975609756097,8378
+"Mar 21, 2022",BR,Curitiba,R. Iapó,null,919.75,596.6,4628
+"Mar 21, 2022",BR,São José dos Pinhais,R. Mal. Deodoro da Fonseca,null,1159,518.6666666666666,94
+"Mar 21, 2022",BR,Curitiba,R. Capistrano de Abreu,null,511,1288,6
+"Mar 21, 2022",BR,Curitiba,R. Baltazar Carrasco dos Reis,null,774,1125.75,58
+"Mar 21, 2022",BR,Colombo,R. da Pedreira,null,623.695652173913,394.7391304347826,242
+"Mar 21, 2022",BR,Curitiba,R. Augusto Stresser,null,889.7333333333333,453.1333333333333,1435
+"Mar 21, 2022",BR,Curitiba,R. Des. Ernani Guarita Cartaxo,null,543,689,4
+"Mar 21, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,null,809.6,179.1,1168
+"Mar 21, 2022",BR,Curitiba,R. Estados Unidos,ACCIDENT,789.34375,711.59375,3515
+"Mar 21, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,997.6944444444445,1298.4722222222222,1596
+"Mar 21, 2022",BR,Curitiba,R. Estados Unidos,null,1452.25,741.375,4627
+"Mar 21, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,874.25,1212,50
+"Mar 21, 2022",BR,Curitiba,Av. República Argentina,null,864,442.4,104
+"Mar 21, 2022",BR,Curitiba,PR-418 Contorno Norte,null,3352.0375,415.3375,10216
+"Mar 21, 2022",BR,Curitiba,BR-376 Contorno Sul,null,4091.266666666667,412.53333333333336,3818
+"Mar 21, 2022",BR,Curitiba,Av. Cândido Hartmann,null,586.9333333333333,569.4666666666667,684
+"Mar 21, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,1456,528,316
+"Mar 21, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,797.6,88
+"Mar 21, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,3341.653846153846,589.0576923076923,6504
+"Mar 21, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,ACCIDENT,885.71875,423.59375,3963
+"Mar 21, 2022",BR,Curitiba,R. Mateus Leme,null,858.952380952381,372.4047619047619,3324
+"Mar 21, 2022",BR,Curitiba,R. Raul Pompéia,null,692,557,144
+"Mar 21, 2022",BR,Curitiba,Av. Vicente Machado,null,581,332.625,1388
+"Mar 21, 2022",BR,Curitiba,R. João Parolin,null,702.7037037037037,373.3333333333333,2539
+"Mar 21, 2022",BR,Curitiba,R. Eduardo Sprada,null,645.25,370,228
+"Mar 21, 2022",BR,Curitiba,R. N. Sra. de Nazaré,null,685.1578947368421,381.7368421052632,1536
+"Mar 21, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,ACCIDENT,749.6,417.8,338
+"Mar 21, 2022",BR,Curitiba,R. Vicente Ciccarino,null,819.1034482758621,470.91379310344826,5723
+"Mar 21, 2022",BR,Curitiba,R. Gen. Mário Tourinho,HAZARD,1576,661.6666666666666,942
+"Mar 21, 2022",BR,Curitiba,R. João Chede,null,710.875,672.9375,518
+"Mar 21, 2022",BR,Curitiba,R. Bento Viana,null,570,354.39285714285717,1829
+"Mar 21, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,null,866.6607142857143,278.25,1143
+"Mar 21, 2022",BR,Curitiba,R. Imaculada Conceição,null,817.4285714285714,780.7142857142857,846
+"Mar 21, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1162.4285714285713,431.42857142857144,166
+"Mar 21, 2022",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,2624,560.3333333333334,372
+"Mar 21, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,1016.5,671.5,1230
+"Mar 21, 2022",BR,Curitiba,R. Max Rosenmann,null,577,903,6
+"Mar 21, 2022",BR,Curitiba,Av. Ver. Toaldo Túlio,null,555,403,58
+"Mar 21, 2022",BR,Curitiba,R. Orestes Thá,null,802,5332.333333333333,32
+"Mar 21, 2022",BR,Curitiba,R. Holanda,null,751,562.8947368421053,1194
+"Mar 21, 2022",BR,Curitiba,Marg. BR-116,null,888.8181818181819,386.20454545454544,4478
+"Mar 21, 2022",BR,Curitiba,R. Gen. Mário Tourinho,ACCIDENT,1516.8275862068965,551.3793103448276,9120
+"Mar 21, 2022",BR,Curitiba,R. José Merhy,null,624,462.625,209
+"Mar 21, 2022",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,1376.5,301.90625,1503
+"Mar 21, 2022",BR,Curitiba,R. Amintas de Barros,null,651,971,84
+"Mar 21, 2022",BR,Curitiba,R. Gastão Câmara,null,674.3076923076923,933.3076923076923,3248
+"Mar 21, 2022",BR,Curitiba,Av. Paraná,null,602.3,353.25,818
+"Mar 21, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1807.625,741.75,6116
+"Mar 21, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,952.5151515151515,1099.1818181818182,828
+"Mar 21, 2022",BR,Curitiba,R. Sen. Accioly Filho,null,638,521,10
+"Mar 21, 2022",BR,Curitiba,R. Cons. Laurindo,ACCIDENT,985,795.2,1196
+"Mar 21, 2022",BR,Curitiba,R. Mal. José Bernardino Bormann,null,525,497,26
+"Mar 21, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,2192,645.75,1574
+"Mar 21, 2022",BR,Curitiba,R. Cons. Laurindo,null,1039.909090909091,565.1212121212121,4042
+"Mar 21, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,2248.3333333333335,625.5,4076
+"Mar 21, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2184.4347826086955,588.4347826086956,5191
+"Mar 21, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,898.939393939394,636.3787878787879,7716
+"Mar 21, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,771,278.8,302
+"Mar 21, 2022",BR,Curitiba,R. Gen. Carneiro,null,772,831,28
+"Mar 21, 2022",BR,Curitiba,R. Eduardo Sprada,HAZARD,679.6666666666666,370.6666666666667,202
+"Mar 20, 2022",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,null,661,452.7,40
+"Mar 20, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,599.2727272727273,543.969696969697,2726
+"Mar 20, 2022",BR,Campina Grande do Sul,PR-506 Rod. do Caqui,null,747.4,344.2,16
+"Mar 20, 2022",BR,Curitiba,R. Waldemar Kost,null,615,677,8
+"Mar 20, 2022",BR,Curitiba,Al. Ecológica Burle Marx,null,535,1563.875,56
+"Mar 20, 2022",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1255.4705882352941,353.6470588235294,3228
+"Mar 20, 2022",BR,Curitiba,R. Gen. Carneiro,null,561,501,46
+"Mar 20, 2022",BR,Curitiba,R. Bento Viana,null,602.0909090909091,311.27272727272725,1000
+"Mar 20, 2022",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,1514,248.45454545454547,2804
+"Mar 20, 2022",BR,Curitiba,R. Atílio Bório,null,555,555,18
+"Mar 20, 2022",BR,Curitiba,R. Brasílio Itiberê,null,993.0666666666667,450.2,4648
+"Mar 20, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,600,658.8333333333334,128
+"Mar 20, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,830.4423076923077,1078.75,1958
+"Mar 20, 2022",BR,Curitiba,Vd. Colorado,null,713.7083333333334,417.5416666666667,2164
+"Mar 20, 2022",BR,Curitiba,BR-376 Contorno Sul,null,771.3855421686746,463.93975903614455,684
+"Mar 20, 2022",BR,Curitiba,R. Albino Kaminski,null,716,828.5,46
+"Mar 20, 2022",BR,Curitiba,R. Brig. Franco,null,1501,435.77272727272725,6444
+"Mar 20, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,2271.6486486486488,690.081081081081,6344
+"Mar 20, 2022",BR,Curitiba,R. Affife Mansur,null,609,486,40
+"Mar 20, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,599,460.25,58
+"Mar 20, 2022",BR,Pinhais,Est. Ecológica de Pinhais,null,585.8461538461538,643.3076923076923,160
+"Mar 20, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,ACCIDENT,885.8181818181819,703.5454545454545,394
+"Mar 20, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,null,906.5454545454545,431.54545454545456,490
+"Mar 19, 2022",BR,Pinhais,Av. Fabio Vicente de Moura,null,650.6666666666666,2300,152
+"Mar 19, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,805,1012.5714285714286,292
+"Mar 19, 2022",BR,Curitiba,Av. Sete de Setembro,null,607,463,24
+"Mar 19, 2022",BR,Curitiba,R. Alm. Gonçalves,null,529,915,12
+"Mar 19, 2022",BR,Curitiba,R. Mário Gomes Cézar,null,536,1310,6
+"Mar 19, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,HAZARD,550,626,20
+"Mar 19, 2022",BR,Curitiba,Av. Linha Verde,null,1527.5434782608695,777.3913043478261,12242
+"Mar 19, 2022",BR,Pinhais,R. Rio Piraquara,null,519,374,30
+"Mar 19, 2022",BR,Pinhais,R. Rio Paranapanema,null,609,615,38
+"Mar 19, 2022",BR,Curitiba,Av. República Argentina,null,875.3333333333334,880,106
+"Mar 19, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,3060.8,221,898
+"Mar 19, 2022",BR,Quatro Barras,BR-116 Contorno Leste,ACCIDENT,3186.076923076923,1646.4615384615386,520
+"Mar 19, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,804.5743243243244,1034.445945945946,2509
+"Mar 19, 2022",BR,Pinhais,Est. Ecológica de Pinhais,null,590.6,503.1,236
+"Mar 19, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,1497.906976744186,617.296511627907,22926
+"Mar 19, 2022",BR,Curitiba,Vd. Colorado,null,648,270.2,740
+"Mar 19, 2022",BR,São José dos Pinhais,R. Mal. Deodoro da Fonseca,null,819,1178,24
+"Mar 19, 2022",BR,Curitiba,R. Prof. João Falarz,null,501,747,34
+"Mar 19, 2022",BR,Curitiba,Av. Agostinho Leão Jr.,null,634.5,446.5,168
+"Mar 19, 2022",BR,Curitiba,Al. Princesa Izabel,null,500,655,30
+"Mar 19, 2022",BR,Curitiba,Al. Pres. Taunay,null,689,730,98
+"Mar 19, 2022",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,null,1483.8793103448277,463.3103448275862,7726
+"Mar 19, 2022",BR,Curitiba,R. Profa. Rosa Saporski,null,588,872.5,64
+"Mar 19, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,HAZARD,2738.1666666666665,552.5,1016
+"Mar 19, 2022",BR,Curitiba,R. Eng. Costa Barros,null,640,632.3333333333334,30
+"Mar 19, 2022",BR,Curitiba,R. Niccolo Paganini,null,540,840,16
+"Mar 18, 2022",BR,Curitiba,Av. Comendador Franco,null,2690.4736842105262,410.94736842105266,11904
+"Mar 18, 2022",BR,Curitiba,Av. Paraná,null,831,556,32
+"Mar 18, 2022",BR,Curitiba,R. Silveira Peixoto,null,516,880,14
+"Mar 18, 2022",BR,Curitiba,R. Nestor Victor,null,703,986,18
+"Mar 18, 2022",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,ACCIDENT,971,334.5,3714
+"Mar 18, 2022",BR,São José dos Pinhais,R. Gen. Catão Menna Barreto Monclaro,null,545,621,20
+"Mar 18, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,574,711.5,70
+"Mar 18, 2022",BR,Curitiba,R. São Paulo,null,697,566.75,56
+"Mar 18, 2022",BR,Curitiba,BR-376 Contorno Sul,null,6819.611111111111,532.4166666666666,7767
+"Mar 18, 2022",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,5243.4,797.2,918
+"Mar 18, 2022",BR,Curitiba,R. Iapó,null,973.7857142857143,528.5,3796
+"Mar 18, 2022",BR,Curitiba,R. Bispo Dom José,null,711,468.5,1996
+"Mar 18, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,925.1764705882352,455.4117647058824,4718
+"Mar 18, 2022",BR,Curitiba,R. Bôrtolo Pelanda,null,907.3,543.3,476
+"Mar 18, 2022",BR,Curitiba,R. Luiz França,null,642,544,62
+"Mar 18, 2022",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,null,921,323.875,5706
+"Mar 18, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,8120.384615384615,2099.923076923077,4940
+"Mar 18, 2022",BR,Curitiba,R. Alm. Gonçalves,null,529,636.75,42
+"Mar 18, 2022",BR,Curitiba,R. México,null,535.8,457.3,506
+"Mar 18, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,2003.144927536232,643.4782608695652,39028
+"Mar 18, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,6606.727272727273,1035.8181818181818,13780
+"Mar 18, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,2392.576923076923,508.53846153846155,243
+"Mar 18, 2022",BR,Curitiba,Av. João Gualberto,null,876,418,38
+"Mar 18, 2022",BR,Curitiba,R. Myltho Anselmo da Silva,null,669,1082,20
+"Mar 18, 2022",BR,Curitiba,R. Gen. Mário Tourinho,HAZARD,1559.2857142857142,631.4285714285714,3064
+"Mar 18, 2022",BR,Curitiba,null,null,571,511.5,82
+"Mar 18, 2022",BR,Curitiba,R. Rio Pelotas,null,579.1666666666666,633.1666666666666,104
+"Mar 18, 2022",BR,Curitiba,R. Ângelo Dallarmi,null,744,898,6
+"Mar 18, 2022",BR,Curitiba,R. Raul Pompéia,null,501,526,68
+"Mar 18, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,1068.6333333333334,596.4333333333333,4606
+"Mar 18, 2022",BR,Curitiba,R. Rezala Simão,null,872.75,379.625,1240
+"Mar 18, 2022",BR,Curitiba,R. José Zgoda,null,595,500.75,408
+"Mar 18, 2022",BR,Curitiba,R. Des. Motta,null,1592.2631578947369,505.2631578947368,7930
+"Mar 18, 2022",BR,Curitiba,R. Francisco Nunes,null,616,1134,60
+"Mar 18, 2022",BR,Curitiba,R. João Negrão,null,639,522.7777777777778,1830
+"Mar 18, 2022",BR,Curitiba,R. Rogério Pereira de Camargo,null,681,628,57
+"Mar 18, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,517,808,88
+"Mar 18, 2022",BR,Curitiba,R. Eduardo Sprada,null,1246.3333333333333,542.7777777777778,250
+"Mar 18, 2022",BR,Curitiba,R. Lamenha Lins,null,691,512,24
+"Mar 18, 2022",BR,Pinhais,R. Cassiano Ricardo,null,623,598,6
+"Mar 18, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,972.0588235294117,890.7058823529412,608
+"Mar 18, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,1895.4772727272727,405.5,10780
+"Mar 18, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1175.952380952381,589.4761904761905,5614
+"Mar 18, 2022",BR,Curitiba,R. Osmário de Lima,null,543,531.6,60
+"Mar 18, 2022",BR,Curitiba,R. Pe. Agostinho,null,1812.76,826,15058
+"Mar 18, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,874,1417,24
+"Mar 18, 2022",BR,Curitiba,Av. Linha Verde,null,1869.111111111111,409.2962962962963,9020
+"Mar 18, 2022",BR,Curitiba,PR-418 Contorno Norte,null,4920.7,660.2,908
+"Mar 18, 2022",BR,Curitiba,Vd. Colorado,null,1113.0681818181818,501.03409090909093,4279
+"Mar 18, 2022",BR,Curitiba,R. Hugo Kinzelmann,null,505,730,332
+"Mar 18, 2022",BR,Curitiba,Av. Winston Churchill,null,626,979.6666666666666,72
+"Mar 17, 2022",BR,Curitiba,R. Carlos Essenfelder,null,684,1431,14
+"Mar 17, 2022",BR,Curitiba,R. Francisco Torres,null,597,1234,72
+"Mar 17, 2022",BR,Curitiba,Av. República Argentina,null,816.3809523809524,525.6428571428571,1543
+"Mar 17, 2022",BR,Curitiba,R. Des. Motta,null,515,557,38
+"Mar 17, 2022",BR,Curitiba,R. Imaculada Conceição,null,740.1875,1047.8125,788
+"Mar 17, 2022",BR,Curitiba,R. Francisco de Paula Guimarães,null,592,810.5,14
+"Mar 17, 2022",BR,Curitiba,R. Pe. Agostinho,null,1218.2,586.2,6218
+"Mar 17, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6253.542372881356,558.3644067796611,14370
+"Mar 17, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,7248,514.5,1292
+"Mar 17, 2022",BR,Curitiba,R. Rio Grande do Sul,null,595.6666666666666,838,30
+"Mar 17, 2022",BR,Curitiba,R. Raul Pompéia,null,570.6666666666666,501.6666666666667,258
+"Mar 17, 2022",BR,Curitiba,Av. Vicente Machado,null,601.1,433.4,2102
+"Mar 17, 2022",BR,Curitiba,Estr. Colônia Riviera,null,1756,1133,4
+"Mar 17, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,null,3387.777777777778,302.5925925925926,5936
+"Mar 17, 2022",BR,Curitiba,R. Rutildo Pulido,null,633,564,110
+"Mar 17, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,1227.3333333333333,359,1768
+"Mar 17, 2022",BR,Curitiba,Av. João Gualberto,null,726.4545454545455,367.3636363636364,788
+"Mar 17, 2022",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1142.6666666666667,515.5555555555555,4004
+"Mar 17, 2022",BR,Curitiba,R. Rutildo Pulido,ACCIDENT,633,123,68
+"Mar 17, 2022",BR,Curitiba,Av. Linha Verde,null,1817.8235294117646,472.61764705882354,22634
+"Mar 17, 2022",BR,Curitiba,R. Gen. Carneiro,null,561,845.25,184
+"Mar 17, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,4404.220588235294,686.2132352941177,18517
+"Mar 17, 2022",BR,Curitiba,R. André Ferreira Barbosa,ACCIDENT,1018,656.2222222222222,1122
+"Mar 17, 2022",BR,Curitiba,BR-116 N Contorno Leste,null,1855.1363636363637,370.04545454545456,2706
+"Mar 17, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,2978.5185185185187,448.4074074074074,3784
+"Mar 17, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,6331.454545454545,1110.3636363636363,9548
+"Mar 17, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,664.3333333333334,412.3333333333333,12
+"Mar 17, 2022",BR,São José dos Pinhais,null,null,596,917.2,28
+"Mar 17, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,886.0140845070423,602.4084507042254,6640
+"Mar 17, 2022",BR,Curitiba,R. Rodolpho Senff,null,528,655.6666666666666,54
+"Mar 17, 2022",BR,Quatro Barras,BR-116 Contorno Leste,null,3203.705882352941,1118.8823529411766,936
+"Mar 17, 2022",BR,Curitiba,null,null,605,411.6666666666667,158
+"Mar 17, 2022",BR,São José dos Pinhais,R. Marialva,null,542,536.5,10
+"Mar 17, 2022",BR,Curitiba,Av. Comendador Franco,null,1648.9473684210527,452.7894736842105,6934
+"Mar 17, 2022",BR,Curitiba,R. André Ferreira Barbosa,HAZARD,1023.6666666666666,406.93333333333334,2754
+"Mar 17, 2022",BR,Curitiba,R. Anne Frank,null,893,593,8
+"Mar 17, 2022",BR,Piraquara,BR-116 Contorno Leste,null,4278.315789473684,1395.5263157894738,2734
+"Mar 17, 2022",BR,Curitiba,R. José Rodrigues Pinheiro,null,634.6666666666666,442.3333333333333,482
+"Mar 17, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,3724.967741935484,914.2258064516129,5766
+"Mar 17, 2022",BR,Curitiba,BR-376 Contorno Sul,null,6505.3983050847455,998.8474576271186,35688
+"Mar 17, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,641.4,412.7,1150
+"Mar 17, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,721,2243,6
+"Mar 17, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,2565.4411764705883,400.13235294117646,1146
+"Mar 17, 2022",BR,Curitiba,R. Barão do Rio Branco,null,671,534.3333333333334,682
+"Mar 17, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,947.2068965517242,1212.7931034482758,1312
+"Mar 17, 2022",BR,Curitiba,R. Iapó,null,1187.3529411764705,669.7058823529412,4405
+"Mar 17, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1179.7,882.1,4450
+"Mar 17, 2022",BR,Curitiba,R. André Ferreira Barbosa,null,757,94,622
+"Mar 17, 2022",BR,Curitiba,Marg. BR-277,null,611,572.1666666666666,220
+"Mar 16, 2022",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,null,856.5454545454545,242.72727272727272,2404
+"Mar 16, 2022",BR,Curitiba,R. Eduardo Pinto da Rocha,null,532,481,16
+"Mar 16, 2022",BR,Curitiba,R. Gov. Agamenon Magalhães,null,503,346.7,514
+"Mar 16, 2022",BR,Curitiba,R. João Parolin,null,868.2666666666667,525.9333333333333,3152
+"Mar 16, 2022",BR,Curitiba,R. José Zgoda,null,595,710.0909090909091,2482
+"Mar 16, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3102.3809523809523,359.04761904761904,3044
+"Mar 16, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,779.8333333333334,987.5,300
+"Mar 16, 2022",BR,Curitiba,R. Prof. João Soares Barcelos,null,743.5769230769231,551.1057692307693,9486
+"Mar 16, 2022",BR,Curitiba,R. Carneiro Lobo,null,790,348.25,1343
+"Mar 16, 2022",BR,Curitiba,Av. Comendador Franco,null,3141.3414634146343,708.6585365853658,22601
+"Mar 16, 2022",BR,Curitiba,R. Alberto Otto,null,581,442.6666666666667,18
+"Mar 16, 2022",BR,Curitiba,Av. Linha Verde,null,2455.18,687.17,52092
+"Mar 16, 2022",BR,Curitiba,R. Paulo Setúbal,null,591,695,10
+"Mar 16, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,2192,1159,350
+"Mar 16, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,731.6,598.6,46
+"Mar 16, 2022",BR,Curitiba,R. Iapó,null,1046.3478260869565,730.9565217391304,5938
+"Mar 16, 2022",BR,Curitiba,R. Frei Henrique de Coimbra,null,585.5,611.125,158
+"Mar 16, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,919.5555555555555,324.55555555555554,1500
+"Mar 16, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,895.04,963.7066666666667,1747
+"Mar 16, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,631,580,26
+"Mar 16, 2022",BR,Curitiba,R. José Valle,null,644,521.6666666666666,70
+"Mar 16, 2022",BR,Curitiba,R. Raul Pompéia,null,615,527,48
+"Mar 16, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1042.6833333333334,484.4583333333333,10540
+"Mar 16, 2022",BR,Curitiba,R. João Negrão,null,639,514.4545454545455,2494
+"Mar 16, 2022",BR,Curitiba,R. Prof. Benedito Conceição,null,853,933.5,24
+"Mar 16, 2022",BR,Curitiba,R. Maranhão,null,582,869,48
+"Mar 16, 2022",BR,Curitiba,R. Omar Raymundo Picheth,null,659.5882352941177,515.4117647058823,1829
+"Mar 16, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,6392.342342342342,1383.2432432432433,16866
+"Mar 16, 2022",BR,Curitiba,R. Mateus Leme,ACCIDENT,523,534,31
+"Mar 16, 2022",BR,Curitiba,R. Com. Roseira,null,561,338.375,1870
+"Mar 16, 2022",BR,Araucária,Av. das Araucárias,null,914,477.5,34
+"Mar 16, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,921.3225806451613,735.6935483870968,7967
+"Mar 16, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5372.129032258064,666.1774193548387,23373
+"Mar 16, 2022",BR,Curitiba,R. Hayton da Silva Pereira,null,552,445.3333333333333,22
+"Mar 16, 2022",BR,Curitiba,R. Imaculada Conceição,null,846.421052631579,760.7894736842105,1530
+"Mar 16, 2022",BR,São José dos Pinhais,R. David Campista,null,574,511,20
+"Mar 16, 2022",BR,Curitiba,R. José Benedito Cottolengo,null,563.5,469.3,470
+"Mar 16, 2022",BR,Curitiba,R. N. Sra. de Nazaré,null,786,1128,18
+"Mar 16, 2022",BR,Curitiba,R. Mal. Deodoro,null,1402,602,866
+"Mar 16, 2022",BR,Curitiba,R. Estados Unidos,null,820.0769230769231,499.8076923076923,1698
+"Mar 16, 2022",BR,Curitiba,R. Pe. Agostinho,null,1182.904761904762,505.8095238095238,6908
+"Mar 16, 2022",BR,Curitiba,R. Chile,null,1203.938775510204,414.9183673469388,14847
+"Mar 16, 2022",BR,Curitiba,R. Des. Isaías Beviláqua,null,518,850,12
+"Mar 16, 2022",BR,Curitiba,Av. Vicente Machado,null,690.2153846153847,303.9076923076923,7398
+"Mar 16, 2022",BR,Curitiba,Av. Comendador Franco,ACCIDENT,4527.272727272727,1714.1818181818182,7908
+"Mar 16, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6007.064,639.02,17312
+"Mar 16, 2022",BR,Curitiba,R. Anne Frank,ACCIDENT,1022,440,710
+"Mar 16, 2022",BR,Curitiba,BR-376 Contorno Sul,null,8663.731707317073,582.7378048780488,30320
+"Mar 16, 2022",BR,Pinhais,R. Wanda dos Santos Mallmann,null,906,1265,12
+"Mar 16, 2022",BR,Curitiba,PR-418 Contorno Norte,null,4517.916666666667,560.5357142857143,11593
+"Mar 16, 2022",BR,Curitiba,R. Pe. Ladislau Kula,null,618,341.4,210
+"Mar 16, 2022",BR,Curitiba,R. Curupaitis,null,673,357,18
+"Mar 16, 2022",BR,Curitiba,Av. Anibal Khury,null,674,584,12
+"Mar 16, 2022",BR,Curitiba,R. Visc. de Nácar,null,831,534.5555555555555,2442
+"Mar 16, 2022",BR,Curitiba,null,null,593.4,643.5,142
+"Mar 16, 2022",BR,Curitiba,R. Mateus Leme,null,1475.1,652.425,5769
+"Mar 16, 2022",BR,Curitiba,R. Waldemar Kost,null,752.3333333333334,737.8333333333334,124
+"Mar 16, 2022",BR,Curitiba,R. Bispo Dom José,null,777.5862068965517,287.0689655172414,3653
+"Mar 16, 2022",BR,Curitiba,R. Anne Frank,null,1129.9736842105262,405.2368421052632,11492
+"Mar 16, 2022",BR,Curitiba,R. Bartolomeu Lourenço de Gusmão,null,653,935.6,30
+"Mar 16, 2022",BR,Curitiba,Av. Paraná,null,707,390.8,78
+"Mar 16, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,896.1,456.625,11242
+"Mar 16, 2022",BR,Curitiba,Av. Manoel Ribas,null,681.3636363636364,329.45454545454544,628
+"Mar 16, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1695.774193548387,574.258064516129,6870
+"Mar 16, 2022",BR,Curitiba,R. Dr. Faivre,null,979.75,401.25,1854
+"Mar 16, 2022",BR,Curitiba,BR-116 N Contorno Leste,null,1834.2,405.5,204
+"Mar 16, 2022",BR,Curitiba,R. Carolina Derosso,null,523,766,8
+"Mar 16, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,3290.65625,525.0625,7948
+"Mar 16, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,2948.6,1511.6,1658
+"Mar 16, 2022",BR,Curitiba,R. Cons. Laurindo,null,1564,437.2857142857143,4412
+"Mar 16, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1080.764705882353,582.2941176470588,4102
+"Mar 16, 2022",BR,Curitiba,R. Rubem Berta,null,631,924,34
+"Mar 16, 2022",BR,Pinhais,Av. Maringá,null,1181.4615384615386,444.34615384615387,952
+"Mar 16, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,null,1135.9333333333334,310.3333333333333,2524
+"Mar 16, 2022",BR,Curitiba,Al. D. Pedro II,null,544,619,22
+"Mar 16, 2022",BR,Curitiba,R. Izaac Ferreira da Cruz,null,559,521.5714285714286,170
+"Mar 16, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,1123.5357142857142,790.9642857142857,6324
+"Mar 16, 2022",BR,Curitiba,R. Dr. Carlos de Paula Soares,null,676,798,14
+"Mar 16, 2022",BR,São José dos Pinhais,R. Antônio Molleta Filho,null,892,430,6
+"Mar 16, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,1096.5,26
+"Mar 16, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,698.4166666666666,515.5833333333334,4574
+"Mar 16, 2022",BR,Curitiba,R. Sônia Maria,null,510,412.25,202
+"Mar 15, 2022",BR,Curitiba,R. Pe. Agostinho,null,1857.9,754.625,19482
+"Mar 15, 2022",BR,Curitiba,R. Imaculada Conceição,null,694.179012345679,595.1666666666666,8218
+"Mar 15, 2022",BR,Curitiba,R. México,HAZARD,781.1264367816092,739.9310344827586,6136
+"Mar 15, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,940.3125,468.75,4088
+"Mar 15, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,955.7894736842105,611.8421052631579,1656
+"Mar 15, 2022",BR,Curitiba,R. dos Funcionários,null,678.7142857142857,440.2857142857143,1360
+"Mar 15, 2022",BR,Curitiba,R. Prof. Pedro Viriato Parigot de Souza,null,773.1,342.7,3138
+"Mar 15, 2022",BR,Curitiba,Al. Dr. Muricy,null,833,1176.3333333333333,368
+"Mar 15, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1779.21875,603.6875,15415
+"Mar 15, 2022",BR,Curitiba,R. Exp. Francisco Pereira dos Santos,null,592,1103,4
+"Mar 15, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,2514,428.5,32
+"Mar 15, 2022",BR,Curitiba,R. Nicolau Maeder,null,802.0769230769231,457.84615384615387,7722
+"Mar 15, 2022",BR,Curitiba,R. Fortaleza,null,715,1258.5,20
+"Mar 15, 2022",BR,Curitiba,Av. Nossa Sra. da Luz,null,995.8965517241379,352.13793103448273,2877
+"Mar 15, 2022",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1442.5714285714287,408.5,5508
+"Mar 15, 2022",BR,Curitiba,R. Ten. Tito Teixeira de Castro,null,649,840,22
+"Mar 15, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,3226,801,174
+"Mar 15, 2022",BR,Curitiba,PR-418 Contorno Norte,null,3476,398.76,2402
+"Mar 15, 2022",BR,Curitiba,R. Visc. de Nácar,null,833.6206896551724,401.86206896551727,3516
+"Mar 15, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,631,985,20
+"Mar 15, 2022",BR,Curitiba,R. Brig. Franco,null,1829.95,493.425,9539
+"Mar 15, 2022",BR,Curitiba,R. João Reffo,null,806,710,10
+"Mar 15, 2022",BR,São José dos Pinhais,R. Joaquim Nabuco,null,877.25,432.625,1702
+"Mar 15, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2167.9714285714285,669.9428571428572,7830
+"Mar 15, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,null,3309.2,476.6,928
+"Mar 15, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5054.04,565.86,19170
+"Mar 15, 2022",BR,Curitiba,R. Pe. Agostinho,ACCIDENT,1269.875,558.4375,2548
+"Mar 15, 2022",BR,Curitiba,R. Hildebrando de Araújo,null,566,961.5,96
+"Mar 15, 2022",BR,Curitiba,BR-376 Contorno Sul,null,8481.713483146068,518.870786516854,33061
+"Mar 15, 2022",BR,Curitiba,R. João Parolin,null,758.6,366.3,1802
+"Mar 15, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,961.25,690,642
+"Mar 15, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,2286.3333333333335,883.3333333333334,998
+"Mar 15, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,6522.20652173913,721.2554347826087,20882
+"Mar 15, 2022",BR,Curitiba,R. Frei Orlando,null,658,730,12
+"Mar 15, 2022",BR,Curitiba,V. Exclusiva Ônibus,null,1029.8,369.4,40
+"Mar 15, 2022",BR,Curitiba,Av. Linha Verde,null,2100.823529411765,339.17058823529413,37013
+"Mar 15, 2022",BR,Curitiba,R. Bispo Dom José,null,806.5714285714286,422.57142857142856,1858
+"Mar 15, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6150.864077669903,610.1601941747573,32334
+"Mar 15, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,1505.3333333333333,42
+"Mar 15, 2022",BR,Curitiba,Av. Vicente Machado,null,871.8625,564.4,9021
+"Mar 15, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,1972.0980392156862,747.0784313725491,15538
+"Mar 15, 2022",BR,Curitiba,R. México,null,523.625,709.75,346
+"Mar 15, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,HAZARD,2380.1666666666665,161.58333333333334,76
+"Mar 15, 2022",BR,Curitiba,R. Francisco Rocha,null,1025.157894736842,378,2718
+"Mar 15, 2022",BR,Curitiba,Av. Anita Garibaldi,null,955,206.7,260
+"Mar 15, 2022",BR,Curitiba,Av. Sete de Setembro,null,1188.391304347826,581.2173913043479,2726
+"Mar 15, 2022",BR,Pinhais,R. Rio Solimões,null,607,712.6666666666666,42
+"Mar 15, 2022",BR,Curitiba,R. Eduardo Sprada,null,745.7142857142857,412.14285714285717,1206
+"Mar 15, 2022",BR,Curitiba,Av. Comendador Franco,null,2282.7659574468084,404.4148936170213,23653
+"Mar 15, 2022",BR,Curitiba,R. Eugênio Flor,null,1040,579,28
+"Mar 15, 2022",BR,Curitiba,R. Saldanha Marinho,null,540,609.3333333333334,492
+"Mar 15, 2022",BR,Curitiba,Av. Sen. Salgado Filho,ACCIDENT,975.3333333333334,691,972
+"Mar 15, 2022",BR,Curitiba,Al. Júlia da Costa,null,700.2857142857143,416.57142857142856,2652
+"Mar 15, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1311.6521739130435,681.0869565217391,6718
+"Mar 15, 2022",BR,Curitiba,R. Prof. Elevir Dionysio,null,593,661.5,24
+"Mar 15, 2022",BR,Curitiba,R. Iapó,null,949.8888888888889,516.7222222222222,5102
+"Mar 15, 2022",BR,Curitiba,Av. República Argentina,null,644.3333333333334,713.3333333333334,94
+"Mar 15, 2022",BR,Curitiba,R. Olindo Sequinel,null,505,1149.5,32
+"Mar 15, 2022",BR,Curitiba,R. João Alencar Guimarães,null,1154.875,644.5,2608
+"Mar 15, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,765.25,480.5,3514
+"Mar 15, 2022",BR,Curitiba,R. Com. Roseira,null,561,205.9,1438
+"Mar 15, 2022",BR,Curitiba,R. João Lunardeli,null,580,763,8
+"Mar 15, 2022",BR,Curitiba,R. Gastão Câmara,null,703.5,693.8125,3840
+"Mar 15, 2022",BR,Curitiba,R. Salvador Ferrante,null,645.6666666666666,927.6666666666666,60
+"Mar 15, 2022",BR,Curitiba,R. Nicarágua,null,536,838,70
+"Mar 15, 2022",BR,Curitiba,R. Rio Grande do Sul,null,637.8181818181819,416.45454545454544,1320
+"Mar 15, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1001.6896551724138,920.6379310344828,1173
+"Mar 15, 2022",BR,Curitiba,R. José Valle,null,880,390.46666666666664,638
+"Mar 15, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,ACCIDENT,2051,515.5,822
+"Mar 15, 2022",BR,Curitiba,R. João Negrão,null,639,368.3333333333333,2068
+"Mar 15, 2022",BR,Curitiba,R. Visc. do Rio Branco,null,565,517,120
+"Mar 15, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,735.8611111111111,365.25,10402
+"Mar 15, 2022",BR,Curitiba,Av. Paraná,null,1000,1072,12
+"Mar 15, 2022",BR,Curitiba,R. Frederico Maurer,null,668,522,24
+"Mar 15, 2022",BR,Curitiba,R. Augusto Stresser,null,1381.4,716.2,794
+"Mar 15, 2022",BR,São José dos Pinhais,R. Alcídio Viana,null,550,457,18
+"Mar 15, 2022",BR,Curitiba,R. Nicola Pellanda,null,813.3333333333334,548,72
+"Mar 15, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3441.516129032258,413.258064516129,5146
+"Mar 15, 2022",BR,Curitiba,R. Prof. João Soares Barcelos,null,684,412.4,798
+"Mar 15, 2022",BR,Curitiba,R. Pe. Leonardo Nunes,null,645,910,34
+"Mar 15, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,877.45,878.15,844
+"Mar 15, 2022",BR,Curitiba,Av. João Gualberto,null,924.8181818181819,476.3333333333333,2786
+"Mar 14, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,961.4642857142857,583.1071428571429,7338
+"Mar 14, 2022",BR,Curitiba,R. Anne Frank,null,1020.6111111111111,368.55555555555554,4956
+"Mar 14, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3826.5,521.375,1572
+"Mar 14, 2022",BR,Curitiba,Av. Comendador Franco,null,1830.2267441860465,440.6337209302326,28221
+"Mar 14, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,ACCIDENT,1375,936,162
+"Mar 14, 2022",BR,São José dos Pinhais,null,null,599.5,355.5,128
+"Mar 14, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,908.8,35
+"Mar 14, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,null,1518.6521739130435,778.0217391304348,8736
+"Mar 14, 2022",BR,Curitiba,R. Prof. Benedito Conceição,null,543,861,6
+"Mar 14, 2022",BR,Curitiba,PR-418 Contorno Norte,null,3327,484.77777777777777,2856
+"Mar 14, 2022",BR,Curitiba,R. Profa. Doracy Cezzarino,null,537,521,100
+"Mar 14, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,2829.8695652173915,488.8695652173913,374
+"Mar 14, 2022",BR,Curitiba,R. João Negrão,null,717.7142857142857,598,2648
+"Mar 14, 2022",BR,Colombo,BR-476 Est. da Ribeira,null,1004.2,492.1,302
+"Mar 14, 2022",BR,Curitiba,R. Com. Roseira,null,561,440.38461538461536,1720
+"Mar 14, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,953.4609375,1066.7109375,1743
+"Mar 14, 2022",BR,Curitiba,Av. Cândido Hartmann,null,577.875,522,1236
+"Mar 14, 2022",BR,Curitiba,null,null,510,601,360
+"Mar 14, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,1617.75,779.0882352941177,5652
+"Mar 14, 2022",BR,Curitiba,BR-376 Contorno Sul,HAZARD,4562.21875,819.53125,3325
+"Mar 14, 2022",BR,Curitiba,BR-376 Contorno Sul,null,3483.122807017544,591.3508771929825,15502
+"Mar 14, 2022",BR,Curitiba,R. Mato Grosso,null,715,639,12
+"Mar 14, 2022",BR,Curitiba,R. Paul Garfunkel,null,913.6923076923077,276.61538461538464,456
+"Mar 14, 2022",BR,Curitiba,R. Wilson Dacheux Pereira,null,593,471,20
+"Mar 14, 2022",BR,Curitiba,R. Eduardo Sprada,null,655.8888888888889,266.1111111111111,878
+"Mar 14, 2022",BR,Curitiba,R. Prof. Guido Straube,null,636,785.9166666666666,81
+"Mar 14, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,1963.375,406.25,3226
+"Mar 14, 2022",BR,Curitiba,Av. Anita Garibaldi,null,1961.5299145299145,889.6239316239316,2626
+"Mar 14, 2022",BR,Curitiba,R. João Parolin,null,597.3333333333334,356.44444444444446,1946
+"Mar 14, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5920.714285714285,795.5357142857143,10356
+"Mar 14, 2022",BR,Curitiba,R. Iapó,null,1061.7,618.25,5338
+"Mar 14, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,910.1428571428571,489.85714285714283,32
+"Mar 14, 2022",BR,Curitiba,Av. Linha Verde,null,2079.1796116504856,382.7135922330097,39143
+"Mar 14, 2022",BR,Curitiba,R. Paulo Gorski,null,612,453.4166666666667,338
+"Mar 14, 2022",BR,Curitiba,R. José Carlos de Macedo Soares,null,516,708,56
+"Mar 14, 2022",BR,Curitiba,R. Francisco Frischmann,ACCIDENT,1284,497,272
+"Mar 14, 2022",BR,Curitiba,Av. Vicente Machado,null,669.2272727272727,326.04545454545456,3778
+"Mar 14, 2022",BR,Curitiba,R. Omar Raymundo Picheth,null,724.3333333333334,408.9166666666667,2134
+"Mar 14, 2022",BR,Curitiba,R. Imaculada Conceição,null,722.2068965517242,514.7586206896551,2606
+"Mar 14, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,990.3777777777777,1248.7,2333
+"Mar 14, 2022",BR,Colombo,R. da Pedreira,null,521,332.3333333333333,24
+"Mar 14, 2022",BR,Curitiba,Av. República Argentina,null,999.3076923076923,651.1153846153846,2172
+"Mar 14, 2022",BR,Piraquara,R. Pastor Adolfo Weidmann,null,1552.1666666666667,244,30
+"Mar 14, 2022",BR,Curitiba,PR-417 Rod. Mauro Bernardo Camargo,null,1353.8181818181818,429.27272727272725,540
+"Mar 14, 2022",BR,Curitiba,R. José Valle,null,585.6,411.8,82
+"Mar 14, 2022",BR,São José dos Pinhais,R. Quinze de Novembro,null,797,806,26
+"Mar 14, 2022",BR,Curitiba,R. Francisco Frischmann,null,1282.0444444444445,487.03333333333336,12685
+"Mar 14, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1125.888888888889,534.8888888888889,1934
+"Mar 14, 2022",BR,Curitiba,R. Prof. João Soares Barcelos,null,674.0555555555555,338.5,3572
+"Mar 14, 2022",BR,Curitiba,Av. Sete de Setembro,null,623,321,90
+"Mar 14, 2022",BR,Curitiba,R. Recife,null,618,975,30
+"Mar 14, 2022",BR,Curitiba,Av. Ver. Toaldo Túlio,null,835,715,54
+"Mar 14, 2022",BR,Curitiba,R. Prof. Dário Veloso,null,692,862.3333333333334,50
+"Mar 14, 2022",BR,Colombo,PR-417 Rod. Mauro Bernardo Camargo,null,1714.125,259,340
+"Mar 14, 2022",BR,Curitiba,R. Gastão Câmara,null,644.8,655.75,1355
+"Mar 14, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,907.8,597.5333333333333,2320
+"Mar 14, 2022",BR,Curitiba,R. Bispo Dom José,null,837,540.3333333333334,1364
+"Mar 13, 2022",BR,Piraquara,Av. Ribeira,null,679,418.28,326
+"Mar 13, 2022",BR,Curitiba,R. Mal. Cardoso Jr.,null,629,664.25,24
+"Mar 13, 2022",BR,Curitiba,R. Nilo Peçanha,null,671.452380952381,370.57142857142856,3786
+"Mar 13, 2022",BR,null,BR-277 S Rod. do Café Gov. Ney Braga,null,3029.2,316.2,1338
+"Mar 13, 2022",BR,São José dos Pinhais,R. Voluntários da Pátria,null,703.2,864.2,42
+"Mar 13, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,668,403.75,74
+"Mar 13, 2022",BR,Curitiba,Av. Manoel Ribas,null,646,449,14
+"Mar 13, 2022",BR,Pinhais,Est. Ecológica de Pinhais,null,611,637,102
+"Mar 13, 2022",BR,Curitiba,Av. Sete de Setembro,null,517,765,12
+"Mar 13, 2022",BR,Curitiba,R. João Gava,null,959.8471337579617,533.9585987261147,18551
+"Mar 13, 2022",BR,null,BR-277 S Rod. do Café Gov. Ney Braga,ACCIDENT,2512.285714285714,504.14285714285717,1314
+"Mar 13, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,701,684.6,366
+"Mar 13, 2022",BR,Curitiba,R. Chile,null,664,317.3333333333333,116
+"Mar 13, 2022",BR,Curitiba,Al. D. Pedro II,null,642.4,294.4,260
+"Mar 13, 2022",BR,Curitiba,R. Des. Westphalen,null,1148,482.6666666666667,60
+"Mar 12, 2022",BR,Curitiba,Av. Vicente Machado,null,638.3529411764706,509.7647058823529,3520
+"Mar 12, 2022",BR,Curitiba,Av. República Argentina,null,1071.6470588235295,434,356
+"Mar 12, 2022",BR,Curitiba,R. Des. Cid Campelo,null,650,1104,46
+"Mar 12, 2022",BR,Curitiba,R. Gen. Carneiro,null,561,687.5,118
+"Mar 12, 2022",BR,Curitiba,R. João Ramalho,null,600,849.5,12
+"Mar 12, 2022",BR,Curitiba,R. João Gava,null,908.1515151515151,339.3030303030303,4488
+"Mar 12, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,783.1111111111111,959.5238095238095,2024
+"Mar 12, 2022",BR,Curitiba,Av. Comendador Franco,null,597,255.6,784
+"Mar 12, 2022",BR,Piraquara,R. Martimiano Sabino da Silva,null,592,533.4,40
+"Mar 12, 2022",BR,Colombo,R. Pedro do Rosário,null,581,726.1111111111111,66
+"Mar 12, 2022",BR,Curitiba,R. Carlos de Laet,null,691,887,8
+"Mar 12, 2022",BR,Curitiba,R. Eng. Costa Barros,null,695,533,16
+"Mar 12, 2022",BR,Curitiba,R. Antônio Contin,null,602,810.5,10
+"Mar 12, 2022",BR,Pinhais,R. Mandaguaçu,null,679,568,8
+"Mar 12, 2022",BR,Curitiba,R. Rio Grande do Sul,null,557,439.6666666666667,52
+"Mar 12, 2022",BR,Curitiba,Av. Linha Verde,null,1894.1470588235295,511.6764705882353,7534
+"Mar 12, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,1332.4,834.4,4138
+"Mar 12, 2022",BR,Curitiba,Av. do Batel,null,572,1201,6
+"Mar 11, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,4590.5,2959.375,3279
+"Mar 11, 2022",BR,Curitiba,Av. Pres. Affonso Camargo,null,846.2,157.6,974
+"Mar 11, 2022",BR,Curitiba,null,null,643.32,497.96,1292
+"Mar 11, 2022",BR,Curitiba,R. Bocaiúva,null,631,677.25,48
+"Mar 11, 2022",BR,Curitiba,Av. Pres. Kennedy,null,1346.2,521.3666666666667,10146
+"Mar 11, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1677,345.3,1832
+"Mar 11, 2022",BR,Curitiba,Al. D. Pedro II,null,667,815,38
+"Mar 11, 2022",BR,Curitiba,Av. Cândido Hartmann,null,903.6578947368421,344.0263157894737,6968
+"Mar 11, 2022",BR,Curitiba,R. José Rodrigues Pinheiro,null,1141.6,613.7555555555556,4106
+"Mar 11, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,966.3947368421053,445.9671052631579,8739
+"Mar 11, 2022",BR,Curitiba,Av. Ver. Toaldo Túlio,null,787.6774193548387,405.258064516129,1924
+"Mar 11, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,3218.1428571428573,292.54464285714283,1745
+"Mar 11, 2022",BR,Curitiba,BR-116 Contorno Leste,ACCIDENT,1866.5,139.25,476
+"Mar 11, 2022",BR,Curitiba,R. Bispo Dom José,null,832.6923076923077,481.53846153846155,2982
+"Mar 11, 2022",BR,Curitiba,R. Francisco Frischmann,null,1257.0833333333333,640.6666666666666,19746
+"Mar 11, 2022",BR,Curitiba,Av. Iguaçu,null,638.3333333333334,773.3333333333334,78
+"Mar 11, 2022",BR,Curitiba,R. Pedro Wieler,null,742,438,8
+"Mar 11, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,null,1178,393.75,2244
+"Mar 11, 2022",BR,Curitiba,R. Guararapes,null,904.8181818181819,329.8181818181818,3446
+"Mar 11, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,954.9428571428572,476.6857142857143,2979
+"Mar 11, 2022",BR,Curitiba,R. Prof. Waldir de Jesus,null,500,949.5,16
+"Mar 11, 2022",BR,Curitiba,PR-418 Contorno Norte,ACCIDENT,4368.363636363636,1791.2575757575758,6902
+"Mar 11, 2022",BR,Almirante Tamandaré,R. Ver. Wadislau Bugalski,null,1476.6301369863013,1158.3835616438357,3310
+"Mar 11, 2022",BR,Curitiba,R. Chile,null,1599.6153846153845,578.4615384615385,3678
+"Mar 11, 2022",BR,Curitiba,Av. Pres. Arthur da Silva Bernardes,null,1104.939393939394,665.7878787878788,5220
+"Mar 11, 2022",BR,Curitiba,R. Pe. Anchieta,null,820.8571428571429,382,804
+"Mar 11, 2022",BR,Curitiba,PR-418 Contorno Norte,null,2924.1137026239066,1263.0481049562682,21082
+"Mar 11, 2022",BR,Curitiba,R. Rio Grande do Sul,null,523,557.3333333333334,446
+"Mar 11, 2022",BR,Curitiba,Av. República Argentina,null,1237.9787234042553,758.1489361702128,4105
+"Mar 11, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,874.4814814814815,486.77777777777777,3825
+"Mar 11, 2022",BR,Curitiba,R. Tijucas do Sul,null,681,587,10
+"Mar 11, 2022",BR,Curitiba,R. Omar Raymundo Picheth,null,603.5238095238095,292.3333333333333,2714
+"Mar 11, 2022",BR,Curitiba,R. 13 de Maio,ACCIDENT,652,557,178
+"Mar 11, 2022",BR,Curitiba,R. Gastão Câmara,null,676,734.6842105263158,3930
+"Mar 11, 2022",BR,Curitiba,R. José Zgoda,null,595,462.4,334
+"Mar 11, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,810.5,789.4666666666667,998
+"Mar 11, 2022",BR,Curitiba,Av. Comendador Franco,null,798.5428571428571,398.4,6792
+"Mar 11, 2022",BR,Curitiba,R. Chile,ACCIDENT,1757.9333333333334,1010.3333333333334,5930
+"Mar 11, 2022",BR,Curitiba,R. Martim Afonso,null,977.4736842105264,439.36842105263156,3990
+"Mar 11, 2022",BR,Curitiba,R. Ulisses Aurélio Visinoni,null,644,506,4
+"Mar 11, 2022",BR,Campina Grande do Sul,BR-116 N Rod. Régis Bittencourt,null,632,688,16
+"Mar 11, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,null,3024.8513513513512,234.8918918918919,9820
+"Mar 11, 2022",BR,Curitiba,R. Dr. Reynaldo Machado,null,563.8125,437.1875,2782
+"Mar 11, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,2354.75,222.875,1670
+"Mar 11, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,897.6666666666666,398.21794871794873,12115
+"Mar 11, 2022",BR,Curitiba,Av. Winston Churchill,null,656.1333333333333,413.6,638
+"Mar 11, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,634,740.25,132
+"Mar 11, 2022",BR,Curitiba,Av. Pres. Affonso Camargo,HAZARD,1687,460.27272727272725,4822
+"Mar 11, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,4371.740740740741,678.2592592592592,7514
+"Mar 11, 2022",BR,Colombo,Av. Marg. José de Anchieta,ACCIDENT,519,384,94
+"Mar 11, 2022",BR,Curitiba,Av. Sete de Setembro,null,1221.125,374.0416666666667,1454
+"Mar 11, 2022",BR,Curitiba,Av. Vicente Machado,HAZARD,764,327.4117647058824,1476
+"Mar 11, 2022",BR,Curitiba,R. Ipiranga,ACCIDENT,796.4705882352941,542.8235294117648,1862
+"Mar 11, 2022",BR,Curitiba,R. Antônio Escorsin,null,731.2,532.8,122
+"Mar 11, 2022",BR,Curitiba,R. Gen. Carneiro,null,561,671,132
+"Mar 11, 2022",BR,Curitiba,R. Alm. Gonçalves,null,713,1501,58
+"Mar 11, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,1797.2916666666667,507.9583333333333,14862
+"Mar 11, 2022",BR,Curitiba,R. Paulo Gorski,null,670.5555555555555,492.3333333333333,1060
+"Mar 11, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6922.565217391304,759.304347826087,6617
+"Mar 11, 2022",BR,Curitiba,R. Buenos Aires,null,563.3333333333334,1185,66
+"Mar 11, 2022",BR,null,PR-418 Contorno Norte,ACCIDENT,1443.044776119403,1694.9253731343283,1414
+"Mar 11, 2022",BR,Curitiba,R. Martim Afonso,HAZARD,610.3529411764706,179.11764705882354,1902
+"Mar 11, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,3520.8,764.5,2450
+"Mar 11, 2022",BR,Curitiba,R. Prof. Ulisses Vieira,null,628,876,10
+"Mar 11, 2022",BR,Curitiba,Av. Linha Verde,null,2583.916938110749,835.5032573289902,71606
+"Mar 11, 2022",BR,Curitiba,R. André Ferreira Barbosa,null,947.5254237288135,510.1864406779661,11482
+"Mar 11, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,ACCIDENT,1047.7272727272727,456.5,572
+"Mar 11, 2022",BR,Curitiba,R. Iapó,null,1128.3529411764705,629.4117647058823,5254
+"Mar 11, 2022",BR,Curitiba,Est. do Ganchinho,null,917.7272727272727,645.6363636363636,556
+"Mar 11, 2022",BR,Almirante Tamandaré,R. Ver. Wadislau Bugalski,ACCIDENT,1276.628205128205,833.2179487179487,1119
+"Mar 11, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,590,412,20
+"Mar 11, 2022",BR,Curitiba,R. Maestro Carlos Frank,null,516,1320,16
+"Mar 11, 2022",BR,Curitiba,R. Imaculada Conceição,null,754.3333333333334,885.75,904
+"Mar 11, 2022",BR,null,PR-418 Contorno Norte,null,2431.70297029703,825.5891089108911,5435
+"Mar 11, 2022",BR,Curitiba,R. Ipiranga,null,678.3076923076923,407.46153846153845,1054
+"Mar 11, 2022",BR,Curitiba,Av. João Gualberto,null,694,346.6,530
+"Mar 11, 2022",BR,São José dos Pinhais,R. Cap. Tobias Pereira da Cruz,null,740,719,40
+"Mar 11, 2022",BR,Curitiba,BR-376 Contorno Sul,null,5419.212550607287,951.4716599190283,64758
+"Mar 11, 2022",BR,Colombo,BR-476 Est. da Ribeira,null,853.1428571428571,1322,338
+"Mar 11, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,662.0833333333334,539.6666666666666,1399
+"Mar 11, 2022",BR,Curitiba,R. Eduardo Sprada,null,767,573.0769230769231,762
+"Mar 11, 2022",BR,Colombo,BR-476 Est. da Ribeira,ACCIDENT,515,901.3888888888889,768
+"Mar 11, 2022",BR,Curitiba,Al. Dr. Muricy,null,699,1085,456
+"Mar 11, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,HAZARD,968.2142857142857,217.71428571428572,1358
+"Mar 11, 2022",BR,Curitiba,R. Prof. João Falarz,null,1067.2045454545455,639.6022727272727,2888
+"Mar 11, 2022",BR,Curitiba,Av. Manoel Ribas,null,889.9615384615385,477.1923076923077,2116
+"Mar 10, 2022",BR,Curitiba,null,null,575.9921875,288.9375,7369
+"Mar 10, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1413.5076923076922,564.3153846153846,23666
+"Mar 10, 2022",BR,Curitiba,R. Emanoel Voluz,null,728.5,585.2692307692307,3588
+"Mar 10, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,7053.551724137931,896.0636604774536,43453
+"Mar 10, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,7856.5675675675675,2427.4054054054054,4056
+"Mar 10, 2022",BR,Curitiba,R. Ver. Elias Karam,null,654.68,437.56,1576
+"Mar 10, 2022",BR,Pinhais,Av. Ayrton Senna da Silva,null,678,647.8333333333334,62
+"Mar 10, 2022",BR,Curitiba,R. Paul Garfunkel,null,807.5714285714286,671.0357142857143,3490
+"Mar 10, 2022",BR,Curitiba,R. Dr. Reynaldo Machado,null,708.75,447.5,898
+"Mar 10, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,750,639,686
+"Mar 10, 2022",BR,Curitiba,R. Alberico Flores Bueno,HAZARD,638,404,152
+"Mar 10, 2022",BR,Curitiba,R. Eduardo Sprada,null,753.5793650793651,495.7936507936508,3927
+"Mar 10, 2022",BR,Curitiba,R. Dep. Nilson Ribas,null,546,762,206
+"Mar 10, 2022",BR,Curitiba,R. Martim Afonso,null,1912.9242424242425,997.75,28158
+"Mar 10, 2022",BR,Curitiba,R. Brig. Franco,null,1939.561797752809,1158.0337078651685,39529
+"Mar 10, 2022",BR,null,PR-418 Contorno Norte,ACCIDENT,1421.6153846153845,281.38461538461536,690
+"Mar 10, 2022",BR,Curitiba,R. João Chede,null,1141.3095238095239,929.6785714285714,5012
+"Mar 10, 2022",BR,Curitiba,R. Nicolau Maeder,null,760.1818181818181,473.3939393939394,9250
+"Mar 10, 2022",BR,Curitiba,R. dos Funcionários,null,829.8695652173913,501.60869565217394,3092
+"Mar 10, 2022",BR,Curitiba,R. Manoel Eufrásio,null,643.5,346.7,640
+"Mar 10, 2022",BR,São José dos Pinhais,null,null,652,453,12
+"Mar 10, 2022",BR,Curitiba,R. Frederico Maurer,null,581,687,10
+"Mar 10, 2022",BR,Curitiba,R. Anjolilo Buzzetti,null,601.8333333333334,591.9791666666666,1900
+"Mar 10, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,631,521,62
+"Mar 10, 2022",BR,Curitiba,R. Carlos Klemtz,null,573,552,104
+"Mar 10, 2022",BR,Curitiba,R. Cyro Correia Pereira,null,926.9285714285714,813.1071428571429,4117
+"Mar 10, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,858.4,416.06666666666666,2058
+"Mar 10, 2022",BR,Curitiba,Av. Sete de Setembro,null,1023.5,559.8,958
+"Mar 10, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2113.103448275862,452.58620689655174,5355
+"Mar 10, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6532.553191489362,830.645390070922,39146
+"Mar 10, 2022",BR,Curitiba,Av. Anita Garibaldi,null,1443.8,570.5,450
+"Mar 10, 2022",BR,Curitiba,R. Saldanha Marinho,null,895.3333333333334,621.0333333333333,2198
+"Mar 10, 2022",BR,Curitiba,R. João Bettega,null,1113.8857142857144,511.1714285714286,2674
+"Mar 10, 2022",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1521,392.7,4708
+"Mar 10, 2022",BR,Curitiba,R. Emílio Romani,null,803.5135135135135,1083.5135135135135,1718
+"Mar 10, 2022",BR,Curitiba,R. Imaculada Conceição,null,773.4444444444445,564.5555555555555,3390
+"Mar 10, 2022",BR,Curitiba,R. Iapó,null,1125.4444444444443,628.6666666666666,5382
+"Mar 10, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3642.3333333333335,483.8,2486
+"Mar 10, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,1343.5,526.7777777777778,3834
+"Mar 10, 2022",BR,Curitiba,Av. República Argentina,null,554.04,528.44,660
+"Mar 10, 2022",BR,Curitiba,R. Ipiranga,null,974.6229508196722,679.1065573770492,11023
+"Mar 10, 2022",BR,Curitiba,Av. Cândido Hartmann,null,581.5333333333333,380.9,1906
+"Mar 10, 2022",BR,São José dos Pinhais,R. Tavares de Lyra,null,932.5128205128206,563.2564102564103,928
+"Mar 10, 2022",BR,Curitiba,R. Paulo Gorski,null,644.6875,475.375,2318
+"Mar 10, 2022",BR,Curitiba,R. Nicola Pellanda,null,1166.3225806451612,317.5806451612903,563
+"Mar 10, 2022",BR,Curitiba,R. Mal. Octávio Saldanha Mazza,null,1527.911111111111,633.7888888888889,12392
+"Mar 10, 2022",BR,Curitiba,Av. Linha Verde,null,2648.7817109144544,490.65781710914456,60628
+"Mar 10, 2022",BR,Curitiba,R. Gastão Câmara,null,676,579.5714285714286,1516
+"Mar 10, 2022",BR,Curitiba,R. Gen. Mário Tourinho,ACCIDENT,583,414,454
+"Mar 10, 2022",BR,Curitiba,R. Emanoel Voluz,ACCIDENT,686.1428571428571,564.1428571428571,912
+"Mar 10, 2022",BR,Curitiba,R. José Rodrigues Pinheiro,null,1918.7692307692307,482.3076923076923,2532
+"Mar 10, 2022",BR,Curitiba,Av. Comendador Franco,null,2046,455.20472440944883,25187
+"Mar 10, 2022",BR,Curitiba,Av. Paraná,null,616,567,8
+"Mar 10, 2022",BR,Curitiba,R. Francisco Rocha,null,993.1904761904761,536.3333333333334,3716
+"Mar 10, 2022",BR,Curitiba,R. Waldemar Loureiro de Campos,null,1165.5714285714287,329.2142857142857,814
+"Mar 10, 2022",BR,Curitiba,R. Eduardo Sprada,HAZARD,680.5454545454545,635.0454545454545,1150
+"Mar 10, 2022",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,null,1087.095238095238,321.8095238095238,4346
+"Mar 10, 2022",BR,Curitiba,R. João Batista Zagonel Passos,null,947,498,22
+"Mar 10, 2022",BR,Curitiba,R. José Gomes de Abreu,null,958.5915492957746,556.1408450704225,7056
+"Mar 10, 2022",BR,Curitiba,R. José Risseto,null,699.8834355828221,1067.2085889570553,1646
+"Mar 10, 2022",BR,Curitiba,R. Lúcio Rasera,null,696,673.1428571428571,1254
+"Mar 10, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,897.7555555555556,873.9111111111112,1166
+"Mar 10, 2022",BR,Curitiba,R. Bom Jesus,null,781.4285714285714,564.8571428571429,712
+"Mar 10, 2022",BR,null,BR-476 Rod. do Xisto,null,2381.3,444.6714285714286,12390
+"Mar 10, 2022",BR,Curitiba,BR-116 Contorno Leste,ACCIDENT,6360.466666666666,646.3333333333334,6840
+"Mar 10, 2022",BR,Curitiba,R. Francisco Derosso,null,555.1428571428571,284.14285714285717,2208
+"Mar 10, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,932.7647058823529,1043.7058823529412,824
+"Mar 10, 2022",BR,Curitiba,R. Des. Antônio de Paula,null,862.2222222222222,492.55555555555554,346
+"Mar 10, 2022",BR,Curitiba,null,ACCIDENT,811.25,538.5,274
+"Mar 10, 2022",BR,São José dos Pinhais,R. Rafael Puchetti,null,666.6923076923077,685.1538461538462,70
+"Mar 10, 2022",BR,Curitiba,R. José de Alencar,null,1725.6,478.4,1738
+"Mar 10, 2022",BR,Curitiba,R. Mateus Leme,null,573,355,282
+"Mar 10, 2022",BR,Curitiba,R. Maria Trevisan Tortato,null,584.1904761904761,413.4047619047619,1722
+"Mar 10, 2022",BR,Curitiba,R. Frei Henrique de Coimbra,null,617,499,10
+"Mar 10, 2022",BR,Curitiba,R. João Dembinski,null,867.7,878,196
+"Mar 10, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,12091.2,2637.4,2126
+"Mar 10, 2022",BR,Curitiba,Av. João Gualberto,null,952.046511627907,532.6511627906976,3342
+"Mar 10, 2022",BR,Colombo,null,null,505,534.5,44
+"Mar 10, 2022",BR,Curitiba,Av. Pres. Getúlio Vargas,null,1184.175,481.6,9383
+"Mar 10, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,881.1525423728814,349.73728813559325,10641
+"Mar 10, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,982.6470588235294,539.1176470588235,3310
+"Mar 10, 2022",BR,São José dos Pinhais,R. Mal. Hermes,null,753.4,442.4,176
+"Mar 10, 2022",BR,Curitiba,R. João Parolin,null,785.4,425.1333333333333,3228
+"Mar 10, 2022",BR,Curitiba,R. Chile,null,1712.8431372549019,532.1176470588235,21830
+"Mar 10, 2022",BR,Curitiba,R. Com. Roseira,null,561,387.57142857142856,1638
+"Mar 10, 2022",BR,Pinhais,R. Wanda dos Santos Mallmann,null,749,513,26
+"Mar 10, 2022",BR,Pinhais,Av. Camilo di Lellis,null,628,817,24
+"Mar 10, 2022",BR,Curitiba,Av. Pref. Omar Sabbag,null,833.5909090909091,461.22727272727275,7612
+"Mar 10, 2022",BR,São José dos Pinhais,R. Pedro Trevisan,null,719,1666,10
+"Mar 10, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,1035.5,569.9285714285714,12623
+"Mar 10, 2022",BR,Curitiba,Av. Pres. Arthur da Silva Bernardes,null,855.2368421052631,408.00657894736844,7978
+"Mar 10, 2022",BR,Curitiba,R. Cons. Laurindo,null,965.2608695652174,428.0217391304348,4297
+"Mar 10, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,null,1769.6638655462184,688.6806722689075,11468
+"Mar 10, 2022",BR,Curitiba,Vd. Colorado,null,864,464.6666666666667,602
+"Mar 10, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,null,1184.4038461538462,520.4326923076923,3968
+"Mar 10, 2022",BR,São José dos Pinhais,Al. Bom Pastor,null,1526,568.4285714285714,352
+"Mar 10, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1255.6904761904761,611.6428571428571,3472
+"Mar 10, 2022",BR,Curitiba,R. Marquês do Paraná,null,702,469,36
+"Mar 10, 2022",BR,Curitiba,R. João Negrão,null,652.1666666666666,395.5,2034
+"Mar 10, 2022",BR,Curitiba,Av. Vicente Machado,null,655.8181818181819,403.45454545454544,2030
+"Mar 10, 2022",BR,São José dos Pinhais,R. John Lennon,null,769,1157,4
+"Mar 10, 2022",BR,Curitiba,R. Hugo Kinzelmann,null,505,597.375,209
+"Mar 10, 2022",BR,Curitiba,R. Tamoios,null,713.5,3039.5,34
+"Mar 10, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,1456.0459770114942,650.1264367816092,7436
+"Mar 10, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,1017,592.5,30
+"Mar 10, 2022",BR,Curitiba,R. Luiz França,null,635,508,14
+"Mar 10, 2022",BR,Curitiba,BR-376 Contorno Sul,null,7475.893617021276,1552.8058510638298,51829
+"Mar 10, 2022",BR,Curitiba,R. Raul Pompéia,null,709.1818181818181,412.09090909090907,574
+"Mar 10, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,976.575,499.4,8936
+"Mar 10, 2022",BR,São José dos Pinhais,Al. Arpo,null,938.0555555555555,485.3888888888889,630
+"Mar 10, 2022",BR,Curitiba,R. João Batista Trentin,null,552,941,8
+"Mar 9, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,548,458.5,58
+"Mar 9, 2022",BR,São José dos Pinhais,R. Norberto de Brito,null,543,697,14
+"Mar 9, 2022",BR,Curitiba,Av. Vicente Machado,null,632.578947368421,505.2631578947368,3608
+"Mar 9, 2022",BR,Curitiba,R. Chile,HAZARD,1503,526.1666666666666,2094
+"Mar 9, 2022",BR,Curitiba,R. Brasílio Cuman,null,627,688,14
+"Mar 9, 2022",BR,Curitiba,R. Chile,null,1455.6129032258063,441.1290322580645,11556
+"Mar 9, 2022",BR,Curitiba,R. Pe. Anchieta,null,872.3333333333334,498.3333333333333,52
+"Mar 9, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1067.608695652174,800.4565217391304,7532
+"Mar 9, 2022",BR,Curitiba,R. Mato Grosso,null,634,880,18
+"Mar 9, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,2223.5172413793102,919,16462
+"Mar 9, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1167.6,644.8,3604
+"Mar 9, 2022",BR,Curitiba,R. Ver. Aurelino Mader Gonçalves,null,527,465,12
+"Mar 9, 2022",BR,Curitiba,R. Eduardo Sprada,null,686.6538461538462,553.3076923076923,2598
+"Mar 9, 2022",BR,Curitiba,R. Mal. Deodoro,null,922.6666666666666,281,1084
+"Mar 9, 2022",BR,Curitiba,R. Iapó,null,1067.578947368421,563.2105263157895,5560
+"Mar 9, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,821.8409090909091,520.7954545454545,8328
+"Mar 9, 2022",BR,São José dos Pinhais,R. João Zarpelon,null,656,431,12
+"Mar 9, 2022",BR,Curitiba,Al. Pres. Taunay,null,787,945,42
+"Mar 9, 2022",BR,Curitiba,R. Dep. Carneiro de Campos,null,545,495,30
+"Mar 9, 2022",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,null,1137.0714285714287,513.5714285714286,1760
+"Mar 9, 2022",BR,Curitiba,R. Pe. Agostinho,null,1488.2105263157894,636.9473684210526,8134
+"Mar 9, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2492.5375,537.5125,18734
+"Mar 9, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,686,412,364
+"Mar 9, 2022",BR,Pinhais,PR-415 Rod. João Leopoldo Jacomel,ACCIDENT,1402.3076923076924,399.84615384615387,2744
+"Mar 9, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,739.8571428571429,484.57142857142856,6550
+"Mar 9, 2022",BR,Curitiba,Av. Pref. Omar Sabbag,null,911.25,287.25,1456
+"Mar 9, 2022",BR,Curitiba,R. João Gava,null,525,577.5,108
+"Mar 9, 2022",BR,Curitiba,Av. Manoel Ribas,null,566.5,362,108
+"Mar 9, 2022",BR,Curitiba,Marginal Est. da Ribeira,null,591,557,42
+"Mar 9, 2022",BR,Curitiba,Av. Pres. Affonso Camargo,null,1405.0833333333333,407,12644
+"Mar 9, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1929.2,827.3,4176
+"Mar 9, 2022",BR,Curitiba,Av. Linha Verde,null,1864.6732673267327,347.45544554455444,36104
+"Mar 9, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,859.804347826087,386.8695652173913,14260
+"Mar 9, 2022",BR,Curitiba,R. Francisco Mota Machado,null,631,609.4,58
+"Mar 9, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,1004.2631578947369,1066.7894736842106,990
+"Mar 9, 2022",BR,Curitiba,R. João Alencar Guimarães,null,1439.5,356.25,994
+"Mar 9, 2022",BR,Curitiba,R. Com. Roseira,null,561,342.3636363636364,1750
+"Mar 9, 2022",BR,Curitiba,Av. República Argentina,null,648,461.6666666666667,260
+"Mar 9, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,861.5806451612904,511.48387096774195,3892
+"Mar 9, 2022",BR,Curitiba,R. Barão do Rio Branco,null,577,582,70
+"Mar 9, 2022",BR,Curitiba,R. Bispo Dom José,null,829.6190476190476,592.2380952380952,3956
+"Mar 9, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5632.6122448979595,631.4897959183673,20204
+"Mar 9, 2022",BR,São José dos Pinhais,R. Tavares de Lyra,null,507,472,14
+"Mar 9, 2022",BR,Curitiba,Av. Comendador Franco,null,3694.08,619.2,18264
+"Mar 9, 2022",BR,Pinhais,R. Rio Amazonas,null,508,415,92
+"Mar 9, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1604.857142857143,666.6785714285714,6802
+"Mar 9, 2022",BR,Curitiba,R. Nunes Machado,null,582,1474,10
+"Mar 9, 2022",BR,Curitiba,R. Imaculada Conceição,null,844.258064516129,711.2903225806451,2622
+"Mar 9, 2022",BR,Curitiba,Al. Dr. Muricy,null,990,735,196
+"Mar 9, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,860.5619047619048,972.5666666666667,3301
+"Mar 9, 2022",BR,Curitiba,R. Pe. Ladislau Kula,null,688.9166666666666,487.75,568
+"Mar 9, 2022",BR,Curitiba,R. José Zgoda,null,595,408.9,1030
+"Mar 9, 2022",BR,São José dos Pinhais,null,null,746,390.6,84
+"Mar 9, 2022",BR,Curitiba,R. Mariano Torres - Pista Dir.,null,984,505.2,624
+"Mar 8, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4135.133333333333,530.7333333333333,2380
+"Mar 8, 2022",BR,Curitiba,R. José Zgoda,null,595,557.6363636363636,1076
+"Mar 8, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,null,713.8,817,192
+"Mar 8, 2022",BR,Curitiba,R. Des. Ernani Guarita Cartaxo,null,520,1293,18
+"Mar 8, 2022",BR,Curitiba,Av. Manoel Ribas,null,876,432,284
+"Mar 8, 2022",BR,Curitiba,R. Iapó,null,1045.0555555555557,628.0555555555555,5526
+"Mar 8, 2022",BR,Curitiba,R. Raul Pompéia,null,574.8,779.9333333333333,780
+"Mar 8, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,3631,885.5714285714286,4350
+"Mar 8, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,1100.7884615384614,693.1730769230769,17236
+"Mar 8, 2022",BR,Curitiba,Av. Nossa Senhora Aparecida,null,1267.5,287.25,2658
+"Mar 8, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1975.5243902439024,438.7317073170732,1208
+"Mar 8, 2022",BR,Curitiba,Al. Dr. Muricy,null,1069.5,452.5,1858
+"Mar 8, 2022",BR,Curitiba,R. Pe. Ladislau Kula,null,716.7307692307693,483.61538461538464,1973
+"Mar 8, 2022",BR,Curitiba,Av. João Gualberto,null,647,499,24
+"Mar 8, 2022",BR,Curitiba,R. José Zgoda,ACCIDENT,595,419.09090909090907,956
+"Mar 8, 2022",BR,Curitiba,R. Pe. Agostinho,null,1280.6041666666667,572.2291666666666,19890
+"Mar 8, 2022",BR,São José dos Pinhais,R. Dona Izabel A Redentora,null,547.25,448.3333333333333,648
+"Mar 8, 2022",BR,Curitiba,R. Anne Frank,null,943.7941176470588,307.94117647058823,10802
+"Mar 8, 2022",BR,Curitiba,Marg. BR-116,null,1133.3333333333333,485.3333333333333,418
+"Mar 8, 2022",BR,Curitiba,R. Eduardo Sprada,null,689.1558441558442,369,6195
+"Mar 8, 2022",BR,Curitiba,R. Baltazar Carrasco dos Reis,null,544,760.5,52
+"Mar 8, 2022",BR,São José dos Pinhais,BR-376 N Rod. Henrique Herwig,null,1309.36,564.12,2462
+"Mar 8, 2022",BR,Curitiba,R. André de Barros,null,722.25,504.3333333333333,2686
+"Mar 8, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,792.5714285714286,502.07142857142856,542
+"Mar 8, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,4314,595.3333333333334,1072
+"Mar 8, 2022",BR,Curitiba,R. Bispo Dom José,null,820.5454545454545,340.54545454545456,1856
+"Mar 8, 2022",BR,Curitiba,R. Dr. Aluízio França,null,674,437,12
+"Mar 8, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,911.1304347826087,630.3478260869565,4296
+"Mar 8, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,998.2702702702703,495.38513513513516,10908
+"Mar 8, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,HAZARD,1085.3703703703704,464.85185185185185,5582
+"Mar 8, 2022",BR,Curitiba,R. Oliveira Viana,null,781,554,10
+"Mar 8, 2022",BR,São José dos Pinhais,R. Visc. do Rio Branco,null,843.6363636363636,275.90909090909093,602
+"Mar 8, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,868.6129032258065,704.3629032258065,2687
+"Mar 8, 2022",BR,Curitiba,R. José Valle,null,762,442,12
+"Mar 8, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,956.5454545454545,1106.2727272727273,1204
+"Mar 8, 2022",BR,Curitiba,Av. Sete de Setembro,null,1019.1538461538462,542.3846153846154,1018
+"Mar 8, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,2203.757575757576,712.939393939394,19122
+"Mar 8, 2022",BR,Curitiba,Av. República Argentina,null,817.3636363636364,533.3636363636364,654
+"Mar 8, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1154.9225806451614,502.1290322580645,15269
+"Mar 8, 2022",BR,Curitiba,null,null,605,512.75,392
+"Mar 8, 2022",BR,Colombo,R. da Pedreira,null,666.695652173913,377.0869565217391,216
+"Mar 8, 2022",BR,Curitiba,R. Alberto Folloni,null,810.7142857142857,757.7142857142857,98
+"Mar 8, 2022",BR,Curitiba,PR-418 Contorno Norte,null,3380.3684210526317,337.94736842105266,3124
+"Mar 8, 2022",BR,Curitiba,Av. Manoel Ribas,ACCIDENT,814.8333333333334,304.6666666666667,494
+"Mar 8, 2022",BR,Curitiba,R. Cons. Laurindo,null,1449.7037037037037,628.0370370370371,7702
+"Mar 8, 2022",BR,Curitiba,Via Exclusiva de ônibus,null,748,439.5,36
+"Mar 8, 2022",BR,Curitiba,R. Bôrtolo Pelanda,null,912,477.5,16
+"Mar 8, 2022",BR,Curitiba,Av. Vicente Machado,HAZARD,581,528.5,708
+"Mar 8, 2022",BR,Curitiba,BR-376 Contorno Sul,null,8279.651685393259,499.2303370786517,41893
+"Mar 8, 2022",BR,Curitiba,R. Francisco Fruet,null,587,652.4,38
+"Mar 8, 2022",BR,Curitiba,Av. Ver. Toaldo Túlio,null,977.375,460.8125,862
+"Mar 8, 2022",BR,Curitiba,R. Mariano Torres - Pista Dir.,null,580.2222222222222,415.6666666666667,1276
+"Mar 8, 2022",BR,Curitiba,R. José Izidoro Biazetto,null,719,1496,4
+"Mar 8, 2022",BR,Curitiba,R. João Parolin,null,900.9090909090909,423.6363636363636,2908
+"Mar 8, 2022",BR,São José dos Pinhais,R. João Ângelo Cordeiro,null,575,675.3333333333334,104
+"Mar 8, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5441.352112676056,552.6619718309859,31638
+"Mar 8, 2022",BR,Curitiba,Av. Cândido Hartmann,null,987.0652173913044,514.2173913043479,6552
+"Mar 8, 2022",BR,Curitiba,R. Mal. Deodoro,null,530,437,190
+"Mar 8, 2022",BR,Curitiba,R. Imaculada Conceição,null,880.3448275862069,846.6206896551724,2078
+"Mar 8, 2022",BR,São José dos Pinhais,null,null,652,493,28
+"Mar 8, 2022",BR,Curitiba,Av. Pres. Affonso Camargo,null,1324.8051948051948,361.06493506493507,14058
+"Mar 8, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,728.3013698630137,486.47945205479454,12590
+"Mar 8, 2022",BR,Curitiba,BR-116 Contorno Leste,null,5356.1,431.74,16734
+"Mar 8, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,945.6746031746031,947.4285714285714,3870
+"Mar 8, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,1522.1,417.5,52
+"Mar 8, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1718.5294117647059,603.1764705882352,7869
+"Mar 8, 2022",BR,Curitiba,Av. Pref. Omar Sabbag,null,854.6,406.15,8342
+"Mar 8, 2022",BR,Curitiba,Av. Linha Verde,null,1668.6373831775702,516.1607476635514,75761
+"Mar 8, 2022",BR,Curitiba,R. Dr. Reynaldo Machado,null,739.0588235294117,489.2352941176471,3328
+"Mar 8, 2022",BR,Curitiba,R. Chile,null,1469.9761904761904,447.26190476190476,16826
+"Mar 8, 2022",BR,Curitiba,R. Des. Ermelino de Leão,null,565,607,38
+"Mar 8, 2022",BR,Curitiba,R. Fernando Amaro,null,670,635.5,56
+"Mar 8, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,3598.5714285714284,365.2142857142857,4958
+"Mar 8, 2022",BR,Curitiba,R. João Negrão,null,668.5,421.125,1586
+"Mar 8, 2022",BR,Curitiba,R. Mateus Leme,null,771,672.75,160
+"Mar 8, 2022",BR,Curitiba,R. Prof. João Falarz,null,1191.5454545454545,572.7272727272727,518
+"Mar 8, 2022",BR,Curitiba,Av. Comendador Franco,null,2600.133333333333,591.7666666666667,25245
+"Mar 8, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,509,351,676
+"Mar 8, 2022",BR,Curitiba,R. Dep. Nilson Ribas,null,546,665,96
+"Mar 8, 2022",BR,Curitiba,R. Augusto Stresser,null,1053.075,457.15,2481
+"Mar 8, 2022",BR,Curitiba,Av. Vicente Machado,null,769.5,525.9642857142857,6098
+"Mar 8, 2022",BR,Curitiba,Av. Ver. Toaldo Túlio,ACCIDENT,777.7777777777778,424.6666666666667,502
+"Mar 8, 2022",BR,Curitiba,R. Alm. Gonçalves,null,501,695.25,224
+"Mar 8, 2022",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,554.5714285714286,408.7142857142857,200
+"Mar 8, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1309,543,1064
+"Mar 7, 2022",BR,Curitiba,Av. Cândido Hartmann,null,1087.820987654321,645.9876543209876,11511
+"Mar 7, 2022",BR,Curitiba,Av. Pres. Getúlio Vargas,HAZARD,821.3333333333334,244.66666666666666,1446
+"Mar 7, 2022",BR,Curitiba,R. Anne Frank,null,874.4324324324324,326.6081081081081,11365
+"Mar 7, 2022",BR,Curitiba,PR-418 Contorno Norte,null,4527.5161290322585,433.38709677419354,6002
+"Mar 7, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,1050.3333333333333,532.9803921568628,16430
+"Mar 7, 2022",BR,Curitiba,Av. Pref. Omar Sabbag,null,1004,452.4,3748
+"Mar 7, 2022",BR,São José dos Pinhais,null,null,574.5,643,34
+"Mar 7, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,HAZARD,723.0555555555555,574.6111111111111,4054
+"Mar 7, 2022",BR,Curitiba,R. Atílio Bório,null,524,505,16
+"Mar 7, 2022",BR,Curitiba,Marg. BR-277,null,694,445,106
+"Mar 7, 2022",BR,Curitiba,R. Emílio Romani,null,1107,290,12
+"Mar 7, 2022",BR,Curitiba,R. Prof. Francisco Basseti Jr.,null,739,269.25,400
+"Mar 7, 2022",BR,Curitiba,R. Gen. Mário Tourinho,null,2113.6575342465753,631.4109589041096,18654
+"Mar 7, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,697,355.8627450980392,14234
+"Mar 7, 2022",BR,Curitiba,BR-376 Contorno Sul,null,6776.944444444444,433.8333333333333,13482
+"Mar 7, 2022",BR,Curitiba,R. Anne Frank,ACCIDENT,823,487,332
+"Mar 7, 2022",BR,Curitiba,R. Dr. Bley Zornig,ACCIDENT,583,422.93333333333334,422
+"Mar 7, 2022",BR,Curitiba,Av. Linha Verde,null,2134.8425925925926,516.6898148148148,40014
+"Mar 7, 2022",BR,Curitiba,R. Via Veneto,null,981,517,20
+"Mar 7, 2022",BR,Curitiba,R. Prof. João Soares Barcelos,null,684,159,290
+"Mar 7, 2022",BR,Curitiba,R. Guabirotuba,ACCIDENT,810,477.53333333333336,1716
+"Mar 7, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,2072.897435897436,513.2692307692307,8107
+"Mar 7, 2022",BR,Curitiba,Av. Paraná,null,820.6,604,40
+"Mar 7, 2022",BR,Curitiba,R. Profa. Olga Balster,null,644,555.5,120
+"Mar 7, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,711,471,6
+"Mar 7, 2022",BR,São José dos Pinhais,R. Adrianópolis,null,696,533.5,16
+"Mar 7, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,895.2857142857143,512.8857142857142,4332
+"Mar 7, 2022",BR,Curitiba,R. José Zgoda,null,595,642.4130434782609,2709
+"Mar 7, 2022",BR,Curitiba,Av. Pres. Wenceslau Braz,null,955.9285714285714,421.5,2294
+"Mar 7, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,1007.1818181818181,982.0909090909091,740
+"Mar 7, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,9750.896551724138,719.9741379310345,21364
+"Mar 7, 2022",BR,Curitiba,R. Paulo Gorski,null,587.8181818181819,416,932
+"Mar 7, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2474.264150943396,466.8679245283019,11834
+"Mar 7, 2022",BR,Curitiba,R. Guabirotuba,null,800.7037037037037,420.4074074074074,3302
+"Mar 7, 2022",BR,Curitiba,R. Iapó,null,1141.4285714285713,648.0952380952381,7884
+"Mar 7, 2022",BR,Colombo,R. das Gérberas,null,612,485.8,30
+"Mar 7, 2022",BR,Curitiba,R. Prof. João Soares Barcelos,ACCIDENT,642.3333333333334,360.10714285714283,6217
+"Mar 7, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,992.1111111111111,497.75,6907
+"Mar 7, 2022",BR,Curitiba,Av. Pres. Kennedy,ACCIDENT,968.25,384.0625,1083
+"Mar 7, 2022",BR,São José dos Pinhais,Av. Rui Barbosa,null,994.7142857142857,532.8571428571429,386
+"Mar 7, 2022",BR,Curitiba,R. Alferes Ângelo Sampaio,null,1696.1,572.4,7633
+"Mar 7, 2022",BR,Curitiba,Estr. de Santa Cândida,null,613.5,567.5,50
+"Mar 7, 2022",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,ACCIDENT,1125,782.6666666666666,1588
+"Mar 7, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,976.2111111111111,925.9111111111112,3350
+"Mar 7, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,718.5,1052.5,92
+"Mar 7, 2022",BR,Curitiba,R. Reinaldo Pazello,null,673.375,470.875,30
+"Mar 7, 2022",BR,Curitiba,Av. Anita Garibaldi,null,1983,586.6666666666666,184
+"Mar 7, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,HAZARD,5596,254.5,510
+"Mar 7, 2022",BR,Curitiba,R. Alferes Poli,null,801.6,537.2666666666667,2918
+"Mar 7, 2022",BR,Curitiba,Av. Vicente Machado,HAZARD,758.5714285714286,607.5714285714286,1282
+"Mar 7, 2022",BR,Curitiba,R. Chile,null,1467.2272727272727,371.8181818181818,8542
+"Mar 7, 2022",BR,Curitiba,R. Fábio Fanuchi,null,529,602.5,40
+"Mar 7, 2022",BR,Curitiba,R. Mariano Torres - Pista Dir.,HAZARD,888.8571428571429,545.952380952381,3198
+"Mar 7, 2022",BR,Curitiba,R. Imaculada Conceição,null,845.5694444444445,1188.9930555555557,5943
+"Mar 7, 2022",BR,Curitiba,R. Eduardo Sprada,null,651,467.6666666666667,68
+"Mar 7, 2022",BR,Curitiba,Av. Vicente Machado,null,682.75,315.1666666666667,2156
+"Mar 7, 2022",BR,Curitiba,null,null,833,549.6666666666666,564
+"Mar 7, 2022",BR,Curitiba,R. Pe. Agostinho,null,1156.468085106383,505.02127659574467,13214
+"Mar 7, 2022",BR,Curitiba,R. Dr. Bley Zornig,null,732.5185185185185,778.2962962962963,626
+"Mar 7, 2022",BR,Curitiba,R. Sebastião Malucelli,null,518,433,12
+"Mar 7, 2022",BR,São José dos Pinhais,R. Des. James Portugal Macedo,null,512,632.25,48
+"Mar 7, 2022",BR,Colombo,R. Astorga,null,794,424.5,40
+"Mar 7, 2022",BR,Curitiba,R. José Valle,null,512,844.5,46
+"Mar 7, 2022",BR,Curitiba,R. Com. Roseira,null,561,388.46666666666664,2740
+"Mar 7, 2022",BR,Curitiba,R. Cons. Laurindo,null,1095.8235294117646,337.88235294117646,3808
+"Mar 7, 2022",BR,Curitiba,Av. Sete de Setembro,null,633,512,168
+"Mar 7, 2022",BR,Curitiba,R. Bom Jesus,null,524,305.5,292
+"Mar 7, 2022",BR,Curitiba,BR-277 S Rod. do Café Gov. Ney Braga,null,1077,224.66666666666666,1354
+"Mar 7, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,4836.971428571429,577.1714285714286,11998
+"Mar 7, 2022",BR,Curitiba,R. Dr. Reynaldo Machado,null,861.3333333333334,841.2222222222222,3650
+"Mar 7, 2022",BR,Curitiba,R. Henrique Mehl,null,583,497.5,346
+"Mar 7, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,1472.3333333333333,754.5,754
+"Mar 7, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,2163.6363636363635,721.9545454545455,4454
+"Mar 7, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,1198.3,781.9142857142857,8005
+"Mar 7, 2022",BR,Curitiba,R. Brig. Franco,null,1216.2,359.9,3174
+"Mar 7, 2022",BR,Curitiba,R. Mateus Leme,null,1345.2307692307693,697.3461538461538,2252
+"Mar 7, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,HAZARD,660.25,503.25,7326
+"Mar 7, 2022",BR,Curitiba,R. Paulo Setúbal,null,819,458.2,884
+"Mar 7, 2022",BR,Colombo,Av. Abel Scuissiato,null,521,602.3333333333334,30
+"Mar 7, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Dir.,null,1138,462.7142857142857,3482
+"Mar 7, 2022",BR,Curitiba,Av. Comendador Franco,null,2820.6140350877195,537.4824561403509,30861
+"Mar 7, 2022",BR,Curitiba,Al. Dr. Muricy,null,895,994,200
+"Mar 7, 2022",BR,Curitiba,R. Recife,null,618,1076,68
+"Mar 7, 2022",BR,Curitiba,Av. Juscelino Kubitschek de Oliveira,null,685.2127659574468,560.3829787234042,2126
+"Mar 7, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,1960.5357142857142,642.8571428571429,6291
+"Mar 7, 2022",BR,Curitiba,Av. João Gualberto,null,569,719,24
+"Mar 7, 2022",BR,Curitiba,R. Romano Bertagnoli,null,590,466.6,402
+"Mar 7, 2022",BR,Curitiba,R. João Parolin,null,724.3157894736842,500.7368421052632,3652
+"Mar 6, 2022",BR,Curitiba,R. José Loureiro,null,773,1167,28
+"Mar 6, 2022",BR,Curitiba,R. Mal. José Bernardino Bormann,null,671,745.6666666666666,36
+"Mar 6, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,4578.114285714286,755.4,12716
+"Mar 6, 2022",BR,null,BR-277 S Rod. do Café Gov. Ney Braga,null,2182.133333333333,107.46666666666667,4964
+"Mar 6, 2022",BR,Curitiba,R. Prof. Leônidas Ferreira da Costa,null,529,526.5,8
+"Mar 6, 2022",BR,Curitiba,R. Des. Motta,null,589,404.8,686
+"Mar 6, 2022",BR,Curitiba,Av. República Argentina,null,630,841,24
+"Mar 6, 2022",BR,Curitiba,null,null,1573.0247933884298,1218.0247933884298,641
+"Mar 6, 2022",BR,Curitiba,R. Justo Manfron,null,657,451.3333333333333,34
+"Mar 6, 2022",BR,Curitiba,Av. José Gulin,null,880,524,20
+"Mar 6, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,870.1388888888889,717.5185185185185,4638
+"Mar 6, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5634.770491803279,642.0327868852459,24826
+"Mar 6, 2022",BR,Curitiba,R. Rio Jari,null,640,496,12
+"Mar 5, 2022",BR,Curitiba,R. Des. Vieira Cavalcanti,null,555,932,28
+"Mar 5, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,553,712.5,24
+"Mar 5, 2022",BR,Curitiba,R. Dr. Aluízio França,null,945.5,483.5,26
+"Mar 5, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,583,839,6
+"Mar 5, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,948,989,16
+"Mar 5, 2022",BR,Curitiba,R. Antônio Skrepec,null,575,575.25,48
+"Mar 5, 2022",BR,Curitiba,R. Baltazar Carrasco dos Reis,null,606,600,10
+"Mar 5, 2022",BR,Curitiba,R. Francisco Frischmann,ACCIDENT,749.5952380952381,413.8095238095238,9320
+"Mar 5, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,829,771,58
+"Mar 5, 2022",BR,Curitiba,R. Francisco Claudino Ferreira,null,532,655,8
+"Mar 5, 2022",BR,Curitiba,Av. Vicente Machado,null,630.7692307692307,451.15384615384613,2452
+"Mar 5, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,3401.4242424242425,267.8787878787879,3888
+"Mar 5, 2022",BR,Curitiba,R. Prof. Assis Gonçalves,null,644,889.5,22
+"Mar 5, 2022",BR,Curitiba,Av. República Argentina,null,753,641,28
+"Mar 5, 2022",BR,Pinhais,Av. Camilo di Lellis,null,628,564.5,20
+"Mar 5, 2022",BR,Curitiba,R. Oyapock,null,620,528,22
+"Mar 5, 2022",BR,Curitiba,R. José de Alencar,HAZARD,626,485.23333333333335,3178
+"Mar 5, 2022",BR,Curitiba,Al. Dr. Muricy,null,739,1018.5,204
+"Mar 5, 2022",BR,Curitiba,R. Lamenha Lins,null,960,452.75,110
+"Mar 5, 2022",BR,Curitiba,R. Pres. Beaurepaire Rohan,null,550,650.5,20
+"Mar 5, 2022",BR,Curitiba,R. José de Alencar,null,748.1125,469.88125,12337
+"Mar 5, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,1926.0344827586207,649.4827586206897,2472
+"Mar 5, 2022",BR,Curitiba,R. Cândido Xavier,null,686,880,104
+"Mar 5, 2022",BR,Curitiba,R. Francisco Frischmann,null,727.8571428571429,489.42857142857144,1580
+"Mar 5, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,658,589.625,614
+"Mar 5, 2022",BR,Curitiba,Av. Sete de Setembro,null,1054.3333333333333,695,70
+"Mar 5, 2022",BR,Curitiba,R. Ernesto Durigan,null,747.3333333333334,368.3333333333333,14
+"Mar 5, 2022",BR,Curitiba,Av. Linha Verde,null,874.1875,245.5625,3656
+"Mar 4, 2022",BR,Curitiba,R. Saldanha Marinho,null,717,398.75,176
+"Mar 4, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,853.8333333333334,633,1984
+"Mar 4, 2022",BR,Curitiba,Av. República Argentina,null,2241,1473.5,200
+"Mar 4, 2022",BR,São José dos Pinhais,null,null,566.2,347,100
+"Mar 4, 2022",BR,Curitiba,Av. Sete de Setembro,null,1179.5,398.25,2092
+"Mar 4, 2022",BR,Curitiba,R. Brig. Franco,null,930.2727272727273,315.47727272727275,7484
+"Mar 4, 2022",BR,Curitiba,R. Dr. Carlos Bruno Breithaupt,null,586,395.25,284
+"Mar 4, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6266.36,447.84,26402
+"Mar 4, 2022",BR,Curitiba,R. Carlos de Campos,null,620,1210,6
+"Mar 4, 2022",BR,Curitiba,R. Com. Roseira,null,561,422.7,1278
+"Mar 4, 2022",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,HAZARD,607,186.44444444444446,3296
+"Mar 4, 2022",BR,Curitiba,R. Rio Tietê,null,549,674,72
+"Mar 4, 2022",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,ACCIDENT,683.2,306.26666666666665,2028
+"Mar 4, 2022",BR,São José dos Pinhais,R. Pe. Bittencourt,null,582,459.6363636363636,66
+"Mar 4, 2022",BR,Curitiba,R. Bom Jesus de Iguape,null,890,844,18
+"Mar 4, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,HAZARD,884,1615.6666666666667,218
+"Mar 4, 2022",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,879.5,347.4,358
+"Mar 4, 2022",BR,Curitiba,R. Engenheiros Rebouças,null,795.4722222222222,330.05555555555554,9140
+"Mar 4, 2022",BR,Curitiba,Av. Dr. Dário Lopes dos Santos,null,607,363.0267857142857,6135
+"Mar 4, 2022",BR,Curitiba,R. Mariano Torres - Pista Dir.,HAZARD,684,330.7142857142857,892
+"Mar 4, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5045.982142857143,807.5267857142857,14598
+"Mar 4, 2022",BR,Curitiba,R. José Zgoda,null,595,483.44444444444446,644
+"Mar 4, 2022",BR,Curitiba,R. José de Alencar,null,1064.5652173913043,410.6521739130435,5933
+"Mar 4, 2022",BR,Curitiba,R. Iapó,null,917.4444444444445,460,5294
+"Mar 4, 2022",BR,Colombo,Av. Abel Scuissiato,null,521,1181.076923076923,800
+"Mar 4, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,842.8983050847457,1129.0635593220338,7120
+"Mar 4, 2022",BR,Curitiba,Marg. BR-277,null,840,494,54
+"Mar 4, 2022",BR,Curitiba,Al. Dr. Muricy,null,867.5,1439.25,580
+"Mar 4, 2022",BR,Curitiba,PR-418 Contorno Norte,null,2971.28125,401.515625,2888
+"Mar 4, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,2553.1176470588234,620.1764705882352,13905
+"Mar 4, 2022",BR,Curitiba,Av. Anita Garibaldi,null,1019.2666666666667,472.4,494
+"Mar 4, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,770,475.6666666666667,12
+"Mar 4, 2022",BR,Curitiba,R. José de Alencar,ACCIDENT,1985,817.3333333333334,1896
+"Mar 4, 2022",BR,Curitiba,R. Raul Pompéia,null,779.5,470.8333333333333,366
+"Mar 4, 2022",BR,Pinhais,R. Corbélia,null,863,335,30
+"Mar 4, 2022",BR,São José dos Pinhais,R. Alcídio Viana,null,619,814,4
+"Mar 4, 2022",BR,Curitiba,BR-376 Contorno Sul,null,6300.102564102564,683.6923076923077,14472
+"Mar 4, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,517,436.5,32
+"Mar 4, 2022",BR,Colombo,BR-116 S Rod. Régis Bittencourt,ACCIDENT,1009.7142857142857,315.92857142857144,1640
+"Mar 4, 2022",BR,Curitiba,R. Plácido de Castro,null,750.4166666666666,366.8333333333333,2056
+"Mar 4, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,4670.951724137931,2578.5724137931034,10032
+"Mar 4, 2022",BR,Curitiba,Av. Linha Verde,null,2990.4693396226417,593.0896226415094,66730
+"Mar 4, 2022",BR,Pinhais,Av. Camilo di Lellis,null,698.6666666666666,1460.6666666666667,72
+"Mar 4, 2022",BR,Curitiba,R. Brig. Franco,HAZARD,1443.6666666666667,680,2078
+"Mar 4, 2022",BR,Curitiba,null,null,939.8852459016393,637.9016393442623,3722
+"Mar 4, 2022",BR,Curitiba,Av. Linha Verde,ACCIDENT,868.6363636363636,201.54545454545453,1996
+"Mar 4, 2022",BR,Pinhais,R. Rio Solimões,null,607,551.5,8
+"Mar 4, 2022",BR,Curitiba,Marg. BR-116,null,946.9230769230769,277.2692307692308,3506
+"Mar 4, 2022",BR,Curitiba,R. Dr. Reynaldo Machado,null,821.6111111111111,919.7222222222222,3222
+"Mar 4, 2022",BR,Curitiba,R. Mateus Leme,null,695.6521739130435,707.3913043478261,638
+"Mar 4, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,956.9152542372881,537.2627118644068,9391
+"Mar 4, 2022",BR,Curitiba,R. Ver. Constante Pinto,null,544,459,16
+"Mar 4, 2022",BR,Colombo,BR-116 S Rod. Régis Bittencourt,null,704.5,116.33333333333333,888
+"Mar 4, 2022",BR,Curitiba,R. Alm. Gonçalves,null,624,1465,22
+"Mar 4, 2022",BR,Curitiba,Av. Mal. Mascarenhas de Moraes,null,994.7142857142857,683.1428571428571,244
+"Mar 4, 2022",BR,Curitiba,R. Francisco Alves Guimarães,null,538,561.6,472
+"Mar 4, 2022",BR,Curitiba,null,ACCIDENT,1126,220.9090909090909,1463
+"Mar 4, 2022",BR,Pinhais,Av. Maringá,null,743.6551724137931,519.3793103448276,918
+"Mar 4, 2022",BR,Curitiba,R. João Negrão,null,691.4444444444445,307.3333333333333,2106
+"Mar 4, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1084.5859375,1623.65234375,5971
+"Mar 4, 2022",BR,Curitiba,R. Imaculada Conceição,null,711.6857142857143,756.1142857142858,2560
+"Mar 4, 2022",BR,Curitiba,Av. Pres. Affonso Camargo,null,1090.2285714285715,264.20952380952383,13053
+"Mar 4, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4842.334507042254,902.2288732394367,21821
+"Mar 4, 2022",BR,Pinhais,Est. da Graciosa,null,729.0769230769231,818.5128205128206,2052
+"Mar 4, 2022",BR,Curitiba,Av. Paraná,null,507,811,22
+"Mar 4, 2022",BR,Curitiba,R. Bispo Dom José,null,817.2,429.5,2188
+"Mar 4, 2022",BR,Curitiba,R. Dr. Bley Zornig,null,503,442.6666666666667,54
+"Mar 4, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1471.090909090909,366.74545454545455,589
+"Mar 4, 2022",BR,Curitiba,R. João Chede,null,818.4766355140187,792.6635514018692,2227
+"Mar 4, 2022",BR,Curitiba,Av. Victor Ferreira do Amaral,null,1386.857142857143,330.3809523809524,3598
+"Mar 4, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,2734.5,693,552
+"Mar 4, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,1112.4761904761904,743.8809523809524,4577
+"Mar 3, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,1606,472,244
+"Mar 3, 2022",BR,Curitiba,Av. Comendador Franco,null,1803.8153846153846,414.84615384615387,23884
+"Mar 3, 2022",BR,Curitiba,Av. República Argentina,null,568.7,566.1,292
+"Mar 3, 2022",BR,Curitiba,Av. Silva Jardim,ACCIDENT,763.875,474.1875,2194
+"Mar 3, 2022",BR,Curitiba,R. Iapó,null,1049,696.4193548387096,10120
+"Mar 3, 2022",BR,Curitiba,Av. Linha Verde,null,2808.344827586207,570.7816091954023,36668
+"Mar 3, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,1732.5064935064936,595.5151515151515,1365
+"Mar 3, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,965.0909090909091,1014.0795454545455,2467
+"Mar 3, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,651.3333333333334,325.77777777777777,3544
+"Mar 3, 2022",BR,Curitiba,R. Dr. Reynaldo Machado,null,877.9130434782609,971.6521739130435,5510
+"Mar 3, 2022",BR,Curitiba,R. Prof. Algacyr Munhoz Mader,null,701.8461538461538,278.15384615384613,440
+"Mar 3, 2022",BR,Curitiba,Av. Vicente Machado,null,676.5882352941177,435.4117647058824,3332
+"Mar 3, 2022",BR,Curitiba,R. Com. Roseira,null,561,510.75,1616
+"Mar 3, 2022",BR,Curitiba,null,null,1126,518,56
+"Mar 3, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,null,750,503.57142857142856,1774
+"Mar 3, 2022",BR,Curitiba,R. Imaculada Conceição,null,888.1,862.75,1932
+"Mar 3, 2022",BR,Curitiba,R. João Negrão,null,639,366.8333333333333,1146
+"Mar 3, 2022",BR,Curitiba,R. João Parolin,null,815.6,388.3,2414
+"Mar 3, 2022",BR,Curitiba,R. do Herval,null,538,446.75,102
+"Mar 3, 2022",BR,Curitiba,R. Wiegando Olsen,null,547,1743.5,32
+"Mar 3, 2022",BR,São José dos Pinhais,R. Quinze de Novembro,null,656,749.5,44
+"Mar 3, 2022",BR,Curitiba,BR-277 Rod. do Café Gov. Ney Braga,null,5430.214285714285,482.82142857142856,5706
+"Mar 3, 2022",BR,Colombo,Av. Abel Scuissiato,null,521,436.8333333333333,104
+"Mar 3, 2022",BR,Curitiba,Av. Silva Jardim,null,761,547,528
+"Mar 3, 2022",BR,Curitiba,Av. Sen. Salgado Filho,null,1470.5714285714287,1280.1224489795918,12470
+"Mar 3, 2022",BR,Curitiba,BR-116 N Rod. Régis Bittencourt,null,5093,1185.6,1876
+"Mar 3, 2022",BR,Curitiba,R. Dep. Heitor Alencar Furtado,null,582,474.5,50
+"Mar 3, 2022",BR,Curitiba,R. Anne Frank,null,823,825.6666666666666,674
+"Mar 3, 2022",BR,Curitiba,R. Raul Pompéia,null,755.5,505.1666666666667,300
+"Mar 3, 2022",BR,Curitiba,R. Ubaldino do Amaral,null,1134.6153846153845,400.6923076923077,4312
+"Mar 3, 2022",BR,Curitiba,R. João Bettega,null,510,388,284
+"Mar 3, 2022",BR,Curitiba,R. Alberico Flores Bueno,null,882.8181818181819,502.8181818181818,1240
+"Mar 3, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1134.1492537313434,1116.8805970149253,1970
+"Mar 3, 2022",BR,Curitiba,R. Chile,null,1503,423.0769230769231,4032
+"Mar 3, 2022",BR,Curitiba,Av. Visc. de Guarapuava - Pista Esq.,ACCIDENT,1286.9285714285713,911.1428571428571,4164
+"Mar 3, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,1130,489,6
+"Mar 3, 2022",BR,Curitiba,R. Imaculada Conceição,HAZARD,844.75,646.7,1908
+"Mar 3, 2022",BR,Curitiba,R. Mateus Leme,null,771,590.3333333333334,292
+"Mar 3, 2022",BR,Curitiba,R. Pe. Anchieta,null,519,823,24
+"Mar 3, 2022",BR,Curitiba,R. André Ferreira Barbosa,null,762.15,294.55,2590
+"Mar 3, 2022",BR,Curitiba,Av. Mal. Floriano Peixoto,null,1351.1538461538462,511.2307692307692,2862
+"Mar 3, 2022",BR,Curitiba,R. Dr. Aluízio França,null,533,451,22
+"Mar 3, 2022",BR,Pinhais,R. Rio Tocantins,null,1040,515,4
+"Mar 3, 2022",BR,Curitiba,R. Solimões,null,672,489,8
+"Mar 3, 2022",BR,Curitiba,Av. Sete de Setembro,null,857.6,400.8,182
+"Mar 3, 2022",BR,Curitiba,R. Gov. Agamenon Magalhães,null,503,348.7647058823529,286
+"Mar 2, 2022",BR,Curitiba,R. Alferes Poli,null,527,618.6,148
+"Mar 2, 2022",BR,Curitiba,BR-376 Contorno Sul,null,10716,943.75,4974
+"Mar 2, 2022",BR,Curitiba,R. Izaac Ferreira da Cruz,null,887,499.5,68
+"Mar 2, 2022",BR,Curitiba,R. Raul Pompéia,null,516,369.1666666666667,238
+"Mar 2, 2022",BR,Curitiba,R. Barão do Rio Branco,null,577,680.2,116
+"Mar 2, 2022",BR,Pinhais,null,null,531,532.9,91
+"Mar 2, 2022",BR,Curitiba,BR-116 Contorno Leste,null,5578.684848484849,378.6,73081
+"Mar 2, 2022",BR,Curitiba,Av. Linha Verde,null,2314.133333333333,249.13333333333333,4821
+"Mar 2, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,1513,97,270
+"Mar 2, 2022",BR,Curitiba,R. Pe. Germano Mayer,null,571,1038.5,32
+"Mar 2, 2022",BR,Curitiba,R. Paulo Setúbal,null,536,525.25,46
+"Mar 2, 2022",BR,Curitiba,R. Mariano Torres - Pista Dir.,HAZARD,580.4,388.4,908
+"Mar 2, 2022",BR,Curitiba,Al. Ecológica Burle Marx,null,535,456,36
+"Mar 2, 2022",BR,Curitiba,R. Frei Henrique de Coimbra,null,519,707,12
+"Mar 2, 2022",BR,Curitiba,Av. Vicente Machado,HAZARD,657.9,416.7,1400
+"Mar 2, 2022",BR,Curitiba,R. Cândido Xavier,null,798.6666666666666,877.6666666666666,482
+"Mar 2, 2022",BR,Curitiba,R. Cel. Ottoni Maciel,null,701,894,12
+"Mar 2, 2022",BR,São José dos Pinhais,R. Pedro Karwowski,null,653,710,10
+"Mar 2, 2022",BR,Curitiba,R. Jeremias Maciel Perretto,null,591,368.5,28
+"Mar 2, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,4869.210526315789,372.2631578947368,7718
+"Mar 2, 2022",BR,Curitiba,Av. Comendador Franco,null,891.2142857142857,358.14285714285717,2276
+"Mar 2, 2022",BR,Curitiba,Av. Vicente Machado,null,646.7058823529412,549.1176470588235,2814
+"Mar 2, 2022",BR,Curitiba,R. Mariano Torres - Pista Dir.,null,714.1724137931035,320,1364
+"Mar 2, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,2531.5,1033.25,3134
+"Mar 2, 2022",BR,Campina Grande do Sul,PR-506 Rod. do Caqui,null,666,493.5,24
+"Mar 2, 2022",BR,São José dos Pinhais,null,null,547,1095,20
+"Mar 2, 2022",BR,Curitiba,R. Dr. Alexandre Gutierrez,null,533,447,32
+"Mar 2, 2022",BR,Curitiba,V. Exclusiva de Ônibus,null,1581.375,388.75,30
+"Mar 2, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,4416.560606060606,399.27272727272725,22899
+"Mar 2, 2022",BR,Curitiba,R. Rio de Janeiro,null,583,591.25,40
+"Mar 2, 2022",BR,Curitiba,R. Lodovico Kaminski,null,1015.5555555555555,798.3333333333334,46
+"Mar 2, 2022",BR,Almirante Tamandaré,PR-092 Rod. dos Minérios,null,2672.4,278.5,166
+"Mar 1, 2022",BR,Curitiba,Av. Linha Verde,null,2387.725490196078,643.0980392156863,9744
+"Mar 1, 2022",BR,Curitiba,R. Miguel Caluf,null,541,571,6
+"Mar 1, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,ACCIDENT,2942,649.6666666666666,1040
+"Mar 1, 2022",BR,Curitiba,R. Pe. Anchieta,null,519,351.5,20
+"Mar 1, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,null,3337.8,238.52307692307693,13051
+"Mar 1, 2022",BR,Curitiba,R. Ângelo Marqueto,null,1055,442.7,368
+"Mar 1, 2022",BR,Curitiba,R. Bom Jesus de Iguape,null,1238.8333333333333,411.5,34
+"Mar 1, 2022",BR,Curitiba,BR-476 Est. da Ribeira,null,762.89898989899,1093.8484848484848,2162
+"Mar 1, 2022",BR,Curitiba,R. Manoel Eufrásio,null,683,443,12
+"Mar 1, 2022",BR,Curitiba,Av. República Argentina,null,686,852,32
+"Mar 1, 2022",BR,São José dos Pinhais,null,null,651.7,372.8,184
+"Mar 1, 2022",BR,Curitiba,BR-376 Contorno Sul,ACCIDENT,1821,835.6666666666666,1034
+"Mar 1, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,null,5060.943548387097,421.4516129032258,23090
+"Mar 1, 2022",BR,Curitiba,BR-116 S Rod. Régis Bittencourt,null,1078.3164556962026,1414.2848101265822,3572
+"Mar 1, 2022",BR,São José dos Pinhais,BR-116 Contorno Leste,null,5847.246153846154,442.4871794871795,44119
+"Mar 1, 2022",BR,Curitiba,Av. Linha Verde,HAZARD,1781.764705882353,508.6470588235294,1518
+"Mar 1, 2022",BR,São José dos Pinhais,BR-277 Rod. do Café Gov. Ney Braga,ACCIDENT,3722,665,302
+"Mar 1, 2022",BR,Curitiba,BR-116 Contorno Leste,null,6497.666666666667,460.7450980392157,47142
+"Mar 1, 2022",BR,Curitiba,BR-376 Contorno Sul,null,3154.923076923077,353.02884615384613,19367
+"Mar 1, 2022",BR,null,BR-277 N Rod. do Café Gov. Ney Braga,ACCIDENT,3244,612.3333333333334,583
+"Mar 1, 2022",BR,Curitiba,R. Trajano Reis,null,603,529,74
+"Mar 1, 2022",BR,Curitiba,Marg. Av. Linha Verde,null,935,538,60
+"Mar 1, 2022",BR,Curitiba,R. Guilherme Ihlenfeldt,null,593,553,28
