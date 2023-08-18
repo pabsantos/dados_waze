@@ -1,0 +1,66 @@
+---
+title: "Explorando os dados do Waze para Curitiba"
+format: html
+execute:
+  warning: false
+  message: false
+---
+
+Setup:
+
+```{r}
+#| message: false
+#| warning: false
+
+
+library(tidyverse)
+library(sf)
+library(tmap)
+library(obsplot)
+library(plotly)
+```
+
+## Análise de "accidents"
+
+```{r}
+load(here::here("data/accidents.rda"))
+```
+
+Transformando em um arquivo espacial
+
+```{r}
+accidents_sf <- accidents |>
+  st_as_sf(wkt = "Location")
+```
+
+Plotando apenas uma parte da base para ver os acidentes
+
+```{r}
+#| message: false
+#| warning: false
+
+accidents_slice <- accidents_sf |>
+  slice_sample(prop = 0.01)
+
+tmap_mode("view")
+
+tm_shape(accidents_slice) + 
+  tm_dots(size = 0.06, alpha = 0.7)
+```
+
+Fazendo uma serie temporal dos acidentes
+
+```{r}
+theme_set(theme_obs())
+
+
+plot <- accidents |> 
+  mutate(Date = mdy(Date), mes = floor_date(Date, "month")) |> 
+  count(mes) |> 
+  ggplot(aes(x = mes, y = n)) +
+  geom_col(fill = obs_palette$blue) +
+  scale_y_continuous(limits = c(0, NA))
+  
+ggplotly(plot)
+```
+
