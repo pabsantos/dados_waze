@@ -18,6 +18,7 @@ library(sf)
 library(tmap)
 library(obsplot)
 library(plotly)
+library(gt)
 ```
 
 ## Análise de "accidents"
@@ -45,7 +46,7 @@ accidents_slice <- accidents_sf |>
 tmap_mode("view")
 
 tm_shape(accidents_slice) + 
-  tm_dots(size = 0.06, alpha = 0.7)
+  tm_dots(size = 0.05, alpha = 0.7, col = obs_palette$blue)
 ```
 
 Fazendo uma serie temporal dos acidentes
@@ -62,5 +63,48 @@ plot <- accidents |>
   scale_y_continuous(limits = c(0, NA))
   
 ggplotly(plot)
+```
+
+## Análise de "alerts"
+
+```{r}
+load(here::here("data/alerts.rda"))
+```
+
+Visualisando os alertas marcados como `JAM`:
+
+```{r}
+#| message: false
+#| warning: false
+
+alerts_sf <- alerts |> st_as_sf(wkt = "Location")
+
+alerts_jam_sample <- alerts_sf |> 
+  filter(Type == "JAM") |> 
+  slice_sample(prop = 0.01)
+
+tm_shape(alerts_jam_sample) + 
+  tm_dots(size = 0.05, alpha = 0.7, col = obs_palette$red)
+```
+
+## Análise de "irregularities"
+
+```{r}
+load(here::here("data/irregularities.rda"))
+
+irr_grouped <- irregularities |> 
+  janitor::clean_names() |> 
+  group_by(street) |> 
+  summarise(
+    avg_length = mean(avg_length_meters),
+    avg_delay = mean(avg_delay_seconds),
+    avg_impacted_wazers = mean(impacted_wazers)
+  )
+
+irr_grouped |> 
+  select(street, avg_length, avg_delay, avg_impacted_wazers) |> 
+  gt() |> 
+  opt_interactive()
+
 ```
 
